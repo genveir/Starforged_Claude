@@ -1,5 +1,5 @@
-This is the first session.
+Session 2 opens with Gerald in the shuttle bay, ready to depart. Graff has said his piece. The expedition to reach the settlement undetected is underway.
 
-We are starting at the moment Gerald swears his cordon vow at Raiman's Folly. Begin with the words of the vow.
+Begin by briefly re-establishing the scene and prompt the player for the first Undertake an Expedition roll. The player was deciding between +edge (piloting, running silent) or +wits (careful planning, reading drone coverage patterns). No roll has been made yet.
 
-End the opening message with Graff saying "The ship logged it. What do you need from me and the ship?"
+Refer to the files starting with SessionLog for narrative history and GameState.md for current tactical situation.

@@ -42,7 +42,7 @@ The raider vessel is similar in overall size to the Steady Return but configured
 
 ## The Settlement's Defensive Situation
 
-The settlement's point defence installations were the first things destroyed on the raider's arrival. Two guided missiles, two installations gone. This was deliberate and competent. It removed the only weapons capable of threatening the raider from orbit and simultaneously demonstrated to the settlers exactly what resistance would cost them.
+The settlement's point defence installations were the first things destroyed on the raider's arrival. This was deliberate and competent. It removed the only weapons capable of threatening the raider from orbit and simultaneously demonstrated to the settlers exactly what resistance would cost them.
 
 The settlement is not defenceless in absolute terms. A high-metallicity mining operation has cutting equipment, extraction explosives, heavy machinery, and sealed environments with chokepoints. The settlers know every tunnel and access shaft. The raiders have been there long enough to get comfortable but not long enough to know the ground as well as the people who live on it. These are asymmetries that could be exploited by someone who knew how to organise frightened people — which Gerald Finch does.
 
@@ -54,9 +54,13 @@ The settlement also has ore-launching infrastructure of some kind, given its min
 
 The Steady Return is holding position in the system at a distance that keeps it outside reliable missile range — approximately five thousand kilometres or more from the raider.
 
-The ship cannot approach without entering missile range. It cannot resupply the settlement from current distance. It cannot leave without abandoning the settlers to slow attrition.
+The ship cannot safely approach for two reasons. First, the raider carries two guided missiles — one or two hits would cripple or destroy the Steady Return, and its ward launchers offer no reliable counter. Second, even if the missiles were neutralised, the raider is a purpose-built combat vessel: more heavily armoured and more heavily armed at close range than a lightly armed courier. A direct engagement without significant prior damage to the raider would still be a losing fight. 
 
-The moon's small size — 1700 kilometre diameter — and the large speed advantage of the ship means the Steady Return could take up a position over the horizon from the raider, roughly 800 to 900 kilometres surface-distance away, effectively out of line of sight and therefore outside weapons range entirely. From such a position it could not be targeted but could also not directly support any action on the surface. The raider could launch missiles as soon as they are visible above the horizon though, so they would need to be alert at all times and maintain some way to keep eyes on the ship. This position would allow Graff to manoeuvre and threaten without committing to an engagement — potentially creating windows for other action.
+They cannot resupply the settlement from the current distance. They cannot leave without abandoning the settlers to slow attrition.
+
+The Steady Return has taken up a position in orbit on the far side of the moon from the raider — out of line of sight and outside weapons range. From this position the ship cannot be targeted but cannot directly support any action on the surface. The raider could launch missiles as soon as the Steady Return becomes visible above the horizon, so Graff is maintaining continuous sensor watch via relay drones and is ready to manoeuvre at short notice. This position allows Graff to threaten without committing to an engagement, potentially creating windows for action on the surface.
+
+The Steady Return has deployed relay drones positioned high on the far side of the moon to maintain communications with Gerald during the surface operation. The raider is assumed to have relay drones deployed covering obvious approaches to the settlement. The mining survey side of the moon is a likely blind spot in that coverage and is Gerald's planned approach vector.
 
 ---
 
