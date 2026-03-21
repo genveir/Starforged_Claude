@@ -10,6 +10,8 @@ These are questions that a client should be able to answer correctly to run a ne
 - What resources does the settlement have that could potentially be turned against the raider?
 - What is the time pressure Gerald is working against?
 - What are the raiders currently doing that suggests the occupation is entering a new phase?
+- What is the Steady Return's armament and why is the absence of missiles significant?
+- What relay drone arrangement is in place and what does it enable?
 
 **Gerald specifically**
 - What is Gerald's cordon vow and what rank is it?
@@ -17,6 +19,7 @@ These are questions that a client should be able to answer correctly to run a ne
 - Who was Jason Bormann and what is his significance to Gerald?
 - Where is Gerald at the start of the session and who is he with?
 - What is the state of Gerald's condition meters?
+- What is the current status of Gerald's shuttle?
 
 **The settlement**
 - What is the origin of the name Raiman's Folly?
@@ -28,6 +31,8 @@ These are questions that a client should be able to answer correctly to run a ne
 - Why might the raiders have kept the chief surveyor alive?
 - What is the current state of the survey arm's findings?
 - Who is the software specialist and what are the raiders using him for?
+- Where exactly is the chief surveyor being held?
+- Who guided Gerald to Carl Inswich and what is that person's current status?
 
 **The Forge generally**
 - Were worlds in the Forge visited by explorers from the origin worlds before the exodus?
