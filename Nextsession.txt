@@ -1,5 +1,18 @@
-Session 2 opens with Gerald in the shuttle bay, ready to depart. Graff has said his piece. The expedition to reach the settlement undetected is underway.
+Session 3 opens with Gerald and Carl Inswich face to face in a back room of the settlement's industrial infrastructure. The reunion has just begun — no words exchanged yet beyond Carl saying Gerald's name.
 
-Begin by briefly re-establishing the scene and prompt the player for the first Undertake an Expedition roll. The player was deciding between +edge (piloting, running silent) or +wits (careful planning, reading drone coverage patterns). No roll has been made yet.
+Key things Carl knows that Gerald needs to find out:
+- The full state of the settlement — morale, who is where, who the raiders are watching most closely
+- The supply situation in precise terms — Carl knows to the day how long they have
+- What the raiders are doing with the software specialist and Hamzi — what they are trying to access and why
+- Who among the settlers has the spine to organise resistance
 
-Refer to the files starting with SessionLog for narrative history and GameState.md for current tactical situation.
+Gerald's current condition meters:
+- Health: 5
+- Spirit: 5
+- Supply: 4
+- Momentum: 4
+
+Vow progress: 1/10
+Expedition to reach safety with allies: complete (strong hit).
+
+Refer to SessionLog_1.md and SessionLog_2.md for narrative history. Refer to GameState.md for current tactical situation.

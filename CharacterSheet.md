@@ -25,15 +25,15 @@
 |---|---|
 | Health | 5 |
 | Spirit | 5 |
-| Supply | 5 |
-| Momentum | 2 (reset) / 10 (max) |
+| Supply | 4 |
+| Momentum | Current: 4 / Reset: 3 / Max: 10 |
 
 ---
 
 ## Vow
 **"I swear by the cordon that keeps us safe that I will free Raiman's Folly from these raiders and see its people safe."**
 Rank: Formidable
-Progress: 0/10
+Progress: 1/10
 
 ---
 
@@ -49,6 +49,7 @@ Progress: 0/10
 **Ability 3 (locked):** When you Withstand Damage, you may roll +heart. If you do, Endure Stress (-1) on a weak hit or miss.
 
 Note: A starship may be battered or cursed
+
 ---
 
 ### VETERAN (Path)
@@ -73,6 +74,7 @@ Note: A starship may be battered or cursed
 **Ability 3 (locked):** Your shuttle is sealed against high pressure environments, can travel underwater, and is more resistant to damage; when you Withstand Damage, add +1.
 
 Note: A shuttle may be battered
+
 ---
 
 ## Impacts
@@ -83,7 +85,7 @@ None
 ## Legacy Tracks
 - **Quests:** 0
 - **Bonds:** 0
-- **Discoveries:** 0
+- **Discoveries:** 2 ticks
 
 ---
 

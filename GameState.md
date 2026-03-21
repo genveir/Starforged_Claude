@@ -18,10 +18,11 @@ The moon's high metallicity creates sensor interference close to the surface, pa
 
 When the Steady Return arrived in system it found a ship in orbit above the moon that had not been there on previous visits. The ship runs no transponder. Several buildings on the outskirts of the settlement were smoking craters.
 
-After some time holding position, a message arrived from the surface. A settler known to the crew — someone Gerald has shared a table with more than once — was whispering, clearly terrified. The message established the following:
+After some time holding position, a message arrived from the surface. Hamzi — the settlement's communications officer — was whispering, clearly terrified, tapping a line the raiders couldn't know about because he had laid it himself. The message established the following:
 
 - Raiders arrived without warning and attacked the settlement.
-- The settlement leader was killed, apparently deliberately, to break organised resistance immediately.
+- Marshal Jason Bormann was shot dead in the first minutes, apparently deliberately, to break organised resistance immediately.
+- The chief surveyor was imprisoned in Bormann's own jail.
 - The raiders have established themselves as self-appointed rulers of the settlement, taking what they want and consuming the settlement's food and water supplies.
 - At the current rate of consumption, the settlement will be without the means to sustain itself within weeks.
 - The settlers are alive but controlled, afraid, and without meaningful capacity to resist on their own.
@@ -41,6 +42,8 @@ The raider vessel is similar in overall size to the Steady Return but configured
 **Weapons range context:** At 500 kilometres kinetic shots are mostly dodgeable. At 300 kilometres most kinetic shots connect. Laser harassment is possible at longer ranges but degrades with distance. The two remaining missiles are effective at any range the raider can target and cannot be reliably countered by the Steady Return's ward launchers.
 
 **Assessment:** The raider is not a sophisticated military vessel. It is an expensive, well-equipped tool for intimidation and close-range violence. Someone outfitted these people. A ship this well-armed and well-configured costs real resources to maintain. Raiders are a cheap and deniable way to soften up a valuable settlement before moving in properly — and Raiman's Folly's mining prospects are exactly the kind of find that would interest a faction with the means to exploit them. Gerald does not know this yet. It is a reasonable inference from available evidence.
+
+**Recent developments:** The raiders have become visibly excited about something in recent days. They have taken the settlement's software specialist to the jail and ordered Hamzi to establish a connection between the specialist and the main mining systems. Whatever they are looking for, they are now actively working to extract it. This suggests the occupation may be entering a new phase — moving from control toward active exploitation of the settlement's survey findings.
 
 ---
 
@@ -62,13 +65,21 @@ The settlement also has ore-launching infrastructure of some kind, given its min
 
 **Jason Bormann** — former marshal and head of the settlement's space defence array. Gerald's closest contact at Raiman's Folly and the person he would consider a genuine friend. Shot by the raiders on arrival. Dead. When Hamzi's call reached the Steady Return, he named Bormann specifically. Gerald swore the cordon vow knowing Bormann was already gone.
 
-**Hamzi** (last name unknown by Gerald) — communications officer and sensor expert. Built and maintains the settlement's communications infrastructure. Laid the cables, wrote the software, knows every line in the system. Made the covert call to the Steady Return without being detected. Currently the settlement's most valuable covert asset. Gerald knows him as a friendly professional acquaintance — first name basis, good colleagues, not close friends.
+**Hamzi** (last name unknown by Gerald) — communications officer and sensor expert. Built and maintains the settlement's communications infrastructure. Laid the cables, wrote the software, knows every line in the system. Made the covert call to the Steady Return without being detected. Currently conscripted by the raiders into establishing a connection between the software specialist and the main mining systems. His situation is more dangerous than when he made the call. Gerald's most valuable covert asset, now under direct raider supervision.
 
-**Carl Inswich** — resupply manager. Responsible for managing incoming supplies against the settlement's consumption and coordinating with courier ships. Gerald knows him well through two years of cargo runs and manifests. Inswich knows to the day how long the settlement's supplies will last.
+**Carl Inswich** — resupply manager. Responsible for managing incoming supplies against the settlement's consumption and coordinating with courier ships. Gerald knows him well through two years of cargo runs and manifests. Inswich knows to the day how long the settlement's supplies will last. Gerald's current location — he reached Inswich at the end of session 2.
 
 **The chief surveyor** — name not yet established. Led the settlement council alongside Bormann. Alive and imprisoned by the raiders. The fact that they were jailed rather than shot is significant. They may know something the raiders need, possibly relating to the survey findings.
 
-**Other service personnel present but not yet characterised:** pub owner, notary, hardware supplier, two doctors, two nurses, software expert, maintenance and repair staff.
+**The software specialist** — name not yet established. Taken to the jail by the raiders and connected to the main mining systems via Hamzi. The raiders need something from her.
+
+**Other service personnel present but not yet characterised:** pub owner, notary, hardware supplier, two doctors, two nurses, maintenance and repair staff.
+
+---
+
+## Gerald's Current Position
+
+Gerald Finch is inside the settlement, having infiltrated via a maintenance hatch in the ore processing infrastructure. He is currently with Carl Inswich. The unnamed mining foreman who guided him there has returned to his duties. Gerald's shuttle is parked behind a ridge approximately one kilometer from the settlement outskirts on the mining survey side of the moon.
 
 ---
 
@@ -76,13 +87,13 @@ The settlement also has ore-launching infrastructure of some kind, given its min
 
 The Steady Return is holding position in the system at a distance that keeps it outside reliable missile range — approximately five thousand kilometres or more from the raider.
 
-The ship cannot safely approach for two reasons. First, the raider carries two guided missiles — one or two hits would cripple or destroy the Steady Return, and its ward launchers offer no reliable counter. Second, even if the missiles were neutralised, the raider is a purpose-built combat vessel: more heavily armoured and more heavily armed at close range than a lightly armed courier. A direct engagement without significant prior damage to the raider would still be a losing fight. 
+The ship cannot safely approach for two reasons. First, the raider carries two guided missiles — one or two hits would cripple or destroy the Steady Return, and its ward launchers offer no reliable counter. Second, even if the missiles were neutralised, the raider is a purpose-built combat vessel: more heavily armoured and more heavily armed at close range than a lightly armed courier. A direct engagement without significant prior damage to the raider would still be a losing fight.
 
 They cannot resupply the settlement from the current distance. They cannot leave without abandoning the settlers to slow attrition.
 
 The Steady Return has taken up a position in orbit on the far side of the moon from the raider — out of line of sight and outside weapons range. From this position the ship cannot be targeted but cannot directly support any action on the surface. The raider could launch missiles as soon as the Steady Return becomes visible above the horizon, so Graff is maintaining continuous sensor watch via relay drones and is ready to manoeuvre at short notice. This position allows Graff to threaten without committing to an engagement, potentially creating windows for action on the surface.
 
-The Steady Return has deployed relay drones positioned high on the far side of the moon to maintain communications with Gerald during the surface operation. The raider is assumed to have relay drones deployed covering obvious approaches to the settlement. The mining survey side of the moon is a likely blind spot in that coverage and is Gerald's planned approach vector.
+The Steady Return has deployed relay drones positioned high on the far side of the moon to maintain communications with Gerald during the surface operation. The raider is assumed to have relay drones deployed covering obvious approaches to the settlement. The mining survey side of the moon is a likely blind spot in that coverage and was Gerald's approach vector.
 
 ---
 
@@ -92,7 +103,7 @@ Standing on the bridge of the Steady Return with Captain Graff at his shoulder a
 
 *"I swear by the cordon that keeps us safe that I will free Raiman's Folly from these raiders and see its people safe."*
 
-The ship logged it. The vow is Formidable in Starforged terms. Progress: 0/10.
+The ship logged it. The vow is Formidable in Starforged terms. Progress: 1/10.
 
 ---
 
@@ -102,5 +113,7 @@ The ship logged it. The vow is Formidable in Starforged terms. Progress: 0/10.
 - What exactly does the settlement have that could be turned against the raider? Extraction explosives, heavy machinery, and ore-launching infrastructure are all possibilities. None are confirmed.
 - Who sent the raiders and why? The investment in a ship this capable points to a faction with real resources and a specific interest in Raiman's Folly's mining prospects. This is not a random raid.
 - Can the raider's two remaining missiles be neutralised, exhausted, or bypassed? This is the key to unlocking the Steady Return's ability to close and support.
-- Why are the raiders keeping the chief surveyor alive rather than killing them as they did Bormann?
-- What did the survey arm find that made the backers cautiously optimistic? The settlement has not yet struck it rich but active surveying continues. Whatever they found may be connected to why the raiders are here.
+- Why are the raiders keeping the chief surveyor and software specialist alive rather than killing them?
+- What did the survey arm find that made the backers cautiously optimistic, and is it connected to why the raiders are here?
+- What are the raiders trying to extract from the mining systems via the software specialist and Hamzi?
+- How much time does the settlement have before supplies run out? Carl Inswich knows.

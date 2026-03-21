@@ -9,50 +9,37 @@ These are questions that a client should be able to answer correctly to run a ne
 - What is the estimated crew complement of the raider?
 - What resources does the settlement have that could potentially be turned against the raider?
 - What is the time pressure Gerald is working against?
-
-**Tactical details**
-- At what range do most kinetic shots connect?
-- Why is the safe holding distance for a missile-threatened ship measured in thousands of kilometres rather than hundreds?
-- What are ward charges and what can't they defend against?
+- What are the raiders currently doing that suggests the occupation is entering a new phase?
 
 **Gerald specifically**
-- What move and stat would be used for the first expedition roll, and what are the two options the player was considering?
 - What is Gerald's cordon vow and what rank is it?
 - What is Gerald's momentum reset when in a fight?
-- What two careers did Gerald have before joining the Steady Return, and how are they relevant to his current situation?
-- Why did Gerald leave the planetary navy?
 - Who was Jason Bormann and what is his significance to Gerald?
+- Where is Gerald at the start of the session and who is he with?
+- What is the state of Gerald's condition meters?
 
 **The settlement**
 - What is the origin of the name Raiman's Folly?
 - What is the settlement's approximate population and how is it divided?
 - Why is the survey arm still large?
-- Who is Hamzi and why is he valuable?
-- Who is Carl Inswich?
+- Who is Hamzi, why is he valuable, and what is his current situation?
+- Who is Carl Inswich and why is he significant at the start of session 3?
 - What did the raiders do to the settlement's leadership on arrival?
 - Why might the raiders have kept the chief surveyor alive?
 - What is the current state of the survey arm's findings?
-
-**Order of Play**
-- What is the mode switching convention for this campaign?
-
-**Worldbuilding conventions**
-- What is the naming convention for cordon vows?
-
-**Weapons and combat**
-- What is the maximum effective range of laser weapons?
-- Why can't a ship simply park at a safe distance and use lasers defensively against incoming missiles?
-- What is the difference between how a navy vessel and a civilian vessel uses lasers at long range?
-- What happens when a ward charge hits a guided missile?
-
-**Relay drones**
-- What are the operational limitations of relay drones?
-- Why is the raider unlikely to expend weapons on the Steady Return's relay drones?
+- Who is the software specialist and what are the raiders using him for?
 
 **The Forge generally**
-- Why are missiles rare and strategically significant in the Forge?
-- What is the relationship between the cordon navy and planetary navy factions?
 - Were worlds in the Forge visited by explorers from the origin worlds before the exodus?
 
 **Restrictions**
 - What explicit restrictions have been placed on the narrative?
+
+**Game Rules**
+- In Starforged, what is the result when an action die ties a challenge die?
+- How many ticks fill a progress box?
+- How much progress does a Formidable vow mark per milestone?
+- What are the three options when rolling Undertake an Expedition, and which stat does each use?
+- On a weak hit on Undertake an Expedition, what are the two choices available?
+- On a strong hit on Face Danger, what do you take?
+- What is the difference between a strong hit and weak hit on Secure an Advantage?
