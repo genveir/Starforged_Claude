@@ -1,0 +1,5 @@
+This is the first session.
+
+We are starting at the moment Gerald swears his cordon vow at Raiman's Folly. Begin with the words of the vow.
+
+End the opening message with Graff saying "The ship logged it. What do you need from me and the ship?"
