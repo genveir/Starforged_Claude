@@ -26,7 +26,7 @@
 | Health | 5 |
 | Spirit | 5 |
 | Supply | 4 |
-| Momentum | Current: 4 / Reset: 3 / Max: 10 |
+| Momentum | Current: 4 / Reset: 2 or 3 in combat / Max: 10 |
 
 ---
 
