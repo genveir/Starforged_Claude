@@ -21,9 +21,22 @@ These are questions that a client should be able to answer correctly to run a ne
 - What is Gerald's momentum reset when in a fight?
 - What two careers did Gerald have before joining the Steady Return, and how are they relevant to his current situation?
 - Why did Gerald leave the planetary navy?
+- Who was Jason Bormann and what is his significance to Gerald?
+
+**The settlement**
+- What is the origin of the name Raiman's Folly?
+- What is the settlement's approximate population and how is it divided?
+- Why is the survey arm still large?
+- Who is Hamzi and why is he valuable?
+- Who is Carl Inswich?
+- What did the raiders do to the settlement's leadership on arrival?
+- Why might the raiders have kept the chief surveyor alive?
+- What is the current state of the survey arm's findings?
+
+**Order of Play**
+- What is the mode switching convention for this campaign?
 
 **Worldbuilding conventions**
-- What is the mode switching convention for this campaign?
 - What is the naming convention for cordon vows?
 
 **Weapons and combat**
@@ -39,6 +52,7 @@ These are questions that a client should be able to answer correctly to run a ne
 **The Forge generally**
 - Why are missiles rare and strategically significant in the Forge?
 - What is the relationship between the cordon navy and planetary navy factions?
+- Were worlds in the Forge visited by explorers from the origin worlds before the exodus?
 
 **Restrictions**
 - What explicit restrictions have been placed on the narrative?

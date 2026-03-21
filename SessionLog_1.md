@@ -3,9 +3,9 @@
 ## Session 1
 
 ### The Arrival
-The Steady Return jumped into the Raiman's Folly system to find an unknown vessel in orbit above the moon — no transponder, purpose-built for violence. Several buildings on the settlement's outskirts were smoking craters. The crew held position.
+The Steady Return jumped into the Raiman's Folly system to find an unknown vessel in orbit above the moon — no transponder, purpose-built for violence. Several buildings on the outskirts of the settlement were smoking craters. The crew held position.
 
-After some time a message arrived from the surface. A settler known to the crew was whispering, clearly terrified. Raiders had arrived without warning, killed the settlement leader, and established themselves as self-appointed rulers. At their current rate of consumption the settlement would be without food and water within weeks.
+After some time a message arrived from the surface. Hamzi — the settlement's communications officer — was whispering, clearly terrified, tapping a line the raiders couldn't know about because he had laid it himself. Raiders had arrived without warning, destroyed the point defence installations from orbit, shot Marshal Jason Bormann dead in the first minutes, and imprisoned the chief surveyor. The raiders had established themselves as self-appointed rulers of the settlement, taking what they want and consuming the settlement's food and water supplies. At the current rate of consumption, the settlement would be without the means to sustain itself within weeks.
 
 ### The Vow
 Standing on the bridge with Captain Graff at his shoulder and the raider on the main screen, Gerald Finch swore a cordon vow:

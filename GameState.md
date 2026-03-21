@@ -2,11 +2,15 @@
 
 ## The Setting
 
-Raiman's Folly is a small moon orbiting a planet in a frontier system at the far end of the Steady Return's courier route. The moon is approximately half the size of Earth's moon — roughly 1700 kilometres in diameter. It has no meaningful atmosphere to speak of. Its defining characteristic is exceptionally high metallicity, which has made it the focus of a small but serious settlement engaged in surveying and developing mining prospects. On the Steady Return's last visit the settlers were cautiously optimistic about what they had found.
+Raiman's Folly takes its name from Solomon Raiman, a celebrated early Forge surveyor credited with identifying numerous high-value planets and moons in the origin days. He also surveyed this moon and dismissed it as commercially unviable. When the first settlers arrived and found nothing immediately valuable, they kept the name as a joke at his expense. The joke has not yet stopped being funny, but it may be getting closer — the settlement's backers are cautiously optimistic about recent survey findings, and active surveying continues.
+
+The moon is approximately half the size of Earth's moon — roughly 1700 kilometres in diameter. It has no meaningful atmosphere to speak of. Its defining characteristic is exceptionally high metallicity, which has made it the focus of a small but serious settlement engaged in surveying and developing mining prospects.
+
+The settlement numbers approximately 200 inhabitants. It is a transient population — people here on contract, not settlers in the generational sense. The workforce divides roughly as follows: around 50 in the survey arm, around 120 in the mining arm, and the remainder in services. The survey arm remains large because the settlement has not yet struck it rich — active surveying continues alongside early mining operations, funded by backers who are still investing in the property.
+
+The settlement is self-sufficient by necessity, resource-constrained, and not a place with significant military capability. Several members of the Steady Return's crew, including Gerald Finch, know settlers personally through two years of regular stops.
 
 The moon's high metallicity creates sensor interference close to the surface, particularly at low altitude and in terrain-masked approaches. This is a tactically relevant fact.
-
-The settlement numbers a few hundred inhabitants. It is a frontier operation — self-sufficient by necessity, resource-constrained, not a place with significant military capability. Several members of the Steady Return's crew, including Gerald Finch, know settlers personally through two years of regular stops.
 
 ---
 
@@ -44,9 +48,27 @@ The raider vessel is similar in overall size to the Steady Return but configured
 
 The settlement's point defence installations were the first things destroyed on the raider's arrival. This was deliberate and competent. It removed the only weapons capable of threatening the raider from orbit and simultaneously demonstrated to the settlers exactly what resistance would cost them.
 
+The raiders' second move was equally precise: they shot Marshal Jason Bormann on arrival and imprisoned the chief surveyor. Bormann was the settlement marshal and head of the space defence array — the man responsible for security and the practical capability to organise resistance. The chief surveyor led the settlement's council alongside Bormann and was its strategic thinker. Removing both simultaneously was not opportunistic. Someone planned this.
+
+Bormann is dead. The chief surveyor is alive and imprisoned. The raiders keeping them alive rather than killing them is notable — they may need something from them, possibly relating to the survey findings.
+
 The settlement is not defenceless in absolute terms. A high-metallicity mining operation has cutting equipment, extraction explosives, heavy machinery, and sealed environments with chokepoints. The settlers know every tunnel and access shaft. The raiders have been there long enough to get comfortable but not long enough to know the ground as well as the people who live on it. These are asymmetries that could be exploited by someone who knew how to organise frightened people — which Gerald Finch does.
 
 The settlement also has ore-launching infrastructure of some kind, given its mining focus. The potential to repurpose mass-driver or ore-launching equipment against the raider in orbit is an open question, as is the possibility of loading dangerous cargo onto the raider through deception. Neither option is confirmed viable. Both are worth investigating.
+
+---
+
+## Key Settlement Personnel
+
+**Jason Bormann** — former marshal and head of the settlement's space defence array. Gerald's closest contact at Raiman's Folly and the person he would consider a genuine friend. Shot by the raiders on arrival. Dead. When Hamzi's call reached the Steady Return, he named Bormann specifically. Gerald swore the cordon vow knowing Bormann was already gone.
+
+**Hamzi** (last name unknown by Gerald) — communications officer and sensor expert. Built and maintains the settlement's communications infrastructure. Laid the cables, wrote the software, knows every line in the system. Made the covert call to the Steady Return without being detected. Currently the settlement's most valuable covert asset. Gerald knows him as a friendly professional acquaintance — first name basis, good colleagues, not close friends.
+
+**Carl Inswich** — resupply manager. Responsible for managing incoming supplies against the settlement's consumption and coordinating with courier ships. Gerald knows him well through two years of cargo runs and manifests. Inswich knows to the day how long the settlement's supplies will last.
+
+**The chief surveyor** — name not yet established. Led the settlement council alongside Bormann. Alive and imprisoned by the raiders. The fact that they were jailed rather than shot is significant. They may know something the raiders need, possibly relating to the survey findings.
+
+**Other service personnel present but not yet characterised:** pub owner, notary, hardware supplier, two doctors, two nurses, software expert, maintenance and repair staff.
 
 ---
 
@@ -76,8 +98,9 @@ The ship logged it. The vow is Formidable in Starforged terms. Progress: 0/10.
 
 ## Open Questions
 
-- How does Gerald reach the surface undetected? The shuttle is the obvious transport and the obvious target. Terrain masking and sensor interference close to the surface make a low approach viable but not guaranteed.
 - Who among the settlers has the spine and capability to organise resistance? Gerald will need to identify this quickly.
 - What exactly does the settlement have that could be turned against the raider? Extraction explosives, heavy machinery, and ore-launching infrastructure are all possibilities. None are confirmed.
 - Who sent the raiders and why? The investment in a ship this capable points to a faction with real resources and a specific interest in Raiman's Folly's mining prospects. This is not a random raid.
 - Can the raider's two remaining missiles be neutralised, exhausted, or bypassed? This is the key to unlocking the Steady Return's ability to close and support.
+- Why are the raiders keeping the chief surveyor alive rather than killing them as they did Bormann?
+- What did the survey arm find that made the backers cautiously optimistic? The settlement has not yet struck it rich but active surveying continues. Whatever they found may be connected to why the raiders are here.

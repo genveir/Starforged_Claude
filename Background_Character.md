@@ -68,15 +68,19 @@ Gerald has learned things from Graff. Graff has also learned things from Gerald.
 
 ## Raiman's Folly and the Vow
 
-Raiman's Folly is one of the furthest stops on the *Steady Return's* route — a small settlement of a few hundred inhabitants on a moon with exceptionally high metallicity. The people there have been surveying mining opportunities for some time and were, on the last visit, cautiously optimistic about what they'd found. Gerald and several crew members know a handful of the settlers well — the kind of easy familiarity that builds up over regular stops, shared meals, passed news, small favours in both directions.
+Raiman's Folly is one of the furthest stops on the *Steady Return's* route — a small settlement of approximately two hundred inhabitants on a moon with exceptionally high metallicity. The people there have been surveying mining opportunities for some time and were, on the last visit, cautiously optimistic about what they'd found. Gerald and several crew members know a handful of the settlers well — the kind of easy familiarity that builds up over regular stops, shared meals, passed news, small favours in both directions.
+
+Gerald's closest contact at the settlement was Jason Bormann, the marshal. A former military man doing the same job Gerald had done for years, in the same isolation, with the same weight of responsibility for people who couldn't protect themselves. Gerald respected him in the particular way you respect someone who chose the same hard thing you chose, and did it well. They were friends — real ones, not the colleague-friends Gerald has accumulated elsewhere. The kind that are rare enough for Gerald that losing one matters in a way that doesn't simplify.
+
+Gerald also knows Carl Inswich, the settlement's resupply manager, well through two years of cargo runs and manifests. And he knows Hamzi — last name never established — the communications officer, as a friendly professional acquaintance. First name basis. Good colleagues.
 
 When the *Steady Return* jumps into the Raiman's Folly system on their most recent run, there is a ship in orbit above the moon. Similar in size to the *Steady Return* but configured entirely differently — heavily armed and armoured, minimal range capability, built for violence rather than distance. It runs no transponder. Several buildings on the outskirts of the settlement are smoking craters.
 
 The *Steady Return* holds position. They cannot approach without coming under the raider's guns.
 
-After some time in system, a message arrives from the surface. A man they know — one of the settlers, someone Gerald has shared a table with more than once — is whispering, clearly terrified. Raiders came. They killed the settlement leader. They have set themselves up as self-appointed barons, taking what they want, running down the settlement's food and water supplies. At the current rate, the settlement will be without the means to sustain itself within weeks. The *Steady Return* could resupply them with enough to organise proper relief from Sonnet — but cannot get close enough to do so, and even if it could, relief from Sonnet is months away.
+After some time in system, a message arrives from the surface. It is Hamzi — whispering, clearly terrified, tapping a line the raiders don't know exists because he laid it himself. The raiders came without warning. They destroyed the settlement's point defence installations from orbit. They shot Jason Bormann dead in the first minutes, before anyone could organise. They took the chief surveyor and put them in Bormann's own jail. At the current rate of consumption, the settlement will be without food and water within weeks.
 
-Gerald Finch swore his first cordon vow at Raiman's Folly, standing on the bridge of the Steady Return with Captain Graff at his shoulder and the raider sitting in orbit on the main screen. 
+Gerald Finch swore his first cordon vow at Raiman's Folly, standing on the bridge of the Steady Return with Captain Graff at his shoulder and the raider sitting in orbit on the main screen. He swore it knowing Bormann was already gone.
 
 > *"I swear by the cordon that keeps us safe that I will free Raiman's Folly from these raiders and see its people safe."*
 
