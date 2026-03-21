@@ -10,9 +10,9 @@ The Forge is a region of deep space colonised by humanity approximately one cent
 
 ## The Cataclysm and the Exodus
 
-Roughly one hundred years ago, a virulent soil blight appeared in human space. The mechanism is well understood now — a fast-acting biological contaminant that spreads on physical contact and renders soil completely unable to sustain agriculture within hours of exposure. A boot that has touched contaminated ground, carried into a clean grow plot, is enough to destroy it entirely. The blight spread across planets faster than anyone understood what was happening, carried by ordinary human movement and trade. By the time the scale of the catastrophe was clear, dozens of worlds were compromised.
+Roughly one hundred years ago, a soil blight appeared in human space. Its origin is unknown to anyone alive. What is known is that it spreads on physical contact, renders soil completely unable to sustain agriculture within hours of exposure, and cannot be meaningfully slowed or reversed by any technology humanity currently possesses. A boot that has touched contaminated ground, carried into a clean grow plot, is enough to destroy it entirely. The blight spread across planets faster than anyone could respond, and by the time the scale of the catastrophe was clear, dozens of worlds were compromised.
 
-There was no cure. There is still no cure. The only response was containment.
+There is no cure. There will not be one. The blight is in fact a precursor terraforming organism — engineered by a civilisation so far beyond current human capability that the gap renders human biology effectively irrelevant to the problem. It does not spread because it is virulent in any human sense. It spreads because it was built to spread, efficiently and completely, across a planetary surface. It is doing exactly what it was designed to do. Nobody in the Forge knows this. They know only that it cannot be stopped, that it cannot be cured, and that the only response is to stop carrying it somewhere new.
 
 The Quarantine Wars were brutal and relatively short. A coalition of uncontaminated worlds — with the bulk of the surviving space navy as their military arm — enforced a cordon around the infected systems, sealing billions of people inside to starve. The wars were fought by people on both sides of the line who believed they were right, and in a certain cold arithmetic, the coalition was: without the cordon, the blight would have consumed everything. With it, a portion of humanity survived.
 
@@ -28,7 +28,7 @@ The quarantine line does not seal off a dead zone. It seals off the most valuabl
 
 The origin worlds are still there. Billions of people starved on their surfaces, but the planets themselves survive — and on them, and in orbit around them, sits the entire pre-cataclysm industrial infrastructure of human civilisation. Shipyards that built carriers. Factory complexes with production chains no settlement in the Forge has been able to reconstruct. Precision manufacturing infrastructure of a scale and sophistication that dwarfs anything currently operational. All of it dormant. All of it potentially functional.
 
-The catch is absolute: touch the ground and you will eventually contaminate everything you were trying to salvage. Surface operations are essentially impossible with current technology. Orbital operations — sealed, sterile, zero ground contact — are theoretically viable, and almost certainly being pursued quietly by cordon navy factions who have both the means and the overwhelming strategic incentive to do so. This is not discussed openly. The official position is that the cordon exists purely to protect the Forge from contamination. The fact that it also places the most powerful faction in human space as the sole gatekeeper to civilisation-altering industrial capacity is a coincidence that each generation finds harder to ignore.
+The catch is absolute: touch the ground and you will eventually carry the blight somewhere new. Surface operations are essentially impossible. Orbital operations — sealed, sterile, zero ground contact — are theoretically viable, and almost certainly being pursued quietly by cordon navy factions who have both the means and the overwhelming strategic incentive to do so. This is not discussed openly. The cordon exists to protect the Forge from contamination, and that purpose is genuine — but it also places the most powerful faction in human space as the sole gatekeeper to civilisation-altering industrial capacity. That the two things are true simultaneously is a coincidence that each generation finds harder to ignore.
 
 ---
 
@@ -102,9 +102,13 @@ Relations between cordon and planetary factions are structurally tense. The cord
 
 ## The Cordon Vow
 
-The original Cordon Vow was not a tradition. It was a crisis measure.
+The original Cordon Vow was not a tradition. It was the formal conclusion of a longer reckoning.
 
-When the space navy switched sides in the Quarantine Wars, the decision was not made by admirals in a room. It was made ship by ship, crew by crew, across the entire fleet. Officers went compartment by compartment with a simple demand: swear or leave. The vow was uniform across every vessel — *"I swear to uphold the cordon and safeguard the human race from the blight that will destroy us"* — and the ship's computer logged each declaration against each name. Those who would not swear were put off at the nearest port or transferred to civilian vessels. Nobody was executed. Nobody was exempt. Within weeks, every navy ship in the Forge carried a crew that had sworn, on the record, to hold the line.
+The space navy's decision to enforce the cordon did not happen in an admiral's office, and it did not happen quickly. It emerged from months of debate across the fleet — arguments in mess halls and officer quarters, on the bridge and in the dark between ships — as the cold arithmetic of the blight became impossible to deny. Worlds were dying. The only thing that would stop it was a line that held absolutely. Most of the fleet reached that conclusion independently and more or less simultaneously. The question was never really whether the navy would switch sides. The question was what to do about the people who couldn't follow where that decision led.
+
+The Vow was the answer. Officers went compartment by compartment with a simple demand: swear or leave. The vow was uniform across every vessel — *"I swear to uphold the cordon and safeguard the human race from the blight that will destroy us"* — and the ship's computer logged each declaration against each name. Those who would not swear were put off at the nearest port or transferred to civilian vessels. Nobody was executed. Nobody was exempt. The fleet was not coercing compliance — it had already achieved consensus. It was offering dissenters a dignified exit before the killing started, and everyone present understood that was what it was.
+
+Within weeks, every navy ship in the Forge carried a crew that had sworn, on the record, to hold the line.
 
 The Cordon Vow held. The quarantine held with it. Cordon navy personnel still vow the Cordon Vow when they come of age, or they get expelled from the only world they've known up to that point.
 
