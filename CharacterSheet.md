@@ -26,7 +26,7 @@
 | Health | 5 |
 | Spirit | 5 |
 | Supply | 4 |
-| Momentum | Current: 4 / Reset: 2 or 3 in combat / Max: 10 |
+| Momentum | Current: 5 / Reset: 2 or 3 in combat / Max: 10 |
 
 ---
 
@@ -90,8 +90,15 @@ None
 ---
 
 ## Connections
-- **Captain John Graff** — master and commander of the *Steady Return*. Colleague-friend. Two years of mutual respect and daily proximity.
-- **Navy contacts in Sonnet** — old friends from Gerald's navy days who vouched for him. Well-placed within the planetary navy faction.
+
+**Captain John Graff** — *courier captain, Steady Return / Sonnet system*. Rank: dangerous. Progress: 0/10.
+Two years of mutual respect and daily proximity. The relationship is warm and genuine within its professional context.
+
+**Sonnet navy contacts** — *naval officers, Sonnet planetary faction*. Rank: formidable. Progress: 0/10.
+Well-placed friends from Gerald's service days who vouched for him when he needed it. Useful for information, favours, and institutional access within the Sonnet faction's reach. Reforming a genuine personal bond with any of them would take real work. If a specific individual becomes significant, split them into their own entry.
+
+**[Name TBD — mining foreman]** — *mining foreman, Raiman's Folly*. Rank: troublesome. Progress: 0/10.
+A familiar face from two years of stops. Took a real risk helping Gerald into the settlement and bringing him to Carl. Knows the industrial infrastructure intimately — cutting equipment, extraction explosives, heavy machinery. The connection was established under pressure and came with a cost.
 
 ---
 
