@@ -85,13 +85,11 @@ Gerald Finch is inside the settlement, having infiltrated via a maintenance hatc
 
 ## The Steady Return's Situation
 
-The Steady Return is holding position in the system at a distance that keeps it outside reliable missile range — approximately five thousand kilometres or more from the raider.
+The Steady Return has taken up a position in orbit on the far side of the moon from the raider — out of line of sight. From this position the ship cannot be targeted but cannot directly support any action on the surface. The raider could launch missiles as soon as the Steady Return becomes visible above the horizon, so Graff is maintaining continuous sensor watch via relay drones and is ready to manoeuvre at short notice. This position allows Graff to threaten without committing to an engagement, potentially creating windows for action on the surface.
 
 The ship cannot safely approach for two reasons. First, the raider carries two guided missiles — one or two hits would cripple or destroy the Steady Return, and its ward launchers offer no reliable counter. Second, even if the missiles were neutralised, the raider is a purpose-built combat vessel: more heavily armoured and more heavily armed at close range than a lightly armed courier. A direct engagement without significant prior damage to the raider would still be a losing fight.
 
 They cannot resupply the settlement from the current distance. They cannot leave without abandoning the settlers to slow attrition.
-
-The Steady Return has taken up a position in orbit on the far side of the moon from the raider — out of line of sight and outside weapons range. From this position the ship cannot be targeted but cannot directly support any action on the surface. The raider could launch missiles as soon as the Steady Return becomes visible above the horizon, so Graff is maintaining continuous sensor watch via relay drones and is ready to manoeuvre at short notice. This position allows Graff to threaten without committing to an engagement, potentially creating windows for action on the surface.
 
 The Steady Return has deployed relay drones positioned high on the far side of the moon to maintain communications with Gerald during the surface operation. The raider is assumed to have relay drones deployed covering obvious approaches to the settlement. The mining survey side of the moon is a likely blind spot in that coverage and was Gerald's approach vector.
 

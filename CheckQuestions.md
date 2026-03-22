@@ -12,6 +12,7 @@ These are questions that a client should be able to answer correctly to run a ne
 - What are the raiders currently doing that suggests the occupation is entering a new phase?
 - What is the Steady Return's armament and why is the absence of missiles significant?
 - What relay drone arrangement is in place and what does it enable?
+- How safe is the Steady Return currently? What is the biggest danger?
 
 **Gerald specifically**
 - What is Gerald's cordon vow and what rank is it?
