@@ -42,3 +42,13 @@ Certain entries that are also general enough to belong in the setting background
 **[Speculative]** Moons of this size are typically tidally locked to their parent body, rotating once per orbit. If Raiman's Folly follows this pattern, its rotation is very slow — far too slow for 30 kilometres to be anywhere near geostationary. Station keeping at that altitude against a slow rotation remains trivially cheap regardless.
 
 ---
+
+Here's the entry to add to InterestingObservations.md, after the existing orbital mechanics sections:
+
+---
+
+**The mineral indicator**
+
+**[Certain]** There exists a specific rare mineral whose presence in high concentration is a known indicator of precursor technology in the vicinity. The precise mineral has not yet been named. Its value as an indicator is known to certain parties in the Divide — how widely this knowledge is distributed is not yet established.
+
+**[Speculative]** Raiman's Folly's exceptional metallicity and the survey arm's recent finds may be connected to this indicator. If the mineral is present in the concentrations that excited the settlement's backers, it may have drawn attention from parties interested in what lies beneath rather than what can be mined. The details of what any precursor technology at this site might look like — size, condition, capability — are entirely open.

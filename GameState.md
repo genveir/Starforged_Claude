@@ -43,7 +43,7 @@ The raider vessel is similar in overall size to the Steady Return but configured
 
 **Assessment:** The raider is not a sophisticated military vessel. It is an expensive, well-equipped tool for intimidation and close-range violence. Someone outfitted these people. A ship this well-armed and well-configured costs real resources to maintain. Raiders are a cheap and deniable way to soften up a valuable settlement before moving in properly — and Raiman's Folly's mining prospects are exactly the kind of find that would interest a faction with the means to exploit them. Gerald does not know this yet. It is a reasonable inference from available evidence.
 
-**Recent developments:** The raiders have become visibly excited about something in recent days. They have taken the settlement's software specialist to the jail and ordered Hamzi to establish a connection between the specialist and the main mining systems. Whatever they are looking for, they are now actively working to extract it. This suggests the occupation may be entering a new phase — moving from control toward active exploitation of the settlement's survey findings.
+**Recent developments:** The raiders have become visibly excited about something in recent days. They have taken the settlement's software specialist to the jail and ordered Hamzi to establish a connection between the specialist and the main mining systems. Hamzi has complied, and has also installed a listener on the line without their knowledge. The raiders brought a device with them, carried with more care than anything else aboard — its purpose is unknown to the settlers. They are comfortable and careless, rotating watch on the main hub, with the rest of the settlement on normal work rotations under supervision.
 
 ---
 
@@ -59,13 +59,15 @@ The settlement is not defenceless in absolute terms. A high-metallicity mining o
 
 The settlement also has ore-launching infrastructure of some kind, given its mining focus. The potential to repurpose mass-driver or ore-launching equipment against the raider in orbit is an open question, as is the possibility of loading dangerous cargo onto the raider through deception. Neither option is confirmed viable. Both are worth investigating.
 
+The settlement also has a supply situation that is more dire than most settlers know: seventeen to nineteen days of supplies remain at current consumption rates. Carl Inswich has been obscuring the true figures in the official system.
+
 ---
 
 ## Key Settlement Personnel
 
 **Jason Bormann** — former marshal and head of the settlement's space defence array. Gerald's closest contact at Raiman's Folly and the person he would consider a genuine friend. Shot by the raiders on arrival. Dead. When Hamzi's call reached the Steady Return, he named Bormann specifically. Gerald swore the cordon vow knowing Bormann was already gone.
 
-**Hamzi** (last name unknown by Gerald) — communications officer and sensor expert. Built and maintains the settlement's communications infrastructure. Laid the cables, wrote the software, knows every line in the system. Made the covert call to the Steady Return without being detected. Currently conscripted by the raiders into establishing a connection between the software specialist and the main mining systems. His situation is more dangerous than when he made the call. Gerald's most valuable covert asset, now under direct raider supervision.
+**Hamzi** (last name unknown by Gerald) — communications officer and sensor expert. Built and maintains the settlement's communications infrastructure. Laid the cables, wrote the software, knows every line in the system. Made the covert call to the Steady Return without being detected. Not supervised by the raiders — they are comfortable and careless and have stopped watching every corner. Moves freely through the maintenance corridors. Has just completed the connection the raiders ordered between the software specialist and the main mining systems, and installed a listener on that line in the process, logging all data passing through it in both directions. Handed the data pad to Gerald. Gerald's most valuable covert asset.
 
 **Carl Inswich** — resupply manager. Responsible for managing incoming supplies against the settlement's consumption and coordinating with courier ships. Gerald knows him well through two years of cargo runs and manifests. Inswich knows to the day how long the settlement's supplies will last. Gerald's current location — he reached Inswich at the end of session 2.
 
@@ -79,7 +81,7 @@ The settlement also has ore-launching infrastructure of some kind, given its min
 
 ## Gerald's Current Position
 
-Gerald Finch is inside the settlement, having infiltrated via a maintenance hatch in the ore processing infrastructure. He is currently with Carl Inswich. The unnamed mining foreman who guided him there has returned to his duties. Gerald's shuttle is parked behind a ridge approximately one kilometer from the settlement outskirts on the mining survey side of the moon.
+Gerald Finch is inside the settlement, having infiltrated via a maintenance hatch in the ore processing infrastructure. He is currently with Carl Inswich, Davel Oren, and Hamzi in a back room of the industrial infrastructure. A circle of trust has been established. Gerald is carrying Hamzi's data pad, which logs all traffic passing through the connection between the software specialist and the main mining systems. Gerald's shuttle is parked behind a ridge approximately one kilometer from the settlement outskirts on the mining survey side of the moon.
 
 ---
 
@@ -115,3 +117,28 @@ The ship logged it. The vow is Formidable in Starforged terms. Progress: 1/10.
 - What did the survey arm find that made the backers cautiously optimistic, and is it connected to why the raiders are here?
 - What are the raiders trying to extract from the mining systems via the software specialist and Hamzi?
 - How much time does the settlement have before supplies run out? Carl Inswich knows.
+- What does the data on Hamzi's pad reveal? How close are the raiders to finding what they came for?
+- Who on the survey arm can read the data, and can they be trusted?
+- What is the device the raiders brought, and what does it do?
+
+---
+
+## Background Knowledge
+
+**This section contains information known to the narrator but not to Gerald Finch or any other character in the settlement. It should not be introduced into play directly — it is context for interpreting events and shaping what Gerald might eventually discover.**
+
+### The Raiders' True Purpose
+
+The raiders were not sent here opportunistically. Their backers are a rogue settlement operating out of the Shell — no navy affiliation, no registry, no transponder. Deniable by design.
+
+The survey arm's recent finds excited the settlement's backers because the mineral concentrations point to genuinely valuable mining prospects. They excited the raiders' backers for a different reason entirely: that specific rare mineral in high concentration is a known indicator of precursor technology in the vicinity. Small, likely inert, but potentially extraordinarily valuable to a small independent faction looking to change its position in the Divide.
+
+The device the raiders carried in — treated with more care than anything else they brought — is a precursor detection and analysis instrument. It requires mining survey data to triangulate a location. This is why they took the software specialist and connected her to the main mining systems. They are not stealing the survey data. They are using it to find something that isn't on any map yet.
+
+### The Endgame
+
+The raiders intend to find the precursor technology, extract it, and leave. They cannot leave the settlement behind to testify about what they were looking for or who sent them. The settlers are alive because they are useful. That will not remain true indefinitely.
+
+### What Gerald Knows
+
+Nothing of the above. The device is the clue that will start pointing him toward the truth.

@@ -1,60 +1,69 @@
+Here is the full replacement:
+
+---
+
 These are questions that a client should be able to answer correctly to run a new session. Only answer them when directly queried. When you do answer them, put headers on each section, and use a bullet per question. Put the question in bold, then the answer.
 
 **Setting and situation**
-- What is the raider's current missile count and how were the settlement's defenses destroyed?
-- What is the Steady Return's current position relative to the raider?
-- Why can't the Steady Return simply approach the settlement directly?
-- What does the raider's configuration tell an experienced observer about its purpose?
-- Why is the raider strategically bound to its current position?
-- What is the estimated crew complement of the raider?
-- What resources does the settlement have that could potentially be turned against the raider?
-- What is the time pressure Gerald is working against?
-- What are the raiders currently doing that suggests the occupation is entering a new phase?
-- What is the Steady Return's armament and why is the absence of missiles significant?
-- What relay drone arrangement is in place and what does it enable?
-- How safe is the Steady Return currently? What is the biggest danger?
-- Can the raider starve the Steady Return out of the system by maintaining its position and waiting?
-- Is Graff in immediate danger if a second hostile vessel enters the system?
-- If a second hostile vessel entered the Raiman's Folly system and coordinated with the raider, could the Steady Return escape?
-- Could the Steady Return execute a spiral escape manoeuvre if the raider attempted to pursue it around the moon?
+- How long does the settlement have before supplies run out, and why is the official figure different from the real one?
+- What is the raider's tactical weakness that prevents it from simply chasing the Steady Return away?
+- What is the one thing that would allow the Steady Return to safely close on the raider?
+- At what range do kinetic shots reliably connect, and at what range can they mostly be dodged or warded?
+- What happened to the settlement's point defence installations and when?
+- Why is the raider not bleeding its fuel reserves by sitting in low orbit?
+- What would happen to the raider's leverage if it left orbit to pursue the Steady Return?
+- What does running without a transponder tell an experienced observer about a vessel?
+- What is the moon's defining physical characteristic and what tactical use has Gerald already made of it?
+- What are the two reasons the Steady Return cannot safely approach even if the missiles were somehow neutralised?
+- What is the device the raiders brought and how do the settlers know about it?
+- What is Hamzi's listener and what has it produced so far?
+- Who holds the data pad and what stands between it and being useful?
+- What are the raiders doing with the software specialist and why does it suggest the occupation is entering a new phase?
 
 **Gerald specifically**
-- What is Gerald's cordon vow and what rank is it?
-- What is Gerald's momentum reset when in a fight?
-- Who was Jason Bormann and what is his significance to Gerald?
-- Where is Gerald at the start of the session and who is he with?
-- What is the state of Gerald's condition meters?
-- What is the current status of Gerald's shuttle?
+- What prior careers did Gerald have before joining the Steady Return and in what order?
+- What is the significance of Gerald's surname to him personally?
+- Why did Gerald leave the navy and what does he think of that decision now?
+- What is Gerald's highest stat and what does it reflect about his approach to problems?
+- What asset does Gerald have that affects his momentum reset in a fight and what is that reset value?
+- What is Gerald's current momentum and what was it at the start of session 3?
+- What is the shuttle's current status and where is it?
 
 **The settlement**
-- What is the origin of the name Raiman's Folly?
-- What is the settlement's approximate population and how is it divided?
-- Why is the survey arm still large?
-- Who is Hamzi, why is he valuable, and what is his current situation?
-- Who is Carl Inswich and why is he significant at the start of session 3?
-- What did the raiders do to the settlement's leadership on arrival?
-- Why might the raiders have kept the chief surveyor alive?
-- What is the current state of the survey arm's findings?
-- Who is the software specialist and what are the raiders using him for?
-- Where exactly is the chief surveyor being held?
-- Who guided Gerald to Carl Inswich and what is that person's current status?
+- Who are the four people in Gerald's circle of trust and what does each of them bring to a resistance effort?
+- What two members of the settlement's leadership were neutralised on the raiders' arrival and how?
+- Why might the raiders have kept one of those leaders alive while killing the other?
+- What does Carl Inswich know that makes him uniquely valuable to Gerald right now?
+- What does Davel Oren know that makes him uniquely valuable to Gerald right now?
+- What does Hamzi know that makes him uniquely valuable to Gerald right now?
+- What is the software specialist being used for and where is she being held?
+- What is the one category of settler knowledge Gerald still urgently needs access to?
+- What legitimate infrastructure does the settlement have that might be repurposed against the raider?
 
 **The Divide generally**
-- Were worlds in the Divide visited by explorers from the origin worlds before the exodus?
-- Why were the planetary navies formed?
-- Give an estimate of the population of the Shell
+- What is the cordon and what is its original purpose?
+- What is the difference between a Dead World and an Old World within the Blight?
+- What makes courier captains among the most valuable people in the Divide?
+- What is the fundamental industrial constraint that prevents factions from simply building better ships?
+- What are rogue colonies and how do the navy factions treat them?
+- What is known about precursor civilisations and what is the operative framework for understanding their technology?
+- Why do the cordon navy factions' size and resources create political tension each generation?
 
 **Restrictions**
-- What explicit restrictions have been placed on the narrative?
+- What is the single most important directive governing how the narrative handles hostages?
 
 **Game Rules**
-- In Starforged, what is the result when an action die ties a challenge die?
-- How many ticks fill a progress box?
-- How much progress does a Formidable vow mark per milestone?
-- What are the three options when rolling Undertake an Expedition, and which stat does each use?
-- On a weak hit on Undertake an Expedition, what are the two choices available?
-- On a strong hit on Face Danger, what do you take?
-- What is the difference between a strong hit and weak hit on Secure an Advantage?
+- What happens when your momentum is negative and matches your action die result?
+- What is the difference between burning momentum and a progress roll with respect to momentum?
+- On a miss on Make a Connection, what happens?
+- What are the two legacy track rewards for completing a Formidable vow?
+- When does a match occur and what does it mean mechanically if no move specifies a result?
+- What is the difference between In Control and In a Bad Spot in a fight, and how does it affect which moves are available?
+- On a weak hit on Enter the Fray, what are the two choices?
+- What is the cost of buying a new asset versus upgrading an existing one?
 
 **Meta**
-- What is the difference between a Certain and a Speculative entry in InterestingObservations.md, and how should a GM treat each?
+- What topics require the GM to confer with the player before introducing them, and what can be introduced unilaterally?
+- How does beat versioning work and when does beat numbering reset?
+- What is the GM's responsibility when the player offers an opinion or interpretation during worldbuilding discussion?
+- When should the GM break from play to build out the world?
