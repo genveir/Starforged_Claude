@@ -13,6 +13,10 @@ These are questions that a client should be able to answer correctly to run a ne
 - What is the Steady Return's armament and why is the absence of missiles significant?
 - What relay drone arrangement is in place and what does it enable?
 - How safe is the Steady Return currently? What is the biggest danger?
+- Can the raider starve the Steady Return out of the system by maintaining its position and waiting?
+- Is Graff in immediate danger if a second hostile vessel enters the system?
+- If a second hostile vessel entered the Raiman's Folly system and coordinated with the raider, could the Steady Return escape?
+- Could the Steady Return execute a spiral escape manoeuvre if the raider attempted to pursue it around the moon?
 
 **Gerald specifically**
 - What is Gerald's cordon vow and what rank is it?
@@ -35,8 +39,8 @@ These are questions that a client should be able to answer correctly to run a ne
 - Where exactly is the chief surveyor being held?
 - Who guided Gerald to Carl Inswich and what is that person's current status?
 
-**The Forge generally**
-- Were worlds in the Forge visited by explorers from the origin worlds before the exodus?
+**The Divide generally**
+- Were worlds in the Divide visited by explorers from the origin worlds before the exodus?
 
 **Restrictions**
 - What explicit restrictions have been placed on the narrative?
@@ -49,3 +53,6 @@ These are questions that a client should be able to answer correctly to run a ne
 - On a weak hit on Undertake an Expedition, what are the two choices available?
 - On a strong hit on Face Danger, what do you take?
 - What is the difference between a strong hit and weak hit on Secure an Advantage?
+
+**Meta**
+- What is the difference between a Certain and a Speculative entry in InterestingObservations.md, and how should a GM treat each?

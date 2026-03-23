@@ -1,10 +1,10 @@
-# The Forge — Complete Setting Document
+# The Divide — Complete Setting Document
 
 ---
 
 ## Overview
 
-The Forge is a region of deep space colonised by humanity approximately one century ago under the worst possible circumstances. It is a frontier society built from the wreckage of a catastrophe, populated by the descendants of refugees, soldiers, and survivors. Technology is advanced but industrially constrained. Politics are fractured but not anarchic. Life is hard but slowly, incrementally improving. The prevailing mood is not doom — it is the grim, purposeful labour of people building something in the knowledge that they will not live to see it finished.
+The Divide is a region of deep space colonised by humanity approximately one century ago under the worst possible circumstances. It is a frontier society built from the wreckage of a catastrophe, populated by the descendants of refugees, soldiers, and survivors. Technology is advanced but industrially constrained. Politics are fractured but not anarchic. Life is hard but slowly, incrementally improving. The prevailing mood is not doom — it is the grim, purposeful labour of people building something in the knowledge that they will not live to see it finished.
 
 ---
 
@@ -12,13 +12,13 @@ The Forge is a region of deep space colonised by humanity approximately one cent
 
 Roughly one hundred years ago, a soil blight appeared in human space. Its origin is unknown to anyone alive. What is known is that it spreads on physical contact, renders soil completely unable to sustain agriculture within hours of exposure, and cannot be meaningfully slowed or reversed by any technology humanity currently possesses. A boot that has touched contaminated ground, carried into a clean grow plot, is enough to destroy it entirely. The blight spread across planets faster than anyone could respond, and by the time the scale of the catastrophe was clear, dozens of worlds were compromised.
 
-There is no cure. There will not be one. The blight is in fact a precursor terraforming organism — engineered by a civilisation so far beyond current human capability that the gap renders human biology effectively irrelevant to the problem. It does not spread because it is virulent in any human sense. It spreads because it was built to spread, efficiently and completely, across a planetary surface. It is doing exactly what it was designed to do. Nobody in the Forge knows this. They know only that it cannot be stopped, that it cannot be cured, and that the only response is to stop carrying it somewhere new.
+There is no cure. There will not be one. The blight is in fact a precursor terraforming organism — engineered by a civilisation so far beyond current human capability that the gap renders human biology effectively irrelevant to the problem. It does not spread because it is virulent in any human sense. It spreads because it was built to spread, efficiently and completely, across a planetary surface. It is doing exactly what it was designed to do. Nobody in the Divide knows this. They know only that it cannot be stopped, that it cannot be cured, and that the only response is to stop carrying it somewhere new.
 
 The Quarantine Wars were brutal and relatively short. A coalition of uncontaminated worlds — with the bulk of the surviving space navy as their military arm — enforced a cordon around the infected systems, sealing billions of people inside to starve. The wars were fought by people on both sides of the line who believed they were right, and in a certain cold arithmetic, the coalition was: without the cordon, the blight would have consumed everything. With it, a portion of humanity survived.
 
 The coalition splintered almost immediately once the cordon held. Political unity dissolved as the existential pressure eased. But the quarantine itself endures to this day, maintained not by any single authority but by the collective understanding that breaching it means extinction. This understanding has been reinforced twice in the past century by ships that broke through the cordon and infected new worlds. Both planets died. Neither incident has been forgotten.
 
-The people who made it to the Forge were not the best and brightest of humanity. They were the ones who could commandeer ships, fight their way aboard, or afford passage. The exodus was chaotic, violent, and unplanned — with one significant exception. The space navy, as a professional institution with clear chains of command, maintained its organisational integrity through the chaos. Navy crews arrived in the Forge with functional ships, trained personnel, and institutional knowledge intact. Everyone else arrived however they could.
+The people who made it to the Divide were not the best and brightest of humanity. They were the ones who could commandeer ships, fight their way aboard, or afford passage. The exodus was chaotic, violent, and unplanned — with one significant exception. The space navy, as a professional institution with clear chains of command, maintained its organisational integrity through the chaos. Navy crews arrived in the Divide with functional ships, trained personnel, and institutional knowledge intact. Everyone else arrived however they could.
 
 ---
 
@@ -26,19 +26,19 @@ The people who made it to the Forge were not the best and brightest of humanity.
 
 The quarantine line does not seal off a dead zone. It seals off the most valuable real estate in human space.
 
-The origin worlds are still there. Billions of people starved on their surfaces, but the planets themselves survive — and on them, and in orbit around them, sits the entire pre-cataclysm industrial infrastructure of human civilisation. Shipyards that built carriers. Factory complexes with production chains no settlement in the Forge has been able to reconstruct. Precision manufacturing infrastructure of a scale and sophistication that dwarfs anything currently operational. All of it dormant. All of it potentially functional.
+The origin worlds are still there. Billions of people starved on their surfaces, but the planets themselves survive — and on them, and in orbit around them, sits the entire pre-cataclysm industrial infrastructure of human civilisation. Shipyards that built carriers. Factory complexes with production chains no settlement in the Divide has been able to reconstruct. Precision manufacturing infrastructure of a scale and sophistication that dwarfs anything currently operational. All of it dormant. All of it potentially functional.
 
-The catch is absolute: touch the ground and you will eventually carry the blight somewhere new. Surface operations are essentially impossible. Orbital operations — sealed, sterile, zero ground contact — are theoretically viable, and almost certainly being pursued quietly by cordon navy factions who have both the means and the overwhelming strategic incentive to do so. This is not discussed openly. The cordon exists to protect the Forge from contamination, and that purpose is genuine — but it also places the most powerful faction in human space as the sole gatekeeper to civilisation-altering industrial capacity. That the two things are true simultaneously is a coincidence that each generation finds harder to ignore.
+The catch is absolute: touch the ground and you will eventually carry the blight somewhere new. Surface operations are essentially impossible. Orbital operations — sealed, sterile, zero ground contact — are theoretically viable, and almost certainly being pursued quietly by cordon navy factions who have both the means and the overwhelming strategic incentive to do so. This is not discussed openly. The cordon exists to protect the Divide from contamination, and that purpose is genuine — but it also places the most powerful faction in human space as the sole gatekeeper to civilisation-altering industrial capacity. That the two things are true simultaneously is a coincidence that each generation finds harder to ignore.
 
 ---
 
-## The Forge — Physical Reality
+## The Divide — Physical Reality
 
-The Forge is a region of deep space navigable via FTL travel through passage corridors — natural spatial phenomena that ships can thread to move faster than light. Passages are well enough mapped by now that experienced navigators know the major routes and their risks, but they are not perfectly reliable. Mechanical failure, miscalculation, and bad luck kill people in the void with regularity. The Forge does not hate you. It simply does not care whether you live or die, and it will demonstrate this with complete indifference given the opportunity.
+The Divide is a region of deep space navigable via FTL travel through passage corridors — natural spatial phenomena that ships can thread to move faster than light. Passages are well enough mapped by now that experienced navigators know the major routes and their risks, but they are not perfectly reliable. Mechanical failure, miscalculation, and bad luck kill people in the void with regularity. The Divide does not hate you. It simply does not care whether you live or die, and it will demonstrate this with complete indifference given the opportunity.
 
 There are no exotic space monsters, no inexplicable phenomena, no supernatural horror. The universe is physical and rational. What kills you out in the dark is almost always something that broke, something you ran out of, or something another human being did to you.
 
-Roughly twenty to forty worlds have meaningful permanent human populations. Dozens more host marginal outposts, failed colonies, and struggling settlements hanging on by their fingernails. Total human population in the Forge is estimated between fifty and one hundred and fifty million — a fraction of what existed before the cataclysm, spread thin across a vast region of space. The largest cities hold hundreds of thousands at most. Most communities are measured in the thousands. Nations are generally limited to single solar systems, sometimes with multiple nations sharing a system.
+Roughly twenty to forty worlds have meaningful permanent human populations. Dozens more host marginal outposts, failed colonies, and struggling settlements hanging on by their fingernails. Total human population in the Divide is estimated between fifty and one hundred and fifty million — a fraction of what existed before the cataclysm, spread thin across a vast region of space. The largest cities hold hundreds of thousands at most. Most communities are measured in the thousands. Nations are generally limited to single solar systems, sometimes with multiple nations sharing a system.
 
 Population is growing. Slowly, fitfully, with setbacks — but growing. The prevailing sense among people who think about such things is that humanity is on a long, hard road toward something better, with no guarantee of arrival but enough evidence of progress to justify continuing.
 
@@ -46,13 +46,13 @@ Population is growing. Slowly, fitfully, with setbacks — but growing. The prev
 
 ## Agriculture and Food
 
-Food is the foundational political and economic fact of the Forge.
+Food is the foundational political and economic fact of the Divide.
 
 Alien soil is almost uniformly poor by origin-world standards. The selection of crops that can be grown viably is limited. Caloric surpluses are thin, which means a large proportion of any planetary population is engaged in farming, which means specialisation is expensive, which means development is slow. Farming technology is roughly equivalent to late origin-world standards — good equipment, understood techniques — but working against soil and conditions that resist every effort.
 
 Hydroponic and sealed growing operations exist and are valuable, particularly on navy ships and stations and in more technologically advanced settlements. They are supplement rather than replacement for ground agriculture at current scales.
 
-The practical consequence: food is the most fought-over resource in the Forge. It is what the cordon navy taxes. It is what raiders take. It is what a good harvest means and a bad harvest costs. Settlements that achieve reliable food surplus have the foundation for everything else. Most have not achieved it yet.
+The practical consequence: food is the most fought-over resource in the Divide. It is what the cordon navy taxes. It is what raiders take. It is what a good harvest means and a bad harvest costs. Settlements that achieve reliable food surplus have the foundation for everything else. Most have not achieved it yet.
 
 ---
 
@@ -68,25 +68,25 @@ What this means concretely:
 
 **AI** exists as a legacy technology. Navy ships and some well-established settlements run sophisticated AI systems — genuine machine intelligence, not mere automation. These systems can be maintained by people who understand them. They cannot be built from scratch by anyone currently alive, because the production chains required to manufacture components at that level of complexity are gone. True AI is therefore finite, ageing, and concentrated in the hands of factions wealthy and organised enough to maintain it. It is not feared or forbidden — it is simply scarce and precious.
 
-**Ships** can be built by some factions, maintained by most. New construction does not reach the standard of the finest pre-cataclysm or navy vessels. The best ships in the Forge are old, navy-built, or both. FTL drives are functional and reliable for experienced crews on well-maintained vessels. A patched-together civilian ship on a long passage is a different proposition.
+**Ships** can be built by some factions, maintained by most. New construction does not reach the standard of the finest pre-cataclysm or navy vessels. The best ships in the Divide are old, navy-built, or both. FTL drives are functional and reliable for experienced crews on well-maintained vessels. A patched-together civilian ship on a long passage is a different proposition.
 
 **Energy and manufacturing** follow the same pattern as everything else — functional at modest scales, bottlenecked at the high end by missing production chains. A settlement can run power generation adequate to its needs. Frontier-grade precision manufacturing is beyond most.
 
-Trade in specialist components and precision parts is consequently one of the most valuable commercial activities in the Forge. A settlement that happens to produce one critical piece of a larger technological puzzle has leverage far beyond its apparent size.
+Trade in specialist components and precision parts is consequently one of the most valuable commercial activities in the Divide. A settlement that happens to produce one critical piece of a larger technological puzzle has leverage far beyond its apparent size.
 
-The navy factions, particularly the larger cordon fleets, are the closest thing to a functioning high-end industrial base in the Forge. This advantage compounds with every generation and is one of the structural foundations of their power.
+The navy factions, particularly the larger cordon fleets, are the closest thing to a functioning high-end industrial base in the Divide. This advantage compounds with every generation and is one of the structural foundations of their power.
 
 ---
 
 ## The Navy Factions
 
-The space navy that maintained its cohesion through the exodus has, over a century, fractured into numerous factions loosely organised into two broad categories. Together they number approximately one and a half million personnel — the single largest concentration of organised humanity in the Forge — spread across fleets, stations, and controlled systems.
+The space navy that maintained its cohesion through the exodus has, over a century, fractured into numerous factions loosely organised into two broad categories. Together they number approximately one and a half million personnel — the single largest concentration of organised humanity in the Divide — spread across fleets, stations, and controlled systems.
 
 Navy people are born and raised in space. Ships and stations are home. Planets are places you visit. Their culture is professional, hierarchical, and militaristic. They value merit — or believe they do. The reality is that navy children are trained from birth for navy roles, given educational and practical advantages unavailable to planetary civilians, and then evaluated against those civilians on criteria the navy designed. The gap between the self-image of a merit-based institution and the reality of an inherited military aristocracy is visible to outside observers and to honest insiders, and is a source of ongoing internal tension.
 
 Recruitment from civilian populations happens but is rare. Expulsion from navy ranks happens but is also rare. In practice, navy status is substantially hereditary.
 
-**The Cordon Navy Factions** are the descendants of the fleet elements that committed to maintaining the quarantine line and have never stopped. Multiple distinct factions, loosely coalitioned by shared mission and mutual necessity, they patrol a vast expanse of space and enforce the quarantine with the seriousness of people who have seen what happens when it fails. Their culture is the most militaristic in the Forge — they think of themselves as soldiers doing a job, not an elite class, and most genuinely mean it, while also being completely certain of their own moral and institutional superiority to everyone else.
+**The Cordon Navy Factions** are the descendants of the fleet elements that committed to maintaining the quarantine line and have never stopped. Multiple distinct factions, loosely coalitioned by shared mission and mutual necessity, they patrol a vast expanse of space and enforce the quarantine with the seriousness of people who have seen what happens when it fails. Their culture is the most militaristic in the Divide — they think of themselves as soldiers doing a job, not an elite class, and most genuinely mean it, while also being completely certain of their own moral and institutional superiority to everyone else.
 
 They tax every settled world in food and essential supplies and consider this straightforwardly fair compensation for a century of quarantine duty. They do not rule civilian populations, do not station personnel on planets, and do not interfere in local governance — except when they do, which is when atrocities or existential threats require intervention. Their interventions are surgical: disarm the aggressor, set terms, leave. Enforcement of those terms depends on whether the aggrieved party keeps pushing and whether the relevant cordon faction decides another trip is worth the resources.
 
@@ -108,7 +108,7 @@ The space navy's decision to enforce the cordon did not happen in an admiral's o
 
 The Vow was the answer. Officers went compartment by compartment with a simple demand: swear or leave. The vow was uniform across every vessel — *"I swear to uphold the cordon and safeguard the human race from the blight that will destroy us"* — and the ship's computer logged each declaration against each name. Those who would not swear were put off at the nearest port or transferred to civilian vessels. Nobody was executed. Nobody was exempt. The fleet was not coercing compliance — it had already achieved consensus. It was offering dissenters a dignified exit before the killing started, and everyone present understood that was what it was.
 
-Within weeks, every navy ship in the Forge carried a crew that had sworn, on the record, to hold the line.
+Within weeks, every navy ship in the Divide carried a crew that had sworn, on the record, to hold the line.
 
 The Cordon Vow held. The quarantine held with it. Cordon navy personnel still vow the Cordon Vow when they come of age, or they get expelled from the only world they've known up to that point.
 
@@ -118,7 +118,7 @@ Breaking *the* Cordon Vow — the original, the one every cordon navy person sti
 
 Breaking *a* cordon vow is not treason. It is something the navy considers almost worse: it is proof of who you are. Navy records reflect broken vows permanently and without annotation — there is no field for context or explanation, only the fact of it. Among people who grew up in the navy, a broken cordon vow ends relationships, careers, and reputations without appeal. It is regarded as more damning than theft or violence, both of which can at least be understood. A person who breaks a cordon vow has demonstrated that their word, when it cost them something, was worth nothing. There is no recovering from that among people who were raised to believe otherwise.
 
-Civilian society knows the tradition and understands its weight, but the consequences of breaking a cordon vow do not transmit automatically into civilian records. A navy person who breaks a vow will not find their civilian neighbours automatically informed. But everyone in the Forge knows what a cordon vow is, and everyone knows that a navy-raised person who broke one did something their own moral framework considers unforgivable. The reputation follows. It just travels slower.
+Civilian society knows the tradition and understands its weight, but the consequences of breaking a cordon vow do not transmit automatically into civilian records. A navy person who breaks a vow will not find their civilian neighbours automatically informed. But everyone in the Divide knows what a cordon vow is, and everyone knows that a navy-raised person who broke one did something their own moral framework considers unforgivable. The reputation follows. It just travels slower.
 
 ---
 
@@ -132,7 +132,7 @@ Planetary nations are generally small by pre-cataclysm standards — tens of tho
 
 The frontier is entirely on its own. No law, no supply chain, no cavalry coming. People protect themselves and their communities through force, reputation, and mutual obligation. Raiding is real. Everyone is armed. Trust is local and hard-won.
 
-On navy-controlled planets, the upper class lives in space. The planetary population may live reasonably well by Forge standards — navy technology and organisation provide real advantages — but the people making decisions about their lives are up in orbit, and the relationship is explicitly hierarchical. On independent planets, urban elites have emerged wherever surpluses allowed: merchants, administrators, skilled specialists who accumulated enough to stop farming.
+On navy-controlled planets, the upper class lives in space. The planetary population may live reasonably well by Divide standards — navy technology and organisation provide real advantages — but the people making decisions about their lives are up in orbit, and the relationship is explicitly hierarchical. On independent planets, urban elites have emerged wherever surpluses allowed: merchants, administrators, skilled specialists who accumulated enough to stop farming.
 
 Leisure exists. People travel within their planets on fast personal aircraft — supersonic flight is accessible to ordinary settlers. Communities gather for sport, music, festivals, and shared ritual. Art is made. The navy culture inflects its entertainment with military themes and values; civilian culture is more varied. Neither has much luxury. Both have humanity.
 
@@ -150,11 +150,11 @@ Within navy factions, law is professional and institutional. Police, courts, law
 
 ## Communications and Trade
 
-There is no faster-than-light communication. Information travels with ships, always has, and the implications of this shape everything about how the Forge functions politically and commercially.
+There is no faster-than-light communication. Information travels with ships, always has, and the implications of this shape everything about how the Divide functions politically and commercially.
 
 What humanity has instead is a robust courier network — fast dedicated vessels running established routes between settlements and navy installations, carrying news, contracts, legal documents, and data. The navy factions maintain the most reliable legs of this network. Independent courier operators fill the gaps. News from a distant system arrives weeks or months old but arrives regularly and reliably on any established route. The further a settlement sits from those routes, the older its information — a frontier outpost might be operating on news six months out of date.
 
-Courier captains are among the most connected and consequently most valuable people in the Forge. They know everything, and everyone needs them.
+Courier captains are among the most connected and consequently most valuable people in the Divide. They know everything, and everyone needs them.
 
 Trade in physical goods flows along the same routes. Food and agricultural produce are the most politically significant trade goods. Specialist components and precision parts are the most economically leveraged. Navy factions control the most valuable trade infrastructure and extract rents accordingly.
 
@@ -162,7 +162,7 @@ Trade in physical goods flows along the same routes. Food and agricultural produ
 
 ## The Precursors
 
-Something was in the Forge before humanity arrived. The evidence is sparse — a megastructure here, a drifting vessel there, separated by vast stretches of empty space — but what exists is unmistakable. Non-human. Constructed with purpose and capability that exceeds anything humanity has produced or can currently produce.
+Something was in the Divide before humanity arrived. The evidence is sparse — a megastructure here, a drifting vessel there, separated by vast stretches of empty space — but what exists is unmistakable. Non-human. Constructed with purpose and capability that exceeds anything humanity has produced or can currently produce.
 
 Most precursor sites are inert and inscrutable. Some are not entirely dead. Automated systems still cycling through processes no one understands. Structures that register the presence of human beings and respond in ways that don't feel random. Signals on frequencies nothing human should be broadcasting. Whatever built these things is gone — but gone is not the same as finished.
 
@@ -170,13 +170,13 @@ Precursor sites are rare enough that most people live their whole lives without 
 
 The operative framework for understanding precursor technology is that sufficiently advanced technology is indistinguishable from magic — but it is still technology. People who return from precursor sites shaken and changed were shaken and changed by something real and physical, even if they cannot explain what it was. There are no monsters. There is no supernatural. There is only the humbling evidence of a civilisation so far beyond current human capability that the gap feels infinite.
 
-What the precursors were, where they went, and what their still-functioning systems are actually doing are among the most consequential open questions in the Forge. Academic institutions, navy black programs, and informal networks of obsessives are all reaching different conclusions. None of them have enough data.
+What the precursors were, where they went, and what their still-functioning systems are actually doing are among the most consequential open questions in the Divide. Academic institutions, navy black programs, and informal networks of obsessives are all reaching different conclusions. None of them have enough data.
 
 ---
 
 ## Tone and Themes
 
-The Forge is not a hopeful place in any easy sense. Life is hard, margins are thin, power is concentrated in institutions that did not earn their position through democratic legitimacy, and the founding trauma of the cataclysm casts a long shadow over everything humanity has tried to build since.
+The Divide is not a hopeful place in any easy sense. Life is hard, margins are thin, power is concentrated in institutions that did not earn their position through democratic legitimacy, and the founding trauma of the cataclysm casts a long shadow over everything humanity has tried to build since.
 
 But it is not a dying place either. Population grows. Settlements improve. Knowledge accumulates. The long, slow work of rebuilding industrial capacity continues, piece by piece, settlement by settlement. People fall in love, raise children, make art, argue about politics, and hold festivals in the rain on alien soil that still isn't quite right for the crops they're trying to grow.
 

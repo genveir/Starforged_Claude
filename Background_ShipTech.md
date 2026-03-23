@@ -1,14 +1,14 @@
-# Ship Technology of the Forge
+# Ship Technology of the Divide
 
 ## Overview
 
-Ships in the Forge exist on a wide spectrum of capability, from purpose-built navy warships carrying technology no civilian yard can replicate, to patched-together frontier haulers held together by ingenuity and necessity. What they share is a common technological heritage — the knowledge base of pre-cataclysm humanity is substantially intact, but the industrial capacity to act on it is not. Ships can be built, but not to the standard of the finest pre-cataclysm vessels. They can be maintained, but every replacement part is a procurement problem. The best ships in the Forge are old, navy-built, or both.
+Ships in the Divide exist on a wide spectrum of capability, from purpose-built navy warships carrying technology no civilian yard can replicate, to patched-together frontier haulers held together by ingenuity and necessity. What they share is a common technological heritage — the knowledge base of pre-cataclysm humanity is substantially intact, but the industrial capacity to act on it is not. Ships can be built, but not to the standard of the finest pre-cataclysm vessels. They can be maintained, but every replacement part is a procurement problem. The best ships in the Divide are old, navy-built, or both.
 
 ---
 
 ## Propulsion and Flight
 
-Most ships in the Forge use reaction drives for sublight travel and manoeuvering. The technology is well understood and components are manufacturable by most factions with a modest industrial base. Drive quality varies significantly — a navy vessel and a frontier hauler may use the same fundamental principles but perform very differently in practice.
+Most ships in the Divide use reaction drives for sublight travel and manoeuvering. The technology is well understood and components are manufacturable by most factions with a modest industrial base. Drive quality varies significantly — a navy vessel and a frontier hauler may use the same fundamental principles but perform very differently in practice.
 
 Atmospheric flight is routine. Supersonic speeds are accessible even to civilian vessels and personal aircraft. A ship capable of interstellar travel can generally operate in atmosphere without difficulty, though purpose-built combat vessels optimised for vacuum performance may handle less gracefully planetside.
 
@@ -48,7 +48,7 @@ Transit time from low orbit to a moon's surface is roughly fifteen to thirty min
 
 ## Hull Types and Configuration
 
-Ships in the Forge fall into broad categories based on their intended role, and configuration tells an experienced eye a great deal about a vessel's purpose. This list is not exhaustive and will be expanded on when the need arises.
+Ships in the Divide fall into broad categories based on their intended role, and configuration tells an experienced eye a great deal about a vessel's purpose. This list is not exhaustive and will be expanded on when the need arises.
 
 The navy has better versions of every ship class than the civilian shipyards can output. They will be faster, more durable, better armed, more reliable and generally just superior in every aspect.
 
@@ -62,16 +62,16 @@ The navy has better versions of every ship class than the civilian shipyards can
 
 ## Transponders
 
-Vessels in the Forge are expected to run transponders — automated systems broadcasting identification and registration data. A ship running without a transponder has either suffered a malfunction or does not want to be identified. In practice, legitimate vessels have legitimate registrations. A ship running silent on transponder is assumed to have something to hide, and treated accordingly by any navy vessel that encounters it.
+Vessels in the Divide are expected to run transponders — automated systems broadcasting identification and registration data. A ship running without a transponder has either suffered a malfunction or does not want to be identified. In practice, legitimate vessels have legitimate registrations. A ship running silent on transponder is assumed to have something to hide, and treated accordingly by any navy vessel that encounters it.
 
 ---
 
 ## Notes on Industrial Constraints
 
-Ship construction is possible for factions with adequate industrial base. All navy factions — cordon and planetary alike — retain sufficient logistics infrastructure to manufacture ammunition, missiles, and replacement parts. This is not trivial capability; it means no navy faction is slowly cannibalising its fleet or rationing its weapons in normal operations. What they cannot do is build to the standard of the vessels they arrived with. The specialised shipyard infrastructure required for capital hull construction — the precision tooling, the dry dock scale, the accumulated institutional expertise — did not survive the exodus intact. Every capital ship in any navy's fleet is origin world or early Forge construction, maintained with extraordinary care because losing one is a permanent and irreversible strategic degradation. Nobody currently has the capacity to replace them.
+Ship construction is possible for factions with adequate industrial base. All navy factions — cordon and planetary alike — retain sufficient logistics infrastructure to manufacture ammunition, missiles, and replacement parts. This is not trivial capability; it means no navy faction is slowly cannibalising its fleet or rationing its weapons in normal operations. What they cannot do is build to the standard of the vessels they arrived with. The specialised shipyard infrastructure required for capital hull construction — the precision tooling, the dry dock scale, the accumulated institutional expertise — did not survive the exodus intact. Every capital ship in any navy's fleet is origin world or early Divide construction, maintained with extraordinary care because losing one is a permanent and irreversible strategic degradation. Nobody currently has the capacity to replace them.
 
-Below capital scale, navy factions can and do build new vessels. Corvettes, frigates, and support ships are within reach of any navy faction with a serious industrial base. This new construction is functional and capable — significantly better than anything a civilian yard produces — but measurably inferior to the old ships in every category where shipyard quality shows up: precision tolerances, hull integrity, drive efficiency, weapons integration. The best ships in the Forge are old, navy-built, or both. New navy construction is the third best option, and civilian construction trails behind that.
+Below capital scale, navy factions can and do build new vessels. Corvettes, frigates, and support ships are within reach of any navy faction with a serious industrial base. This new construction is functional and capable — significantly better than anything a civilian yard produces — but measurably inferior to the old ships in every category where shipyard quality shows up: precision tolerances, hull integrity, drive efficiency, weapons integration. The best ships in the Divide are old, navy-built, or both. New navy construction is the third best option, and civilian construction trails behind that.
 
 Maintenance is the more pressing concern for most operators. Every replacement part is a procurement problem. Ships that operate far from established supply chains — frontier couriers, long-range patrol vessels — carry spares and develop repair capabilities that closer-to-home operators do not need. A courier captain who cannot fix their own ship is a courier captain who will eventually die in the dark.
 
-None of this comes without cost. Navy factions operate at the upper end of what the Forge's industrial base can sustain, and that ceiling is lower than it looks from the outside. Missiles are expensive to manufacture even for factions with the capacity to do it. New hull construction competes for resources with maintenance, personnel, food, and the hundred other demands on a faction's surplus. A navy faction that fights a serious war and expends significant materiel is not replenished quickly. The strategic calculus around when to engage, when to threaten, and when to let something go is never purely military — it is always also a question of what the engagement costs and how long it takes to recover. The largest cordon factions have deeper reserves than most, but nobody in the Forge has resources to burn.
+None of this comes without cost. Navy factions operate at the upper end of what the Divide's industrial base can sustain, and that ceiling is lower than it looks from the outside. Missiles are expensive to manufacture even for factions with the capacity to do it. New hull construction competes for resources with maintenance, personnel, food, and the hundred other demands on a faction's surplus. A navy faction that fights a serious war and expends significant materiel is not replenished quickly. The strategic calculus around when to engage, when to threaten, and when to let something go is never purely military — it is always also a question of what the engagement costs and how long it takes to recover. The largest cordon factions have deeper reserves than most, but nobody in the Divide has resources to burn.

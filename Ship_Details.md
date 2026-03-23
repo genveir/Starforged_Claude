@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Steady Return is a lightly armed civilian courier corvette operating out of the Sonnet system. It runs spoke routes from Sonnet out to frontier settlements that would otherwise be entirely cut off from the wider Forge — carrying news, contracts, legal documents, data, and physical trade goods. The business model is connection: frontier systems pay for the link to inner worlds, and Sonnet gets first intelligence on everything those frontier systems find.
+The Steady Return is a lightly armed civilian courier corvette operating out of the Sonnet system. It runs spoke routes from Sonnet out to frontier settlements that would otherwise be entirely cut off from the wider Divide — carrying news, contracts, legal documents, data, and physical trade goods. The business model is connection: frontier systems pay for the link to inner worlds, and Sonnet gets first intelligence on everything those frontier systems find.
 
 The ship is fast, with strong and dependable FTL capability — the route demands it. Frontier stops are irregular enough that the crew never entirely knows what they are sailing into, which is why the ship carries a master at arms at all.
 
@@ -10,7 +10,7 @@ The ship is fast, with strong and dependable FTL capability — the route demand
 
 ## Role and Operations
 
-The Steady Return is a courier vessel first. Its value to its operators is speed and reliability on established routes, not combat capability. It carries passengers occasionally, cargo regularly, and information always. Courier captains are among the most connected people in the Forge, and the Steady Return's crew has built up two years of relationships, favours, and intelligence across every stop on its route.
+The Steady Return is a courier vessel first. Its value to its operators is speed and reliability on established routes, not combat capability. It carries passengers occasionally, cargo regularly, and information always. Courier captains are among the most connected people in the Divide, and the Steady Return's crew has built up two years of relationships, favours, and intelligence across every stop on its route.
 
 ---
 

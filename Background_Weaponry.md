@@ -1,8 +1,8 @@
-# Weapon Systems of the Forge
+# Weapon Systems of the Divide
 
 ## Overview
 
-The Forge's industrial constraints shape its weapons as much as everything else. The scientific knowledge to build sophisticated weapons exists. The manufacturing capacity to produce them at scale does not. What the Forge has is a weapons ecosystem built from what can actually be made, maintained, and sourced — functional, dangerous, and uneven in distribution.
+The Divide's industrial constraints shape its weapons as much as everything else. The scientific knowledge to build sophisticated weapons exists. The manufacturing capacity to produce them at scale does not. What the Divide has is a weapons ecosystem built from what can actually be made, maintained, and sourced — functional, dangerous, and uneven in distribution.
 
 ---
 
@@ -10,7 +10,7 @@ The Forge's industrial constraints shape its weapons as much as everything else.
 
 The standard point defence system on armed civilian vessels. A ward launcher fires ward charges — munitions designed not to destroy incoming objects but to deflect them. A ward charge imparts enough force to push an asteroid, piece of debris, or dumb projectile off its course, causing it to miss rather than hit.
 
-Ward systems exist primarily because ships and settlements in the Forge need protection against the mundane hazard of moving through space near rocks. Their secondary function as a weapons defence system is real but limited: ward charges are effective against anything that cannot correct its own course, and ineffective against anything that can. A guided missile simply adjusts after the push and continues toward its target.
+Ward systems exist primarily because ships and settlements in the Divide need protection against the mundane hazard of moving through space near rocks. Their secondary function as a weapons defence system is real but limited: ward charges are effective against anything that cannot correct its own course, and ineffective against anything that can. A guided missile simply adjusts after the push and continues toward its target.
 
 Ward launchers are cheap and easy to produce and maintain, which is another reason lasers and larger kinetics are not generally used as point defense.
 
@@ -18,7 +18,7 @@ Ward launchers are cheap and easy to produce and maintain, which is another reas
 
 ## Lasers
 
-The standard ranged weapon of armed ships in the Forge. Lasers travel at lightspeed, which means at any combat-relevant range there is no dodging a shot once fired. What limits their effectiveness is power falloff over distance — the energy delivered to a target decreases significantly as range increases. Maximum effective range is about 2000 kilometers.
+The standard ranged weapon of armed ships in the Divide. Lasers travel at lightspeed, which means at any combat-relevant range there is no dodging a shot once fired. What limits their effectiveness is power falloff over distance — the energy delivered to a target decreases significantly as range increases. Maximum effective range is about 2000 kilometers.
 
 At long range, even a well-armed civilian ship can only harass and degrade. It can cook sensors, pit hull plating, and slowly accumulate damage on a ship that holds still — but it cannot precision-target a specific component or guarantee a kill. A navy vessel with proper fire control systems can be genuinely surgical at the same ranges, knocking out specific systems with accuracy a civilian cannot match.
 
@@ -40,11 +40,11 @@ Settlements cannot move, but ward launchers can still provide meaningful defence
 
 ## Missiles
 
-The most dangerous weapons in common circulation in the Forge, and the rarest. Guided missiles carry meaningful warheads to their targets at range, correct course in flight, and cannot be defeated by ward charges. A missile that connects with a ship that is not built to absorb the hit will cripple or destroy it. They can essentially hit anything that the ship carrying them can target. 
+The most dangerous weapons in common circulation in the Divide, and the rarest. Guided missiles carry meaningful warheads to their targets at range, correct course in flight, and cannot be defeated by ward charges. A missile that connects with a ship that is not built to absorb the hit will cripple or destroy it. They can essentially hit anything that the ship carrying them can target. 
 
 Range is effectively limited by the missile's fuel, since once that runs out it's just a dumb munition. A ship that detects an incoming missile at long range can turn and accelerate away while simultaneously firing defensively at it. Each laser shot has low odds of connecting, but the ship keeps firing for as long as the missile is in flight — and a fast ship running hard can stretch that chase considerably. The cumulative chance of a defensive hit goes up with every second of additional range. Collapse that distance and the window for defensive fire collapses with it. For a fast ship, five thousand kilometres should be a safe distance; at a few hundred, the missile is already almost on top of you.
 
-The industrial constraints of the Forge make missiles expensive to manufacture and impossible to source locally outside of established navy supply chains. A ship arrives with however many missiles it could acquire before departure, and that number does not increase in the field. Every shot is a strategic decision.
+The industrial constraints of the Divide make missiles expensive to manufacture and impossible to source locally outside of established navy supply chains. A ship arrives with however many missiles it could acquire before departure, and that number does not increase in the field. Every shot is a strategic decision.
 
 A ship carrying missiles has a deterrent entirely disproportionate to everything else about it. A harrier — faster, more manoeuverable, capable of laser harassment — cannot safely approach a vessel with missiles in its magazine, because one or two hits will end the engagement permanently.
 

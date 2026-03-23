@@ -2,7 +2,7 @@
 
 ## The Setting
 
-Raiman's Folly takes its name from Solomon Raiman, a celebrated early Forge surveyor credited with identifying numerous high-value planets and moons in the origin days. He also surveyed this moon and dismissed it as commercially unviable. When the first settlers arrived and found nothing immediately valuable, they kept the name as a joke at his expense. The joke has not yet stopped being funny, but it may be getting closer — the settlement's backers are cautiously optimistic about recent survey findings, and active surveying continues.
+Raiman's Folly takes its name from Solomon Raiman, a celebrated early Divide surveyor credited with identifying numerous high-value planets and moons in the origin days. He also surveyed this moon and dismissed it as commercially unviable. When the first settlers arrived and found nothing immediately valuable, they kept the name as a joke at his expense. The joke has not yet stopped being funny, but it may be getting closer — the settlement's backers are cautiously optimistic about recent survey findings, and active surveying continues.
 
 The moon is approximately half the size of Earth's moon — roughly 1700 kilometres in diameter. It has no meaningful atmosphere to speak of. Its defining characteristic is exceptionally high metallicity, which has made it the focus of a small but serious settlement engaged in surveying and developing mining prospects.
 

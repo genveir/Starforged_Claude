@@ -14,7 +14,7 @@ Gerald is sharp, experienced, and self-aware in the way that only comes from hav
 
 Gerald was born and raised in a planetary navy faction based out of the Sonnet system. Sonnet's official designation is *Starbound Everlasting Glory, New Home of the Sonnet* — a name bestowed by the eccentric captain of the survey vessel *Sonnet* that originally charted the system, back before the cataclysm. Nobody uses the full name. Everyone calls it Sonnet, usually with a faint collective eye-roll at the statue of its founder that stands in the main docking hub.
 
-Sonnet is, by Forge standards, one of the fortunate ones. The planet the navy faction controls is relatively prosperous — good enough soil by Forge standards, established agriculture, modest but real surpluses. The navy faction itself is genuinely benevolent in the way that's easy when things are going well: competent leadership, real investment in planetary infrastructure, a track record of making things incrementally better. Gerald grew up inside that institution and owes it a great deal, a fact he acknowledges without particular sentimentality.
+Sonnet is, by Divide standards, one of the fortunate ones. The planet the navy faction controls is relatively prosperous — good enough soil by Divide standards, established agriculture, modest but real surpluses. The navy faction itself is genuinely benevolent in the way that's easy when things are going well: competent leadership, real investment in planetary infrastructure, a track record of making things incrementally better. Gerald grew up inside that institution and owes it a great deal, a fact he acknowledges without particular sentimentality.
 
 ---
 
@@ -48,7 +48,7 @@ He still had friends in the navy. People he'd grown up alongside who had stayed,
 
 ## The Steady Return
 
-The vouching got Gerald an interview. The interview got him a berth. For two years now he has served as master at arms aboard the *Steady Return* — a lightly armed civilian courier corvette operating out of Sonnet, crewed by approximately ten people, running spoke routes out to frontier systems that would otherwise be entirely cut off from the wider Forge.
+The vouching got Gerald an interview. The interview got him a berth. For two years now he has served as master at arms aboard the *Steady Return* — a lightly armed civilian courier corvette operating out of Sonnet, crewed by approximately ten people, running spoke routes out to frontier systems that would otherwise be entirely cut off from the wider Divide.
 
 The business model is connection. Frontier systems pay for the link to the inner worlds — for news, for the ability to send and receive messages, for access to markets and opportunities they couldn't reach alone. Sonnet, as the hub, gets first intelligence on everything those frontier systems find: mineral surveys, new settlements, resource opportunities. It works for everyone involved, modestly but reliably.
 
