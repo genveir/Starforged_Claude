@@ -41,6 +41,8 @@ These are questions that a client should be able to answer correctly to run a ne
 
 **The Divide generally**
 - Were worlds in the Divide visited by explorers from the origin worlds before the exodus?
+- Why were the planetary navies formed?
+- Give an estimate of the population of the Shell
 
 **Restrictions**
 - What explicit restrictions have been placed on the narrative?
