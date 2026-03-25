@@ -43,12 +43,5 @@ Certain entries that are also general enough to belong in the setting background
 
 ---
 
-Here's the entry to add to InterestingObservations.md, after the existing orbital mechanics sections:
-
----
-
-**The mineral indicator**
-
-**[Certain]** There exists a specific rare mineral whose presence in high concentration is a known indicator of precursor technology in the vicinity. The precise mineral has not yet been named. Its value as an indicator is known to certain parties in the Divide — how widely this knowledge is distributed is not yet established.
-
-**[Speculative]** Raiman's Folly's exceptional metallicity and the survey arm's recent finds may be connected to this indicator. If the mineral is present in the concentrations that excited the settlement's backers, it may have drawn attention from parties interested in what lies beneath rather than what can be mined. The details of what any precursor technology at this site might look like — size, condition, capability — are entirely open.
+**Reading the precursor data**
+**[Speculative]** The entity able to recognize data as linked to the precursors may not be human. Maybe the rogue settlement is led by an AI?

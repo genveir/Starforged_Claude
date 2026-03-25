@@ -9,7 +9,7 @@ Gerald departed the Steady Return in the shuttle from the shuttle bay. Graff sai
 During the freefall Gerald realised he had miscalculated his arc slightly. The raider's orbital position was cresting the horizon faster than expected. With seconds to spare he executed an improvised radial burn — pitching the nose toward the surface and accelerating hard, then flipping and decelerating before impact. The manoeuvre worked but burned fuel badly. Supply dropped from 5 to 4.
 
 ### Surface Approach
-Gerald flew low across the survey terrain toward the settlement outskirts — quiet, careful work, threading the metallicity interference layer and staying below the raider's sensor horizon. He brought the shuttle down behind a ridge approximately one kilometre short of the settlement and continued on foot.
+Gerald flew low across the rugged terrain toward the settlement outskirts — quiet, careful work, threading the metallicity interference layer and staying below the raider's sensor horizon. He brought the shuttle down behind a ridge approximately one kilometre short of the settlement and continued on foot.
 
 ### Observation
 From the ridge Gerald spent considerable time observing the settlement through binoculars. He identified the raiders' patrol patterns and the gaps between them, located a maintenance access route into the ore processing infrastructure that avoided the hub where the raiders are concentrated, and spotted a figure near an outlying equipment shelter whose walk he recognised.

@@ -24,18 +24,12 @@ The Shell is where rogue AI is most likely to be encountered. Old World technolo
 ---
 
 ## The Refuge
-Where almost all humans live. The product of deliberate navy action in the first generation after the exodus — navies relocated populations from the Shell, and concentrated humanity in a region with the most promise. This is the society the background documents describe.
+The food-bearing planets of the Refuge are humanity's greatest asset.
+
+This is where almost all humans live. The product of deliberate navy action in the first generation after the exodus — navies relocated populations from the Shell, and concentrated humanity in a region with the most promise. This is the society the background documents describe.
 
 The concentration process has a direct bearing on the planetary navy factions: a navy that transported a population to the Refuge and settled them has a natural claim to authority over that population, and those populations have a complex relationship with the navy that saved them and subsequently rules them — genuine gratitude layered over genuine resentment of the power asymmetry.
 
-The Refuge is not a single contiguous region in any simple geographic sense. Its shape is determined by passage corridor availability rather than raw distance — FTL travel follows natural spatial phenomena, so two worlds physically close might be navigationally isolated while two distant worlds are well connected. The actual inhabited zone is a series of clusters and corridors rather than a uniform sphere, with the cordon navy's territory forming its inner boundary against the Shell and Blight.
+The Refuge is not a single contiguous region in any simple geographic sense. Its shape is determined by passage corridor availability rather than raw distance — FTL travel follows natural spatial phenomena, so two worlds physically close might be navigationally isolated while two distant worlds are well connected. The actual inhabited zone is a series of clusters and corridors rather than a uniform sphere.
 
----
-
-## The Cordon
-
-The cordon exists to protect the Refuge from contamination, and that purpose is genuine — but it also places the most powerful faction in human space as the sole gatekeeper to whatever the Old Worlds contain. Orbital operations above a blighted surface, sealed and sterile with zero ground contact, are theoretically viable. Whether the cordon navy factions are quietly pursuing such operations is not discussed openly. That the protective mission and the strategic monopoly happen to coincide is a coincidence that each generation finds harder to ignore.
-
-The cordon navies have bases all through the Shell and the Refuge, always on vigil against the Blight escaping its bounds.
-
----
+Some of the largest bases of the cordon navies lie within the Refuge. These serve as a locus of power, as gathering points for the food tax, and as staging points for expeditions and convoys into the Shell and the Blight. Although these bases lie within the cluster of systems known as the Refuge, none of them are at inhabited planets.

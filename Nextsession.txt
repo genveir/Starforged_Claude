@@ -1,14 +1,11 @@
-Session 4 opens with Gerald, Carl, Davel Oren, and Hamzi in a back room of the settlement's industrial infrastructure. The circle of trust is established. The immediate next move is finding someone on the survey arm who can read the data on Hamzi's pad — that data will reveal how close the raiders are to finding what they came for.
+Session 5 opens with Gerald having established a circle of trust: Carl Inswich, Davel Oren, Hamzi, and Sandra Vael. The raiders' true purpose is now understood in broad terms — something is buried under the moon and they came specifically to find it. Sandra has read the data pad and confirmed the survey readings point to a non-natural subsurface formation.
 
-Gerald is carrying the data pad. It logs all traffic passing through the connection Hamzi built between the software specialist and the main mining systems. The raiders do not know it exists.
+The immediate pressure is Sandra's condition: Minka Brinberg, the lead surveyor, is being permitted to collect personal effects from her cabin tomorrow under raider escort. Sandra wants her extracted during that window. The plan is premature and has serious problems. Gerald agreed to it to bring Sandra onside.
 
-The raiders are comfortable and careless. Rotating watch on the main hub. The chief surveyor and software specialist are held in the jail. The rest of the settlement is on normal work rotations under supervision.
-
-Key things the circle needs to establish:
-- Who on the survey arm has the knowledge to read the pad data, and can they be trusted and reached safely
+Key things Gerald needs to navigate:
+- The escort ambush tomorrow — bad timing, real cost if it goes wrong
+- What the buried object actually is and how close the raiders are to finding it
 - Who among the broader settler population has the spine to organise resistance
-- What the device the raiders brought actually does
+- The device the raiders brought and what it does
 
-The data pad is the most pressing thread. Whatever is on it will shape the timeline and the plan.
-
-Refer to SessionLog_3.md for session 3 narrative. Refer to GameState.md for current tactical situation.
+Refer to SessionLog_4.md for session 4 narrative. Refer to GameState.md for current tactical situation.

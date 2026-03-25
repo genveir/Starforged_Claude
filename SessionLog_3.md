@@ -3,10 +3,10 @@
 ## Session 3
 
 ### Opening Vignette
-Hamzi, working under no supervision — the raiders comfortable and careless enough to have stopped watching every corner — completes the connection they ordered between the software specialist and the main mining systems. Before he does, he installs a listener on the line, invisible to anyone who didn't lay these cables themselves. He's satisfied with the work in the quiet way of someone who has done a careful thing well. He heads toward Carl's room to report, unaware Gerald is already there.
+Hamzi, working under light supervision — the raiders comfortable and careless enough to have stopped watching every corner — completes the connection they ordered between the software specialist and the main mining systems. Before he does, he installs a listener on the line, invisible to anyone who didn't lay these cables themselves. He's satisfied with the work in the quiet way of someone who has done a careful thing well. He heads toward Carl's room to report, unaware Gerald is already there.
 
 ### The Reunion
-Gerald found Carl Inswich in a back room of the settlement's industrial infrastructure, Davel Oren still at the door behind him. Carl's relief at seeing Gerald was physical and immediate — the expression of a man who had been bracing for something worse shifting into recognition. Gerald shook Davel Oren's hand and brought him properly into the room.
+Gerald found Carl Inswich in a back room of the settlement's industrial infrastructure, the mining foreman still at the door behind him. Carl's relief at seeing Gerald was physical and immediate — the expression of a man who had been bracing for something worse shifting into recognition. Gerald shook the mining foreman's hand and brought him properly into the room. He introduced himself as Davel Oren.
 
 ### Laying It Out
 Gerald made the call to trust everyone present and laid out the situation plainly: the Steady Return is pinned on the far side of the moon by the raider's two missiles, and the plan starts here with whatever the settlement has. Carl asked how many people Gerald brought. Gerald told him it was just him — but that twenty years as a lawman means he knows how to organise resistance. Carl exhaled four days of compressed dread and said *tell me what you need to know.* The connection between them was established in that moment.
@@ -23,7 +23,7 @@ The occupation has gotten comfortable fast. Rotating watch on the main hub, the 
 And something else: the raiders brought a device with them. Carried it like it was worth more than the ship. Nobody has gotten close enough to know what it does.
 
 ### Hamzi Arrives
-Hamzi came through the door without knocking — someone who knows these corridors and has learned that knocking is a habit worth dropping. He stopped when he saw Gerald. He'd made a call into the dark not knowing if anyone would answer. It answered.
+Hamzi came through the door without knocking. He stopped when he saw Gerald. He'd made a call into the dark not knowing if anyone would answer. It answered.
 
 He reported what he'd done: the listener on the line, the data pad now logging everything passing between the software specialist and the main mining systems in both directions. He can't read survey data. Someone on the survey arm can. He handed the pad to Gerald — by far the most capable person in the room to carry it, and a face the raiders won't recognise.
 

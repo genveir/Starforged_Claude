@@ -30,7 +30,7 @@ On the ground: Gerald gets to the surface, identifies settlers with the spine an
 In orbit: The raider's two remaining missiles are the key constraint preventing the Steady Return from closing and supporting. Neutralising them is the endgame — either by exhausting them, destroying them on the ship, or getting dangerous cargo aboard the raider through deception. Even without the missiles the raider is too strong to take in a direct fight, it will need to be damaged.
 
 ### Departure Preparation
-Gerald prepared to depart in the shuttle. Graff will maintain two relay drones on Gerald's side of the moon to preserve communications. The approach will come from the mining survey side of the settlement — the least obvious vector, likely outside the raider's relay drone coverage.
+Gerald prepared to depart in the shuttle. Graff will maintain two relay drones on Gerald's side of the moon to preserve communications. The approach will need to be silent until under cover of the moon's sensor ghosts. Until it is down near the surface, Relay drones and the raider ship could easily spot it if it's careless.
 
 An Expedition (Dangerous) has been framed with three segments:
 1. Getting the shuttle past the raider's relay drone coverage undetected
