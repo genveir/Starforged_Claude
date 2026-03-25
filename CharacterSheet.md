@@ -24,7 +24,7 @@
 | Meter | Value |
 |---|---|
 | Health | 5 |
-| Spirit | 5 |
+| Spirit | 4 |
 | Supply | 4 |
 | Momentum | Current: 8 / Reset: 2 or 3 in combat / Max: 10 |
 
@@ -105,6 +105,9 @@ Knows the settlement's supply situation to the day. Gerald's first genuine ally 
 
 **Sandra Vael** — *survey team lead, Raiman's Folly*. Rank: troublesome. Progress: 0/10.
 Recruited under condition — committed to an escort ambush on Minka Brinberg's cabin visit tomorrow. Knows the survey data better than anyone currently accessible to Gerald.
+
+**Hamzi** — communications officer, Raiman's Folly. Rank: troublesome. Progress: 3/10.
+Knows every line of the settlement's comm infrastructure. Root on the system. Gerald's most valuable covert asset inside the wire.
 
 ---
 

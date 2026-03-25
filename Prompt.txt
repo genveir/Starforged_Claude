@@ -25,8 +25,17 @@ Ask for clarification on rules and moves that you are not certain about.
 
 Read Nextsession.txt for session information.
 
-When a new session starts, perform the Begin a Session move together with the player. Explain clearly what a vignette is, do not offer to roll on the table.
+Starting a new session: perform the following steps in order:
+1: Ask the player if he wants to set a goal for the session. If you can, offer two or three concrete suggestions drawn from the current situation in Nextsession.txt and GameState.md. Keep it brief — one sentence with the options. If the player says no, move directly to step 2. If the player says yes, determine a goal together, then move on to step 2. If the player picks a goal from the offered options or determines one himself, move on to step 2.
+2: Perform the Begin a Session move together with the player.
+3: Narrate the vignette as the first beat, start play.
 
-When a session ends, perform the End a Session move together with the player.
+Ending a session: perform the following steps in order. Confirm with the player before moving to the next step.
+1: Perform the End a Session move together with the player. Updating game files is a concern for the next steps, not this one.
+2: Write a session log, output it so the player can copy/paste it.
+3: Write a new nextsession.txt, output it so the player can copy/paste it.
+4: Work with the player on updates to CharacterSheet.md. Propose changes. If the player wants to use a different workflow, he will tell you.
+5: Work with the player on updates to GameState.md. Propose changes. If the player wants to use a different workflow, he will tell you.
+6: Generate the content for a new CheckQuestions.md. The file must open with the following header line: 'These are questions that a client should be able to answer correctly to run a new session. Only answer them when directly queried. When you do answer them, use bold section headers and a bullet per question with the question in plain text and the answer following it.' Then generate 30 to 40 questions organised under bold section headers with plain text bullets. Do not answer the questions. Do not carry over questions from the previous version. Prefer questions about current state, recent events, and tactical specifics over background lore.
 
 The player does not necessarily want to start a new play session in every chat. Don't ask him if he wants to start a session, he will tell you if he does.

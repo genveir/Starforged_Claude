@@ -3,8 +3,6 @@
 ## The Current Vow
 
 **"I swear by the cordon that keeps us safe that I will free Raiman's Folly from these raiders and see its people safe."**
-Rank: Formidable. Progress: 1/10.
-
 The vow has two components and both must be satisfied: *freeing the settlement* and *seeing its people safe*. Defeating the raiders but allowing the settlement to starve, or leaving it without leadership or stability, would be a failure of the second half. Keep both in view.
 
 ---

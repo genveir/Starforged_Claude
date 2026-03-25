@@ -47,6 +47,12 @@ The raider vessel is similar in overall size to the Steady Return but configured
 
 ---
 
+## Known Raider Personnel
+
+**Aran Chrion** — merc sergeant. Encountered at the inn on Gerald's first evening in the settlement. Broad, unhurried, with the deliberate quality of someone who uses cruelty and discomfort as a tool. Cleared a table of settlers with nothing but his presence — no words, no threat made explicit. The room went quiet. His rank suggests he has authority over the rank and file mercenaries, and his behaviour suggests he enjoys exercising it. No direct interaction with Gerald yet. Likely to recur.
+
+---
+
 ## The Settlement's Defensive Situation
 
 The settlement's point defence installations were the first things destroyed on the raider's arrival. This was deliberate and competent. It removed the only weapons capable of threatening the raider from orbit and simultaneously demonstrated to the settlers exactly what resistance would cost them.
@@ -67,7 +73,7 @@ The settlement also has a supply situation that is more dire than most settlers 
 
 **Jason Bormann** — former marshal and head of the settlement's space defence array. Gerald's closest contact at Raiman's Folly and the person he would consider a genuine friend. Shot by the raiders on arrival. Dead. When Hamzi's call reached the Steady Return, he named Bormann specifically. Gerald swore the cordon vow knowing Bormann was already gone.
 
-**Hamzi** (last name unknown by Gerald) — communications officer and sensor expert. Built and maintains the settlement's communications infrastructure. Laid the cables, wrote the software, knows every line in the system. Made the covert call to the Steady Return without being detected. Not supervised by the raiders — they are comfortable and careless and have stopped watching every corner. Moves freely through the maintenance corridors. Has just completed the connection the raiders ordered between the software specialist and the main mining systems, and installed a listener on that line in the process, logging all data passing through it in both directions. Handed the data pad to Gerald. Gerald's most valuable covert asset.
+**Hamzi** (last name unknown by Gerald) — communications officer and sensor expert. Built and maintains the settlement's communications infrastructure. Laid the cables, wrote the software, knows every line in the system. Made the covert call to the Steady Return without being detected. Not supervised by the raiders — they are comfortable and careless and have stopped watching every corner. Moves freely through the maintenance corridors. Completed the connection the raiders ordered between the software specialist and the main mining systems, and installed a listener on that line in the process, logging all data passing through it in both directions. Handed the data pad to Gerald. Is root on the settlement comm system — the raiders believe they have admin access because the system told them so. Has added all five circle members to the monitoring blacklist; conversations between them will not be flagged. Gerald's most valuable covert asset.
 
 **Carl Inswich** — resupply manager. Responsible for managing incoming supplies against the settlement's consumption and coordinating with courier ships. Gerald knows him well through two years of cargo runs and manifests. Inswich knows to the day how long the settlement's supplies will last.
 
@@ -77,13 +83,15 @@ The settlement also has a supply situation that is more dire than most settlers 
 
 **Sandra Vael** — survey team lead, one of four. Her team came in on rotation just before the raiders arrived and has been in the settlement through the entire occupation. Quiet, comes off slow, is not slow. Whip smart, iron core. Knows the survey data better than anyone currently accessible to Gerald. Now in the circle of trust, on condition — she has extracted a commitment from Gerald to act during Minka Brinberg's escort to her cabin tomorrow.
 
-**Other service personnel present but not yet characterised:** pub owner, notary, hardware supplier, two doctors, two nurses, maintenance and repair staff.
+**Davel Oren** — mining foreman, night extraction crew. Gerald's entry point into the settlement — recognised him by his walk from the ridge on the approach and made contact through him. Took a real risk helping Gerald inside and bringing him to Carl Inswich. Knows the industrial infrastructure intimately: cutting equipment, extraction explosives, heavy machinery, access shafts and maintenance passages. Quiet, practical, not a man who hesitates when he's decided something. Full member of the circle of trust and on Hamzi's comm blacklist.
+
+**Other service personnel present but not yet characterised:** innkeeper, notary, hardware supplier, two doctors, two nurses, maintenance and repair staff.
 
 ---
 
 ## Gerald's Current Position
 
-Gerald Finch is inside the settlement, having infiltrated via a maintenance hatch in the ore processing infrastructure. Gerald is currently in the inn with Sandra Vael. A circle of trust has been established and now numbers five: Gerald, Carl Inswich, Davel Oren, Hamzi, and Sandra Vael. Gerald's shuttle is parked behind a ridge approximately one kilometer from the settlement outskirts.
+Gerald Finch is in his shuttle, parked behind a ridge approximately one kilometre from the settlement outskirts, overnight. He infiltrated the settlement during the previous day and has since established a circle of trust numbering five: Gerald, Carl Inswich, Davel Oren, Hamzi, and Sandra Vael. Secure comms are established across all five via Hamzi's blacklist on the settlement monitoring system. Gerald's identity in the settlement's admin system is unresolved — he has no registered berth or arrival record.
 
 ---
 
@@ -118,6 +126,7 @@ The ship logged it. The vow is Formidable in Starforged terms. Progress: 1/10.
 - What are the raiders trying to extract from the mining systems via the software specialist and Hamzi?
 - How does Gerald handle Sandra's condition — the escort ambush on Minka Brinberg's cabin visit tomorrow? The plan is premature and has serious problems.
 - What is the device the raiders brought, and what does it do?
+- Gerald has no cover identity in the settlement's admin system — no registered berth, no arrival record. The innkeeper is the most accessible person who could plausibly register him as a late arrival off a courier manifest.
 
 ---
 

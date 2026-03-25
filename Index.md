@@ -21,3 +21,4 @@
 **SessionLog_2.md** — Descent, surface approach, entry, meeting Carl
 **SessionLog_3.md** — Carl's intelligence, Hamzi's arrival and the data pad
 **SessionLog_4.md** — Sandra Vael recruited, precursor formation revealed
+**SessionLog_5.md** — Secure comms established, Aran Chrion introduced
