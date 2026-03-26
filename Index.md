@@ -16,9 +16,10 @@
 **CheckQuestions.md** — Verification questions for session readiness
 **Prompt.txt** — GM instructions, mode toggle, roll protocol, beat markers
 **Directives.txt** — Hard constraints on narrative
-**Nextsession.txt** — Session 5 briefing
+**Nextsession.txt** — Briefing for next session
 **SessionLog_1.md** — Arrival, the vow, the standoff, departure prep
 **SessionLog_2.md** — Descent, surface approach, entry, meeting Carl
 **SessionLog_3.md** — Carl's intelligence, Hamzi's arrival and the data pad
 **SessionLog_4.md** — Sandra Vael recruited, precursor formation revealed
 **SessionLog_5.md** — Secure comms established, Aran Chrion introduced
+**SessionLog_6.md** — Weapons locker opened, ambush planned and staged for noon.

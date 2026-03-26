@@ -36,7 +36,7 @@ Gerald raises the next issue: he needs a recognised identity in the system for t
 
 **Beat 8 — The walk back**
 
-Gerald leaves the settlement for the shuttle. Stealth rather than confidence — walking away from a settlement toward hidden terrain at night reads differently than walking toward it. He nearly doesn't make it. A patrol running off-pattern comes close enough that he kills his suit lights and goes flat on the ground, counting vibrations through the regolith, unable to see or hear anything. He lies still until he's sure. By the time he reaches the shuttle his hands are steady. The rest of him takes longer. *(Face Danger +shadow: weak hit. Endure Stress -1. Spirit 5 → 4.)*
+Gerald leaves the settlement for the shuttle. Stealth rather than confidence — walking away from a settlement toward hidden terrain at night reads differently than walking toward it. He nearly doesn't make it. A patrol running off-pattern comes close enough that he kills his suit lights and goes flat on the ground, unable to see or hear anything. He lies still until he's sure they must be gone. By the time he reaches the shuttle his hands are steady. The rest of him takes longer. *(Face Danger +shadow: weak hit. Endure Stress -1. Spirit 5 → 4.)*
 
 ---
 

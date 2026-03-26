@@ -1,9 +1,16 @@
-Session 6 opens with Gerald in the shuttle, early morning. The escort ambush on Minka Brinberg's cabin visit is at noon. The circle has secure comms for the first time. Gerald's identity in the settlement system is unresolved — the innkeeper is the first task of the morning.
+Session 7 opens with the circle in position around Minka Brinberg's cabin, waiting for the escort to arrive. 
 
-Key things Gerald needs to navigate:
-- Approach the innkeeper and establish a cover identity
-- Coordinate the circle via comms for the ambush — who does what, where they need to be
-- Execute or abort the escort ambush itself, and deal with the fallout either way
-- Sandra's plan has serious problems and the timing is tight — Gerald agreed to it to bring her onside, but he has not yet had a chance to stress-test it with the full circle
+The ambush is the immediate focus. Gerald has a +1 add banked from last session's Secure an Advantage — apply it to Enter the Fray when the ambush kicks off.
 
-Refer to SessionLog_5.md for session 5 narrative. Refer to GameState.md for current tactical situation.
+The escort — Minka Brinberg and two raiders — will arrive from the hub at noon. The circle does not know Minka is a willing collaborator.
+
+Key things to navigate:
+
+- Execute the ambush — Gerald and Davel on the two escort raiders, Sandra at the door for Minka
+- Sandra will discover in the moment that Minka is not a grateful rescue — Minka will say something expecting Sandra to go along with her, and Sandra will act decisively to contain the threat
+- Whenever Gerald fires the jammer the circle goes dark on comms and they're out in vacuum so can't talk, hand signals only until someone pulls the device from under the porch
+- The eastern airlock is the problem corner — if Minka breaks for it before she's contained, she has options
+- After the ambush: the two escort raiders are dead, Minka is contained somewhere in Davel's industrial infrastructure or in the shuttle, and the raiders will notice people are missing within an unknown but limited window
+- The identity issue with the innkeeper remains unresolved but is not a session priority
+
+for information on the last session, check SessionLog_6.md

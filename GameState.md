@@ -65,7 +65,26 @@ The settlement is not defenceless in absolute terms. A high-metallicity mining o
 
 The settlement also has ore-launching infrastructure of some kind, given its mining focus. The potential to repurpose mass-driver or ore-launching equipment against the raider in orbit is an open question, as is the possibility of loading dangerous cargo onto the raider through deception. Neither option is confirmed viable. Both are worth investigating.
 
-The settlement also has a supply situation that is more dire than most settlers know: seventeen to nineteen days of supplies remain at current consumption rates. Carl Inswich has been obscuring the true figures in the official system.
+The settlement also has a supply situation that is more dire than most settlers know: sixteen to eighteen days of supplies remain at current consumption rates. Carl Inswich has been obscuring the true figures in the official system.
+
+---
+
+## The Circle of Trust
+
+The circle is the core of Gerald's resistance operation — the people inside the settlement he trusts enough to organise, arm, and coordinate with directly. It was built incrementally over Gerald's first days on the ground and is now the primary instrument through which any action against the raiders will be taken.
+
+Members: Gerald Finch, Carl Inswich, Davel Oren, Hamzi, Sandra Vael.
+
+### The Monitoring Blacklist
+
+The settlement's communication infrastructure is controlled by Hamzi, who is root on the system. The raiders believe they have admin access because the system told them so — it lied. Hamzi has added all five circle members to a monitoring blacklist, meaning conversations between them are not flagged or logged by the system the raiders are watching. The one operative constraint: the blacklist only covers digital monitoring. A live "dangerous" conversation overheard by a raider in the same room will not be caught by the system, but will be caught by the raider. At that point the raider should be notified that a flagged conversation took place, but won't be, alerting them that something is amiss.
+
+### Armament situation
+
+**Gerald** — Rifle and sidearm, Ballistic plates fitted into suit
+**Carl Inswich** — Sidearm
+**Sandra Vael** — Sidearm
+**Davel Oren** — Sidearm
 
 ---
 
@@ -73,25 +92,29 @@ The settlement also has a supply situation that is more dire than most settlers 
 
 **Jason Bormann** — former marshal and head of the settlement's space defence array. Gerald's closest contact at Raiman's Folly and the person he would consider a genuine friend. Shot by the raiders on arrival. Dead. When Hamzi's call reached the Steady Return, he named Bormann specifically. Gerald swore the cordon vow knowing Bormann was already gone.
 
-**Hamzi** (last name unknown by Gerald) — communications officer and sensor expert. Built and maintains the settlement's communications infrastructure. Laid the cables, wrote the software, knows every line in the system. Made the covert call to the Steady Return without being detected. Not supervised by the raiders — they are comfortable and careless and have stopped watching every corner. Moves freely through the maintenance corridors. Completed the connection the raiders ordered between the software specialist and the main mining systems, and installed a listener on that line in the process, logging all data passing through it in both directions. Handed the data pad to Gerald. Is root on the settlement comm system — the raiders believe they have admin access because the system told them so. Has added all five circle members to the monitoring blacklist; conversations between them will not be flagged. Gerald's most valuable covert asset.
+**Hamzi** (last name unknown by Gerald) — communications officer and sensor expert. Built and maintains the settlement's communications infrastructure. Laid the cables, wrote the software, knows every line in the system. Made the covert call to the Steady Return without being detected. Not supervised by the raiders — they are comfortable and careless and have stopped watching every corner. Moves freely through the maintenance corridors. Completed the connection the raiders ordered between the software specialist and the main mining systems, and installed a listener on that line in the process, logging all data passing through it in both directions. Handed the data pad to Gerald. Is root on the settlement comm system — the raiders believe they have admin access because the system told them so. Has added all five circle members to the monitoring blacklist. Gerald's most valuable covert asset.
 
 **Carl Inswich** — resupply manager. Responsible for managing incoming supplies against the settlement's consumption and coordinating with courier ships. Gerald knows him well through two years of cargo runs and manifests. Inswich knows to the day how long the settlement's supplies will last.
 
-**Minka Brinberg** — lead surveyor. Led the settlement council alongside Bormann. Alive and imprisoned by the raiders. The fact that she was jailed rather than shot is significant. The raiders are permitting her to collect personal effects from her cabin tomorrow under escort — briefly out of the jail, briefly exposed. Sandra Vael wants her extracted during that window. Minka knows this moon better than anyone alive.
+**Minka Brinberg** — lead surveyor. Led the settlement council alongside Bormann. Alive and imprisoned by the raiders. The fact that she was jailed rather than shot is significant. The raiders are permitting her to collect personal effects from her cabin under escort — briefly out of the jail, briefly exposed. Sandra Vael wants her extracted during that window. Minka knows this moon better than anyone alive.
 
 **The software specialist** — name not yet established. Taken to the jail by the raiders and connected to the main mining systems via Hamzi. Sandra Vael has read the data flowing through Hamzi's listener and confirmed the survey readings are extraordinary — geometric regularities and subsurface concentrations inconsistent with any natural formation. The raiders are not here for the minerals. The minerals were the map. Something is buried under this moon and the raiders came specifically to find it.
 
-**Sandra Vael** — survey team lead, one of four. Her team came in on rotation just before the raiders arrived and has been in the settlement through the entire occupation. Quiet, comes off slow, is not slow. Whip smart, iron core. Knows the survey data better than anyone currently accessible to Gerald. Now in the circle of trust, on condition — she has extracted a commitment from Gerald to act during Minka Brinberg's escort to her cabin tomorrow.
+**Sandra Vael** — survey team lead, one of four. Her team came in on rotation just before the raiders arrived and has been in the settlement through the entire occupation. Quiet, comes off slow, is not slow. Whip smart, iron core. Knows the survey data better than anyone currently accessible to Gerald. Now in the circle of trust, on condition — she has extracted a commitment from Gerald to act during Minka Brinberg's escort to her cabin.
 
-**Davel Oren** — mining foreman, night extraction crew. Gerald's entry point into the settlement — recognised him by his walk from the ridge on the approach and made contact through him. Took a real risk helping Gerald inside and bringing him to Carl Inswich. Knows the industrial infrastructure intimately: cutting equipment, extraction explosives, heavy machinery, access shafts and maintenance passages. Quiet, practical, not a man who hesitates when he's decided something. Full member of the circle of trust and on Hamzi's comm blacklist.
+**Davel Oren** — mining foreman, night extraction crew. Gerald's entry point into the settlement — recognised him by his walk from the ridge on the approach and made contact through him. Took a real risk helping Gerald inside and bringing him to Carl Inswich. Knows the industrial infrastructure intimately: cutting equipment, extraction explosives, heavy machinery, access shafts and maintenance passages. Quiet, practical, not a man who hesitates when he's decided something. Has contacts among the repair crews who know the maintenance infrastructure and can be called on quietly.
 
 **Other service personnel present but not yet characterised:** innkeeper, notary, hardware supplier, two doctors, two nurses, maintenance and repair staff.
 
 ---
 
-## Gerald's Current Position
+**Gerald's Current Position**
 
-Gerald Finch is in his shuttle, parked behind a ridge approximately one kilometre from the settlement outskirts, overnight. He infiltrated the settlement during the previous day and has since established a circle of trust numbering five: Gerald, Carl Inswich, Davel Oren, Hamzi, and Sandra Vael. Secure comms are established across all five via Hamzi's blacklist on the settlement monitoring system. Gerald's identity in the settlement's admin system is unresolved — he has no registered berth or arrival record.
+Gerald Finch is in position at the equipment lean-to on the northern face of Minka Brinberg's cabin, eastern residential cluster. The circle is assembled: Davel beside him at the lean-to, Sandra ready to approach the main airlock, Carl watching the hub approach corridor from the far end. Hamzi is somewhere in the settlement running his distraction, a raider in tow, off comms.
+
+The signal jammer is placed under the cabin porch, remote activation in Gerald's pocket. Once fired it stays on until physically retrieved — the circle loses comms in the immediate area the moment it activates.
+
+Gerald has a +1 add banked from pre-ambush reconnaissance, to be applied to Enter the Fray when the ambush kicks off.
 
 ---
 
@@ -125,8 +148,9 @@ The ship logged it. The vow is Formidable in Starforged terms. Progress: 1/10.
 - What exactly is buried under the moon's surface, and how close are the raiders to pinpointing its location?
 - What are the raiders trying to extract from the mining systems via the software specialist and Hamzi?
 - How does Gerald handle Sandra's condition — the escort ambush on Minka Brinberg's cabin visit tomorrow? The plan is premature and has serious problems.
-- What is the device the raiders brought, and what does it do?
 - Gerald has no cover identity in the settlement's admin system — no registered berth, no arrival record. The innkeeper is the most accessible person who could plausibly register him as a late arrival off a courier manifest.
+- How quickly will the raiders notice the escort and Minka are missing, and what do they do when they do?
+- Where does Minka end up — the unmapped shaft in Davel's infrastructure or the shuttle?
 
 ---
 
@@ -148,6 +172,16 @@ The operation is led by a professional military officer, possibly with one or tw
 
 ---
 
+**Minka Brinberg**
+
+Minka Brinberg is a willing collaborator. When the raiders arrived and she understood what they were actually looking for, she bought in completely — the precursor find is the most significant discovery of her career and she intends to be part of what comes next. She is planning to leave with the raiders once they have the artifact, walking away from her settlement and the people she is responsible for without fully reckoning with what that costs them. The supply situation has not entered her thinking in any meaningful way.
+
+Minka does not know the circle exists and has no idea an ambush is coming. She sent Sandra a message about the cabin visit expecting a conversation — possibly hoping to bring her onside, to share the discovery with someone who would understand its significance. She will attempt to alert the raiders the moment she understands what is actually happening.
+
+Her value to the raiders is interpretive. She understands the survey data well enough to translate what the device is finding into actionable locations. Losing her will slow them down.
+
+---
+
 **The Endgame**
 
 The officer's plan on extraction is to take the technology and leave. A frontier settlement of two hundred people making allegations against an unregistered vessel with no transponder is a problem that solves itself slowly. Nobody with authority is rushing to investigate. Killing settlers is not part of the brief — it is a liability to the backers, beneath the officer's professional standard, and unnecessary given how little weight settler testimony carries in the Divide.
@@ -155,6 +189,8 @@ The officer's plan on extraction is to take the technology and leave. A frontier
 What the officer actually fears is not witnesses. It is evidence. Physical proof of what the device does, what was found, and who sent them is the real exposure risk. The data pad with the data from the listening device — logging everything passing between the software specialist and the main mining systems — is exactly the kind of thing that would concern the officer if they knew it existed.
 
 Whether the officer has told the mercenaries something different about how the job ends is an open question for play.
+
+---
 
 ### What Gerald Knows
 
