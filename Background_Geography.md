@@ -10,7 +10,8 @@ The quarantine zone enforced by the cordon navies. Contains two types of world.
 
 ---
 
-**The Shell**
+## The Shell
+
 The region immediately surrounding the Blight — the destinations people reached during the panicked exodus before the navies concentrated survivors into the Refuge. Almost entirely depopulated now, but not empty. Contains at least three categories of location:
 
 - **Ghost Colonies** — settlements that were abandoned, either because they were unviable, because the navies relocated their populations to the Refuge, or because something went wrong. Range from orderly evacuations where everything useful was stripped out, to places that were simply left mid-occupation. A century of abandonment means anything could still be running — automated systems, AI, infrastructure with no one to oversee it. Ghost Colonies are ready-made exploration locations. Not all of them are entirely dead. Some may have been quietly reoccupied.
