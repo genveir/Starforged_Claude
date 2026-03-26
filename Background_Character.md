@@ -78,7 +78,7 @@ When the *Steady Return* jumps into the Raiman's Folly system on their most rece
 
 The *Steady Return* holds position. They cannot approach without coming under the raider's guns.
 
-After some time in system, a message arrives from the surface. It is Hamzi — whispering, clearly terrified, tapping a line the raiders don't know exists because he laid it himself. The raiders came without warning. They destroyed the settlement's point defence installations from orbit. They shot Jason Bormann dead in the first minutes, before anyone could organise. They took the chief surveyor and put them in Bormann's own jail. At the current rate of consumption, the settlement will be without food and water within weeks.
+After some time in system, a message arrives from the surface. It is Hamzi — whispering, clearly terrified, tapping a line the raiders don't know exists because he laid it himself. The raiders came without warning. They destroyed the settlement's point defence installations from orbit. They shot Jason Bormann dead in the first minutes, before anyone could organise. They took the chief surveyor and put her in Bormann's own jail. At the current rate of consumption, the settlement will be without food and water within weeks.
 
 Gerald Finch swore his first cordon vow at Raiman's Folly, standing on the bridge of the Steady Return with Captain Graff at his shoulder and the raider sitting in orbit on the main screen. He swore it knowing Bormann was already gone.
 

@@ -24,9 +24,9 @@
 | Meter | Value |
 |---|---|
 | Health | 5 |
-| Spirit | 4 |
+| Spirit | 3 |
 | Supply | 4 |
-| Momentum | Current: 9 / Reset: 2 or 3 in combat / Max: 10 |
+| Momentum | Current: 2 / Reset: 2 or 3 in combat / Max: 10 |
 
 ---
 
@@ -97,19 +97,23 @@ Two years of mutual respect and daily proximity. The relationship is warm and ge
 **Sonnet navy contacts** — *naval officers, Sonnet planetary faction*. Rank: formidable. Progress: 0/10.
 Well-placed friends from Gerald's service days who vouched for him when he needed it. Useful for information, favours, and institutional access within the Sonnet faction's reach. Reforming a genuine personal bond with any of them would take real work. If a specific individual becomes significant, split them into their own entry.
 
-**Davel Oren** — *mining foreman, night extraction crew, Raiman's Folly*. Rank: troublesome. Progress: 3/10.
+**Davel Oren** — *mining foreman, night extraction crew, Raiman's Folly*. Rank: troublesome. Progress: 6/10.
 A familiar face from two years of stops. Took a real risk helping Gerald into the settlement and bringing him to Carl. Knows the industrial infrastructure intimately — cutting equipment, extraction explosives, heavy machinery. The connection was established under pressure and came with a cost.
 
 **Carl Inswich** — *resupply manager, Raiman's Folly*. Rank: troublesome. Progress: 0/10.
 Knows the settlement's supply situation to the day. Gerald's first genuine ally inside the wire.
 
-**Sandra Vael** — *survey team lead, Raiman's Folly*. Rank: troublesome. Progress: 0/10.
+**Sandra Vael** — *survey team lead, Raiman's Folly*. Rank: troublesome. Progress: 3/10.
 Recruited under condition — committed to an escort ambush on Minka Brinberg's cabin visit tomorrow. Knows the survey data better than anyone currently accessible to Gerald.
 
 **Hamzi** — communications officer, Raiman's Folly. Rank: troublesome. Progress: 3/10.
 Knows every line of the settlement's comm infrastructure. Root on the system. Gerald's most valuable covert asset inside the wire.
 
 ---
+
+## Expeditions
+
+- The Walk to the Mines (Dangerous): 2/10
 
 ## Notes on the Veteran Asset
 The Veteran momentum reset bonus stacks with the base reset, bringing Gerald's momentum reset from 2 to **3** when in a fight.

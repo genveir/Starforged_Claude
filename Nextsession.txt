@@ -1,16 +1,14 @@
-Session 7 opens with the circle in position around Minka Brinberg's cabin, waiting for the escort to arrive. 
+Session 8 opens with Gerald on foot, somewhere between the settlement and the mining infrastructure, in the early stages of The Walk to the Mines (Dangerous, 2/10).
 
-The ambush is the immediate focus. Gerald has a +1 add banked from last session's Secure an Advantage — apply it to Enter the Fray when the ambush kicks off.
-
-The escort — Minka Brinberg and two raiders — will arrive from the hub at noon. The circle does not know Minka is a willing collaborator.
+The walk is the immediate focus. Gerald's suit has limited endurance for a journey of this length — supply and spirit are both reduced, and the terrain is unforgiving. The raiders are alerted but their attention is likely outward-facing rather than toward the settlement interior.
 
 Key things to navigate:
 
-- Execute the ambush — Gerald and Davel on the two escort raiders, Sandra at the door for Minka
-- Sandra will discover in the moment that Minka is not a grateful rescue — Minka will say something expecting Sandra to go along with her, and Sandra will act decisively to contain the threat
-- Whenever Gerald fires the jammer the circle goes dark on comms and they're out in vacuum so can't talk, hand signals only until someone pulls the device from under the porch
-- The eastern airlock is the problem corner — if Minka breaks for it before she's contained, she has options
-- After the ambush: the two escort raiders are dead, Minka is contained somewhere in Davel's industrial infrastructure or in the shuttle, and the raiders will notice people are missing within an unknown but limited window
-- The identity issue with the innkeeper remains unresolved but is not a session priority
+- Continue The Walk to the Mines — multiple segments remain before the Finish roll is viable
+- Gerald is alone, on foot, with no shelter and limited suit endurance. The supply situation is a real pressure
+- Davel and Sandra are in the hidden compartment — Sandra is non-functional, Davel is with her. Neither can be reached until Gerald is inside the mining infrastructure
+- The raiders have three bodies and no explanation. Their response to that is an open question
+- The identity issue with the innkeeper remains completely unresolved
+- Sandra's state and what Gerald says to her when they next meet is unresolved — Test Your Relationship when that happens
 
-for information on the last session, check SessionLog_6.md
+For information on the last session, check SessionLog_7.md
