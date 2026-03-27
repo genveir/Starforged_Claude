@@ -24,3 +24,4 @@
 **SessionLog_5.md** — Secure comms established, Aran Chrion introduced
 **SessionLog_6.md** — Weapons locker opened, ambush planned and staged for noon.
 **SessionLog_7.md** — Ambush executed, Minka dead, Gerald on the run.
+**SessionLog_8.md** — Gerald travels to the mining complex.

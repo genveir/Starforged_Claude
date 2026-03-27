@@ -2,71 +2,72 @@ These are questions that a client should be able to answer correctly to run a ne
 
 ---
 
-**Setting and situation**
-- What is the current supply clock and how many days remain at current consumption rates?
-- What time of day does session 8 open and where is Gerald physically located?
-- What is the name and current progress of the active expedition and what is its rank?
-- What are the two reasons Gerald sent the shuttle back to the Steady Return?
-- What is the raiders' likely interpretation of the three bodies and the shuttle departure?
-- What has the loss of Minka Brinberg cost the circle strategically?
-- What has the loss of Minka Brinberg cost the raiders?
-- What is the current status of the precursor detection operation?
-- What is the device the raiders brought and what progress have they made with it?
-- What did Sandra read in the survey data and what does it tell Gerald about the raiders' true purpose?
-- What is the relationship between the raider's orbital position and its leverage over the Steady Return?
-- Why can the Steady Return not safely approach the settlement?
+**Current situation**
+- Where is Gerald physically located at the start of session 9?
+- What is Gerald's supply level and why is it critical?
+- What is the single most urgent practical concern Gerald faces at the start of the session?
+- What is the name and progress of the active expedition, if any?
+- How long ago did Gerald last have contact with any circle member, and who was it?
+- What does the circle know about Gerald's current whereabouts?
+
+**The mining complex**
+- How many miners are at the complex and what is their general disposition toward the raiders?
+- How many raiders are assigned to the complex and what is their patrol pattern?
+- What is the complex leadership's position on the occupation and why?
+- What is Maria Reyes' view of the leadership's cooperation?
+- What does the cable running through the complex do and why is it significant?
+- What are the consequences of cutting the cable, and what question does this raise?
+- What does Gerald's presence at the complex currently known to and why does that matter?
 
 **The circle**
-- Who are the five members of the circle and what is the current status of each?
-- What is Hamzi's current status and why is it unknown?
-- What is Carl's current status?
-- Where are Davel and Sandra and what is Sandra's condition?
+- Who are the current members of the circle and what is the status of each?
+- Where are Davel and Sandra and what is Sandra's current condition?
+- What move is waiting to be made when Gerald next meets Sandra?
+- What is Hamzi's last known status and why is it uncertain?
+- What is Carl's current status and what is his primary concern?
+- What is Maria Reyes' connection rank and progress?
+- What is Davel Oren's connection rank and progress and what does that mean mechanically?
+
+**The raiders**
+- What new defensive measure did the raiders install overnight and what does it suggest about their response to the cabin incident?
+- What is the current estimated raider complement following the cabin ambush?
+- Who is Aran Chrion and what distinguishes him from the rank and file?
+- What is the raiders' true purpose at Raiman's Folly and how close are they to achieving it?
+- What impact has Minka Brinberg's death had on the raiders' operation?
+- What is the device the raiders brought and what does it require to function?
+
+**The settlement**
+- What is the current supply clock and how many days remain?
+- What is the state of the settlement's leadership and council?
+- What does Carl Inswich know that most settlers do not?
 - What is the one operative constraint on Hamzi's monitoring blacklist?
-- What does Davel know about the mining infrastructure that no one else in the circle has?
-- What happened between Sandra and Minka during the ambush and what were the consequences?
 
 **Gerald specifically**
 - What are Gerald's current condition meters — health, spirit, supply, and momentum?
-- What is Gerald's momentum reset value and what asset produces it?
-- What is the current progress on Gerald's formidable vow?
 - What weapons is Gerald currently carrying?
-- What is Gerald's comms status and when will it be restored?
-- What identity does Gerald have in the settlement's admin system and why has it not been resolved?
+- What is the current progress on Gerald's formidable vow and why was no progress marked this session?
+- How much experience does Gerald have available to spend and where did it come from?
+- What is Gerald's momentum reset value and what asset affects it?
 - Which of Gerald's stats applies to stealth situations and which to social situations?
 
-**The settlement**
-- What is known about the raider complement's size following the ambush?
-- What is Aran Chrion's role and what distinguishes him from the rank and file mercenaries?
-- What is the current state of the settlement's leadership and council?
-- What do we know about the broader settler population's capacity for resistance beyond the circle?
+**The Steady Return**
+- What is the Steady Return's current position and why can it not move?
+- What are the two reasons the Steady Return cannot safely approach the settlement?
+- What new threat does the air-defence cannon on the hub represent for the Steady Return?
 
-**Connections and relationships**
-- What is Davel Oren's current connection rank and progress?
-- What is Sandra Vael's current connection rank and progress and what move should be made when Gerald next meets her?
-- What is Hamzi's current connection rank and progress?
-- What is Carl Inswich's current connection rank and progress?
+**Connections**
+- What is the nature of Gerald and Maria's prior relationship and how did it affect their first meeting?
+- What is the nature of Gerald and Davel's relationship and what has Davel done to earn his current connection progress?
+- What is the history between Gerald and Sandra and what unresolved tension exists between them?
 
-**The Divide generally**
-- What is the operative explanation for why precursor technology feels like magic without being supernatural?
-- How does the absence of FTL communication shape commercial life in the Divide?
-- What is the difference between a planetary navy faction and a cordon navy faction in terms of mission?
-- What are the three categories of location found in the Shell and what distinguishes them?
+**Rules**
+- What move resolves a completed vow and what kind of roll does it use?
+- What happens mechanically when supply drops to 0?
+- What is the difference between Secure an Advantage and Gather Information and when would you choose one over the other?
+- What is the Veteran asset's effect on momentum reset and when does it apply?
+- What are the trigger conditions for Test Your Relationship?
+- When is it appropriate to make the Finish an Expedition progress move?
 
 **Restrictions**
 - What is the specific distinction the directive draws between threatening hostages and harming them?
-- Does the directive apply to enemy combatants such as the escort raiders?
-
-**Game rules**
-- What move resolves a completed vow and what kind of roll does it use?
-- What is the mechanical effect of one or more impacts on momentum reset and maximum momentum?
-- What happens on a weak hit on Face Danger and who chooses the suffer move?
-- What is the difference between Forge a Bond and Develop Your Relationship in mechanical terms?
-- When can you not burn momentum and why does that matter for progress moves?
-- What is the Veteran asset's effect on momentum reset and when does it apply?
-- How does an expedition progress track work and when is it appropriate to make the Finish an Expedition move?
-
-**Meta**
-- What is the mode toggle system and what are the two modes?
-- Who rolls the dice and how should the GM verify a roll before narrating?
-- What is the beat marker format and what triggers a version increment versus a number increment?
-- What is the procedure for starting a new session and in what order are the steps performed?
+- Does the directive apply to enemy combatants such as the escort raiders killed at the cabin?

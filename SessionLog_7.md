@@ -36,7 +36,7 @@ Gerald shoves the body inside and advances. Sandra comes through the eastern air
 
 Minka attempts to call for help — the jammer swallows it. Gerald's rifle comes up. Sandra steps forward and shoots the comms pickup off Minka's helmet, then asks her "why, Minka?" in a tortured voice.
 
-Minka talks. She speaks about what is buried under the moon, about legacy and discovery, building the case she has been constructing in her head for days. Sandra listens without expression. When Minka finishes the cabin is quiet. Sandra shoots her. *(Endure Stress +heart: miss with match. Sandra makes the wrong decision, and it's worse than that — she is inconsolable, unable to return to the settlement.)*
+Minka talks. She speaks about what is buried under the moon, about legacy and discovery, building the case she has been constructing in her head for days. Sandra and Minka have worked together for years. They were close. Sandra listens without expression. When Minka finishes the cabin is quiet. Sandra shoots her. *(Endure Stress +heart: miss with match. Sandra makes the wrong decision, and it's worse than that — she is inconsolable, unable to return to the settlement.)*
 
 ---
 
