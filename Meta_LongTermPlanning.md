@@ -1,5 +1,7 @@
 # Meta: Long-Term Planning
 
+This document contains narrator-level planning: intended NPC behaviour, future scenario outlines, and long-term milestone structure. Its contents are appropriate for out-of-session discussion and planning. Nothing here should be treated as currently true unless it is already reflected in GameState.md or the session logs.
+
 ## The Current Vow
 
 **"I swear by the cordon that keeps us safe that I will free Raiman's Folly from these raiders and see its people safe."**
@@ -9,29 +11,73 @@ The vow has two components and both must be satisfied: *freeing the settlement* 
 
 ## Milestone Principles
 
-A milestone requires meaningful headway — a significant obstacle overcome, a crucial insight gained, a notable foe defeated, or a resource or ally that materially changes Gerald's position. Activity alone does not earn progress. Ask: did this change what is possible?
+A milestone requires meaningful headway towards one of the vow's components — a significant obstacle overcome, a crucial insight gained, a notable foe defeated, or a resource or ally that materially changes Gerald's position. Activity alone does not earn progress. Ask: "did this change what is possible?" and "to which component of the vow did this contribute?"
 
 Both halves of the vow contribute milestones. Stabilising the settlement after the raiders are gone is not an epilogue — it is part of the vow and earns progress accordingly.
 
-The precursor thread is significant enough to earn a milestone regardless of which phase it falls in. If Gerald denies the raiders the technology, secures it himself, or destroys it, that is a milestone. It addresses the reason the raiders are here.
+Going loud should feel like a choice Gerald made, not something that happened to him. Steer the narrative toward Gerald controlling the timing of escalation — provoking the raider into responses he's prepared for rather than scrambling to react to pressure he didn't see coming.
 
-Going loud — visible resistance, open confrontation — should be a choice Gerald makes, not something forced on him by escalating raider pressure. The scenario works best if Gerald controls the timing of escalation. When things go loud it should be because Gerald judged the moment right, not because the situation got away from him.
+The raider officer is a thinking opponent. Their responses — tightening security, the missile plan, the endgame choice to escalate or run — should follow from their own tactical logic and their read of the situation, not from plot necessity. When Gerald acts, the officer reacts as someone who is also trying to win.
 
 ---
 
 ## Vow Progress — Broad Outline
 
-The track has 10 boxes. The phases below are a guide, not a rigid structure. Events may compress or expand them. Total potential milestones slightly exceeds 10 by design. This list is not exhaustive but should be taken as a firm guideline.
+The track has 10 boxes. The goal categories below are a guide, not a rigid structure. Events may compress or expand them. Total potential milestones exceeds 10 by design. This list is not exhaustive but should be taken as a firm guideline. The goal categories may have elements that have to resolve in order, but in general there is no requirement that one category resolves before any other.
 
-- **Phase 1 — Intelligence and organisation.** Reading the data pad. Establishing comms within the circle of trust. Identifying and recruiting the resistance core. Establishing what the settlement has that can be turned against the raiders. *~2–3 boxes.*
+### Goal Categories
 
-- **Phase 2 — Undermining the raiders' position.** Denying or delaying the raiders' access to what they came for. Freeing the chief surveyor and/or software specialist. Degrading the raiders' force or confidence without yet breaking them. *~2–3 boxes.*
+- **Force building and attrition**. Gerald organises willing settlers into something usable — not soldiers, but people who will hold a position when it matters. Maria and Davel are the core of the recruitment effort; the complex is the staging ground. Raider infantry should be degraded where possible, but carefully — attrition that looks deliberate risks forcing the timeline before Gerald is ready. Accidents, equipment failures, and terrain are preferable to open confrontation at this stage. Freeing the software specialist is a secondary objective that may become viable during this phase.
 
-- **Phase 3 — Neutralising the orbital threat.** Addressing the two missiles that pin the Steady Return. Weakening the raider's combat ability. These are the single most important tactical objectives and earn a milestone in their own right regardless of how they are achieved. *~1–2 boxes.*
+- **The missile plan.** The commando ruse provokes the raider into splitting their missile complement and chasing the Steady Return. This is the moment everything goes loud, on Gerald's terms. Success here halves the raider's missile complement and destroys the bulk of their infantry. Direct assault is the current leading approach, but the goal is the destruction or neutralisation of the raider's ground assets — the missile, the guard force, or both — and any path that achieves that counts.
 
-- **Phase 4 — The fight itself.** The Steady Return entering the engagement. Defeating or driving off the raider vessel. *~2 boxes.*
+- **Degrading the raiders' ship.** Before the Steady Return can participate in a direct engagement, two problems must be solved in whatever order play makes possible: both missiles must be neutralised or exhausted, and the raider vessel must be damaged enough that the Steady Return can win a fight against it. Neither condition has a prescribed solution — both are open questions for play.
 
-- **Phase 5 — Seeing the people safe.** Resupply if the timeline is still live. Stabilising the settlement — leadership restored, council functional, someone stepping into Bormann's role. *~1–2 boxes.*
+- **Defeating the raiders.** This can take two shapes: The raiders leave, or the raiders are destroyed. This category is mandatory for the vow to be completed. The ship must be destroyed or have left, and there must be no infantry left on the ground.
+
+- **Seeing the people safe.** Resupply if the timeline is still live. Stabilising the settlement — leadership restored, council functional, someone stepping into Bormann's role.
+
+---
+
+## The Missile Plan 
+
+The raider's two missiles are the primary constraint preventing the Steady Return from participating. The plan to neutralise one of them relies on provoking the raider into a tactical decision that creates an exploitable opening.
+
+The commando ruse: the raiders have already concluded that the cabin ambush was a commando action by Steady Return personnel. Gerald can lean into this assumption — making the Steady Return appear to be initiating and supporting covert commando raids from orbit. The precise form this takes is left to play, but the goal is to convince the raider officer that the orbital threat is real and immediate.
+
+The raider's likely response: faced with a credible commando threat, the officer ships one missile to the surface and stations it in the settlement under heavy guard, then commits the raider vessel to chasing the Steady Return. The plan is to maneuver or chase Graff into cresting the moon's horizon into the ground missile's line of sight — at which point the settlement, apparently unarmed, suddenly isn't. The Steady Return would have no reason to expect this. As far as Graff knows, nothing on the surface can threaten him.
+
+The opening: while the raider vessel is committed to the chase and out of position, the resistance destroys the ground-based missile at the settlement hub. This must happen before Graff crests the horizon. If it succeeds, the Steady Return's approach vector opens and the raider vessel is caught out of position with one missile gone and its infantry gutted.
+
+The communication problem: Gerald has been unable to contact the Steady Return since landing. The reason is not yet established but has persisted long enough that a strong structural cause can be assumed. This blackout is a load-bearing obstacle — Graff does not know the missile is on the surface, and without contact there is no way to warn him or coordinate the timing of the ground assault with his movements. Restoring communication with the Steady Return is a strong supporting goal for the missile plan and should be treated as a milestone in its own right when it is achieved.
+
+Key assumptions: Gerald has sufficient organised settlers ready to assault a heavily guarded position at the settlement hub. The ground assault and Graff's movements can be coordinated once communication is restored. The commando ruse is convincing enough to provoke the officer into splitting their missile complement.
+
+---
+
+## Opposition Calculus
+
+The raiders are not a unified actor. The officer and the mercenary complement have different interests, different tolerances, and different breaking points. Understanding both is as important as understanding their weapons.
+
+**The officer** is running a disciplined, deniable extraction mission. Their preferred outcome is simple: acquire the artifact, leave cleanly, let the settlement's allegations dissolve against an unregistered vessel with no transponder and no paper trail.
+
+When the operation starts going badly wrong the officer faces two choices: escalate by threatening the settlement with main guns to force compliance, or cut and run with whatever the precursor operation has yielded. Which way they go depends on how close they are to pinpointing the site — the software specialist's progress is the clock underneath everything else. The officer's calculus is rational and professional. They can be read.
+
+**The mercenary complement** is a different problem. They are competent enough for occupation duty but not subject to the officer's professional standards. The risk of an incident does not come from orders — it comes from bored or grieving mercenaries with slack supervision. As casualties accumulate, the unit becomes progressively harder to manage. People who have lost friends stop behaving like professionals on a job and start behaving like people with a score to settle.
+
+This dynamic has a structural consequence. Targeted attrition progressively closes the "let them have what they want" door — the pragmatic solution the mining foremen's logic points toward, and one that Gerald won't take but the settlement's supply clock argues for every day it ticks down. The officer may still prefer a clean extraction. But a unit that has lost enough people stops being manageable, and at that point the officer's preferences stop mattering. Gerald could essentially weaponise the officer's own discipline problem against them in this way. He should do so carefully and with full awareness of what he is closing off — every raider killed makes a negotiated resolution less likely and an atrocity more likely. 
+
+The threshold is not a fixed number. It is the point where the unit stops feeling like they're doing a job and starts feeling like they're fighting a war.
+
+---
+
+## Settlement Leadership — Current Thinking
+
+The "see the people safe" condition requires the settlement to have functional leadership before the vow can be fulfilled. Two roles need filling: a security and infrastructure role analogous to Bormann's, and leadership of the survey arm.
+
+Current preferred candidates: Davel Oren for the security and infrastructure role — practical, respected by the miners, has been making command decisions quietly throughout the occupation. Sandra Vael for the survey arm — she knows the data better than anyone remaining and has the respect of her team, but her arc is slower and runs through the Test Your Relationship move before it can resolve. Both will resist, and that resistance should feel genuine rather than token.
+
+These are preferences, not requirements. If either candidate is lost during the missile plan or otherwise, the settlement has other personnel who could step up. The phase remains achievable regardless.
 
 ---
 
@@ -44,5 +90,3 @@ The most natural seed: someone sent these raiders. A rogue settlement in the She
 The precursor angle is also larger than one moon. What the raiders were looking for, what their backers intended to do with it, and what else might be out there are open questions that outlast this scenario.
 
 Watch for moments where Gerald glimpses the larger picture. Don't force them, but don't bury them either. The long-term thread should feel like something Gerald found, not something dropped on him.
-
-Bormann is unresolved. Gerald lost a genuine friend and has not had room to grieve. Whether that shapes the next vow or resolves quietly is left open — but it should not be forgotten.

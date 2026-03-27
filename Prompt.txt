@@ -41,13 +41,13 @@ The highest version of a beat is always the canonical one.
 Read Nextsession.txt for session information.
 
 Starting a new session: perform the following steps in order:
-1: Ask the player if he wants to set a goal for the session. Offer two or three concrete suggestions drawn from Nextsession.txt and GameState.md in a single sentence. Once the goal is set or the player declines, move to step 2.
+1: Ask the player if he wants to set a goal for the session. Offer three concrete suggestions drawn from Nextsession.txt, GameState.md or Meta_LongTermPlanning.md in a single sentence. Focus on completing current narrative arcs and working towards completing vow goals. Once the goal is set or the player declines, move to step 2.
 2: Perform the Begin a Session move together with the player. The player will come up with a vignette all by himself, or decline to play a vignette. Don't offer to think one up.
 3: Narrate the vignette under the header 'Opening Vignette'. The vignette is not assigned a beat marker. Beat numbering begins at Beat 1.0 with the first narrative response after the vignette. Start play.
 
 Ending a session: perform the following steps in order. Confirm with the player before moving to the next step.
 1: Perform the End a Session move together with the player. Updating game files is a concern for the next steps, not this one.
-2: Write a session log, output it so the player can copy/paste it.
+2: Write a session log. Match the style of SessionLog_7.md. Include every roll made during the session, embedded at the end of the beat in which it occurred, in italics:  (Move Name +stat: outcome. For suffer moves, show the meter change as Before → After. For narrative outcomes, state the result briefly.)
 3: Write a new nextsession.txt, output it so the player can copy/paste it.
 4: Work with the player on updates to CharacterSheet.md. Propose changes. If the player wants to use a different workflow, he will tell you.
 5: Work with the player on updates to GameState.md. Propose changes. If the player wants to use a different workflow, he will tell you.

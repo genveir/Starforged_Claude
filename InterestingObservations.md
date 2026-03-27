@@ -45,3 +45,8 @@ Certain entries that are also general enough to belong in the setting background
 
 **Reading the precursor data**
 **[Speculative]** The entity able to recognize data as linked to the precursors may not be human. Maybe the rogue settlement is led by an AI?
+
+---
+
+**Communication with Graff is impossible**
+**[Certain]** Although Hamzi got a message to the Steady Return when it arrived in-system, Gerald has not communicated with Graff even once while on the surface. Gerald is a competent officer, if he were able to communicate with his superior he would have done so. This implies that there is a reason, even though it may not be explicit in the lore, that prevents communication between the settlement and the Steady Return.
