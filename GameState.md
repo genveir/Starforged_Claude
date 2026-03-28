@@ -1,5 +1,7 @@
 # Situation Report: Raiman's Folly
 
+TODO: add a file with pre-scenario history, move everything in here that's not active state out of this file.
+
 ## The Setting
 
 Raiman's Folly takes its name from Solomon Raiman, a celebrated early Divide surveyor credited with identifying numerous high-value planets and moons in the origin days. He also surveyed this moon and dismissed it as commercially unviable. When the first settlers arrived they game it the name as a joke at his expense. The joke has not become all that funny yet, but it may be getting closer — the settlement's backers are cautiously optimistic about recent survey findings, and active surveying continues.
@@ -125,7 +127,7 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ## Gerald's Current Position
 
-Gerald is in the crew rest area of the mining complex, one level below the main maintenance corridor. Currently in a strategy call with the rest of the circle. He is meeting Maria in an hour, when it's 18:00.
+Gerald is in the crew rest area of the mining complex, one level below the main maintenance corridor. Currently in a strategy call with the rest of the circle. The rest area is only safe until 18:00 — he is meeting Maria then to find him a place to sleep.
 
 ---
 
@@ -170,6 +172,7 @@ The ship logged it. The vow is Formidable in Starforged terms.
 - Can the raider's two remaining missiles be neutralised, exhausted, or bypassed? This is the key to unlocking the Steady Return's ability to close and support.
 - What exactly is buried under the moon's surface, and how close are the raiders to pinpointing its location? Minka's death will slow them down but not stop them — the software specialist is still connected to the mining systems.
 - Gerald has no cover identity in the settlement's admin system — no registered berth, no arrival record. The innkeeper remains the most accessible person who could plausibly register him as a late arrival. This is now harder to resolve given the alert status of the settlement.
+- Gerald does not yet know the comms blackout has a hardware cause. Finding and removing the hard block on the settlement's dish is the most direct path to restoring contact with the Steady Return.
 
 ---
 
@@ -188,6 +191,18 @@ The fact that the rogue settlement took any action points to the fact that this 
 The device the raiders carried in — treated with more care than anything else they brought — is a precursor detection and analysis instrument. It requires mining survey data to triangulate a location. This is why they took the software specialist and connected her to the main mining systems. They are not stealing the survey data. They are using it to find something that isn't on any map yet. The software specialist has been tasked to build an interface between the instrument and the mining systems. As more functions become available, it will become more and more clear from the traffic on the line what the instrument is doing. Minka Brinberg was the raiders' primary interpreter of the survey data. Her death is a significant setback — the software specialist can build the interface but cannot read the survey data with Minka's expertise. The raiders will need to either find another interpreter among the settlement's survey arm or work more slowly with what the software specialist can provide.
 
 The operation is led by a professional military officer, possibly with one or two junior officers. They are running a disciplined, deniable extraction mission. The rank and file are mercenaries — competent enough for occupation duty, but not subject to the officer's professional standards. The risk of an incident does not come from orders. It comes from bored mercenaries with slack supervision.
+
+---
+
+**The raider vessel's name**
+
+The ship is called the Carronade. The settlers do not know this — a ship running no transponder and no registry does not advertise its name, and the raiders have not used it in any context the settlers could overhear. If Gerald ever learns it, it is a lead: a name implies a history, and a history implies someone who might know where the ship came from and who commissioned it.
+
+---
+
+**The comms dish hard block**
+
+ The settlement's comms dish has been physically modified by the raiders. A hard block has been installed that prevents any calls leaving the moon except to the raider's ship. Gerald does not know this. It is the structural reason he has been unable to reach the Steady Return since landing — not a software fix Hamzi can patch, but a hardware problem that requires physical access to the dish.
 
 ---
 

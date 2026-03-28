@@ -1,5 +1,4 @@
 **CharacterSheet.md**
-**Character_History.md**
 **Background_Condensed.md**
 **InterestingObservations.md**
 **Ship_Details.md**
