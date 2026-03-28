@@ -21,12 +21,14 @@
 ---
 
 ## Condition Meters
-| Meter | Value |
-|---|---|
-| Health | 4 |
-| Spirit | 3 |
-| Supply | 1 |
-| Momentum | Current: 2 / Reset: 2 or 3 in combat / Max: 10 |
+| Meter | Value | Max |
+|---|---|---|
+| Health | 4 | 5 |
+| Spirit | 3 | 5 |
+| Supply | 1 | 5|
+| Momentum | 2 | 10 |
+
+Momentum reset: 2, or 3 in combat
 
 ---
 
@@ -41,7 +43,8 @@ Progress: 2/10
 
 ### STARSHIP (Command Vehicle)
 *The Steady Return*
-**Integrity:** 5
+**Integrity:** 5/5
+**Supply** 4/5
 **Ability 1 (unlocked):** Your armed, multipurpose starship is suited for interstellar and atmospheric flight. It can comfortably transport several people, has space for cargo, and can carry and launch support vehicles. When you Advance, you may spend experience to equip this vehicle with module assets.
 
 **Ability 2 (locked):** When you Finish an Expedition (dangerous or greater) in your starship and score a hit, this journey strengthened your ties to your ship and any fellow travelers. You and your allies may mark 1 tick on your bonds legacy track.
