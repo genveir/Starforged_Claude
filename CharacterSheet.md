@@ -24,9 +24,9 @@
 | Meter | Value | Max |
 |---|---|---|
 | Health | 4 | 5 |
-| Spirit | 3 | 5 |
-| Supply | 1 | 5|
-| Momentum | 2 | 10 |
+| Spirit | 5 | 5 |
+| Supply | 3 | 5|
+| Momentum | 6 | 10 |
 
 Momentum reset: 2, or 3 in combat
 
@@ -35,7 +35,7 @@ Momentum reset: 2, or 3 in combat
 ## Vow
 **"I swear by the cordon that keeps us safe that I will free Raiman's Folly from these raiders and see its people safe."**
 Rank: Formidable
-Progress: 2/10
+Progress: 3/10
 
 ---
 
@@ -108,13 +108,13 @@ A familiar face from two years of stops on the route. Quiet, practical, not a ma
 **Carl Inswich** — *resupply manager, Raiman's Folly*. Rank: troublesome. Progress: 0/10.
 Known through two years of cargo runs and manifests. Steady under pressure, not a man who dramatises. Knows the settlement's supply situation to the day.
 
-**Sandra Vael** — *survey team lead, Raiman's Folly*. Rank: troublesome. Progress: 3/10.
+**Sandra Vael** — *survey team lead, Raiman's Folly*. Rank: troublesome. Progress: 6/10.
 Quiet, comes off slow, is not slow. Whip smart, iron core. Knows the survey data better than anyone at the settlement.
 
 **Hamzi** — *communications officer, Raiman's Folly*. Rank: troublesome. Progress: 3/10.
 Knows every line of the settlement's comm infrastructure — laid the cables, wrote the software. Root on the system. Moves freely through the maintenance corridors and knows which corners nobody watches.
 
-**Maria Reyes** — *miner, Raiman's Folly ining complex / Raiman's Folly*. Rank: troublesome. Progress: 3/10.
+**Maria Reyes** — *miner, Raiman's Folly ining complex / Raiman's Folly*. Rank: troublesome. Progress: 6/10.
 Mid-twenties, from Spinfeld, Sonnet — one of the villages under Gerald's jurisdiction in his lawman days. Knew him only as The Lawman. Came to Raiman's Folly for the money and the distance from home. Brash, allergic to authority. Sees Davel as a mentor.
 
 ---

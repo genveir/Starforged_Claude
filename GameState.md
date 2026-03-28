@@ -69,6 +69,8 @@ The settlement also has ore-launching infrastructure of some kind, given its min
 
 The settlement also has a supply situation that is more dire than most settlers know: Carl Inswich has been obscuring the true figures in the official system. Food reserves started at 15-17 days, See Clocks.md for current estimate.
 
+The settlement has a secret cache of weapons hidden away in the mines, enough to arm a sizeable portion of the settlers.
+
 ---
 
 ## The Circle of Trust
@@ -83,7 +85,7 @@ The circle has a working understanding of the raiders' true purpose, assembled f
 
 ### The Monitoring Blacklist
 
-The settlement's communication infrastructure is controlled by Hamzi, who is root on the system. The raiders believe they have admin access because the system told them so — it lied. Hamzi has added all five circle members to a monitoring blacklist, meaning conversations between them are not flagged or logged by the system the raiders are watching. The one operative constraint: the blacklist only covers digital monitoring. A live "dangerous" conversation overheard by a raider in the same room will not be caught by the system, but will be caught by the raider. At that point the raider should be notified that a flagged conversation took place, but won't be, alerting them that something is amiss.
+The settlement's communication infrastructure is controlled by Hamzi, who is root on the system. The raiders believe they have admin access because the system told them so — it lied. Hamzi has added all six circle members to a monitoring blacklist, meaning conversations between them are not flagged or logged by the system the raiders are watching. The one operative constraint: the blacklist only covers digital monitoring. A live "dangerous" conversation overheard by a raider in the same room will not be caught by the system, but will be caught by the raider. At that point the raider should be notified that a flagged conversation took place, but won't be, alerting them that something is amiss.
 
 ### Armament situation
 
@@ -99,13 +101,13 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 **Hamzi** (last name unknown) —  communications officer, Raiman's Folly. Built and maintains the settlement's communications infrastructure — laid the cables, wrote the software, knows every line in the system. Root on the comm system. Moves freely through the maintenance corridors and knows which corners nobody watches. Current status: at the settlement.
 
-**Carl Inswich** — resupply manager. resupply manager, Raiman's Folly. Responsible for managing incoming supplies against the settlement's consumption and coordinating with courier ships. Known through two years of cargo runs and manifests. Steady under pressure, not a man who dramatises. Knows the settlement's supply situation to the day. Current status: at the settlement.
+**Carl Inswich** — resupply manager, Raiman's Folly. Responsible for managing incoming supplies against the settlement's consumption and coordinating with courier ships. Known through two years of cargo runs and manifests. Steady under pressure, not a man who dramatises. Knows the settlement's supply situation to the day. Current status: at the settlement.
 
 **Minka Brinberg** — Led the settlement council alongside Bormann. The settlement's primary interpreter of survey data and its strategic thinker. A willing collaborator with the raiders — when they arrived and she understood what they were actually looking for, she bought in completely, driven by genuine scientific zeal at the prospect of what was buried under the moon. She did not fully reckon with what her cooperation cost the people she was responsible for. Current status: killed by Sandra Vael during the ambush at her cabin. Her death has removed the raiders' primary interpreter of the survey data.
 
 **The software specialist** — name not yet established. A member of the settlement's technical staff, taken to the jail by the raiders shortly after their arrival. Currently tasked with building an interface between the raiders' detection device and the main mining systems. Current status: in the jail, working under raider supervision.
 
-**Sandra Vael** — survey team lead. One of four survey team leads; her team came in on rotation just before the raiders arrived. Quiet, comes off slow, is not slow. Whip smart, iron core. Knows the survey data better than anyone at the settlement. Current status: stable in Davel's hidden compartment in the mining infrastructure. Shot her close friend and colleague Minka Brinberg during the ambush at her cabin — an impulsive act in the moment Minka revealed herself as a collaborator, one Sandra has not come to terms with. Her relationship with Gerald is unresolved — the Test Your Relationship move is pending for their next meeting.
+**Sandra Vael** — survey team lead. One of four survey team leads; her team came in on rotation just before the raiders arrived. Quiet, comes off slow, is not slow. Whip smart, iron core. Knows the survey data better than anyone at the settlement. Current status: stable in Davel's hidden compartment in the mining infrastructure. Shot her close friend and colleague Minka Brinberg during the ambush at her cabin — an impulsive act she has not fully come to terms with, but has begun to process. Her relationship with Gerald is on stable ground following a difficult conversation over comms.
 
 **Davel Oren** — mining foreman, night extraction crew. Quiet, practical, not a man who hesitates when he's decided something. Knows the industrial infrastructure intimately — cutting equipment, extraction explosives, heavy machinery, access shafts and maintenance passages. Has contacts among the repair crews who know the maintenance infrastructure and can be called on quietly. Current status: at the settlement, tending to Sandra in the hidden compartment.
 
@@ -115,7 +117,7 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ## Key Mining Complex Personnel
 
-**Maria Reyes** — miner. Mid-twenties, from Spinfeld, Sonnet — one of the villages under Gerald's jurisdiction during his lawman years. Knew him only as The Lawman. Came to Raiman's Folly a few months ago for the money and the distance from home. Brash, allergic to authority. Sees Davel as a mentor. Current status: at the complex, in conversation with Gerald. Knows the complex leadership is cooperating with the raiders and is opposed to it.
+**Maria Reyes** — miner. Mid-twenties, from Spinfeld, Sonnet — one of the villages under Gerald's jurisdiction during his lawman years. Knew him only as The Lawman. Came to Raiman's Folly a few months ago for the money and the distance from home. Brash, allergic to authority. Sees Davel as a mentor. Current status: Knows the complex leadership is cooperating with the raiders and is opposed to it. Knows the miners hid their weapons in the mine shafts when the raiders arrived rather than handing them over. Proposed using mining explosives to destroy the cable line and force the miners into the fight.
 
 **Other personnel not yet characterized:** The shift supervisors.
 
@@ -123,7 +125,7 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ## Gerald's Current Position
 
-Gerald is inside the mining complex at Raiman's Folly, in an equipment locker off the main maintenance corridor. Supply critically low at 1.
+Gerald is in the crew rest area of the mining complex, one level below the main maintenance corridor. Currently in a strategy call with the rest of the circle. He is meeting Maria in an hour, when it's 18:00.
 
 ---
 
@@ -147,6 +149,8 @@ The complex leadership — shift supervisors and senior staff — are cooperatin
 
 A cable runs from the mining complex to the settlement, carrying data between the device the raiders brought and the mining systems. This cable is the operational link enabling the precursor detection operation. Disrupting it would temporarily halt the raiders' progress without a shot being fired. It would also invite a response from the raiders.
 
+Hidden weapons cache — when the raiders arrived and began talking about confiscating personal weapons, the miners hid their firearms in the mine shafts rather than surrendering them. The two assigned raiders have never gone looking. The cache is substantial enough to arm a serious resistance.
+
 ---
 
 ## Gerald's Vow
@@ -162,15 +166,10 @@ The ship logged it. The vow is Formidable in Starforged terms.
 ## Open Questions
 
 - Who among the settlers has the spine and capability to organise resistance beyond the current circle?
-- What exactly does the settlement have that could be turned against the raider? Extraction explosives, heavy machinery, and ore-launching infrastructure are all possibilities. None are confirmed.
+- What exactly does the settlement have that could be turned against the raider? Extraction explosives, heavy machinery, and ore-launching infrastructure are all possibilities.
 - Can the raider's two remaining missiles be neutralised, exhausted, or bypassed? This is the key to unlocking the Steady Return's ability to close and support.
 - What exactly is buried under the moon's surface, and how close are the raiders to pinpointing its location? Minka's death will slow them down but not stop them — the software specialist is still connected to the mining systems.
-- What is Hamzi's current status and does he know what happened at the cabin?
-- What does Sandra's breakdown mean for the circle's cohesion going forward?
 - Gerald has no cover identity in the settlement's admin system — no registered berth, no arrival record. The innkeeper remains the most accessible person who could plausibly register him as a late arrival. This is now harder to resolve given the alert status of the settlement.
-- What does Maria know about the cable, the device's operation, and the leadership's arrangement with the raiders?
-- How does Gerald resupply before his situation becomes critical?
-- The cable running through the complex is the operational link for the precursor detection operation. Disrupting it would halt the raiders' progress immediately — but would also reveal that someone on this end acted deliberately. What are the consequences of cutting it, and is there a way to make it look like an accident?
 
 ---
 

@@ -12,7 +12,7 @@ Day 1 = the day Gerald arrived at Raiman's Folly.
 
 ## Settlement Supply Clock
 **Days remaining:** ~15
-Started at 17 days on campaign day 1 (end of session 3). Two days have elapsed since then. Figures are obscured in the official system by Carl Inswich; the true number is known only to him and Gerald.
+Started at 17 days on campaign day 1 (end of session 3). Figures are obscured in the official system by Carl Inswich; the true number is known only to him and Gerald.
 
 ---
 
