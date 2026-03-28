@@ -14,7 +14,7 @@
 **GameState.md** — Current tactical situation, key personnel, narrator background knowledge
 **Meta_LongTermPlanning.md** — Vow milestone outline, long-term campaign threads
 **CheckQuestions.md** — Verification questions for session readiness
-**Prompt.txt** — GM instructions, mode toggle, roll protocol, beat markers
+**Prompt.md** — GM instructions, mode toggle, roll protocol, beat markers
 **Directives.txt** — Hard constraints on narrative
 **Nextsession.md** — Briefing for next session
 **SessionLog_1.md** — Arrival, the vow, the standoff, departure prep
