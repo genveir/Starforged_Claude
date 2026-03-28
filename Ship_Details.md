@@ -48,10 +48,6 @@ The Steady Return carries approximately ten people. Most signed on to deliver me
 
 The remaining crew of approximately eight are not yet named or fully characterised. Per the campaign's worldbuilding approach, their names and roles should be established through play or prior discussion rather than assumed.
 
-Here's the proposed section — I'd add it at the end of Ship_Details.md:
-
----
-
 ## Supply and Readiness Tracking
 
 The *Steady Return* maintains its own supply track, separate from Gerald's personal supply track. The two tracks interact differently depending on whether Gerald is operating from the ship or independently on the ground.
