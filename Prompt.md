@@ -129,7 +129,7 @@ Perform the following steps in order:
 Perform the following steps in order. Confirm with the player before moving to the next step.
 
 1. Perform the End a Session move together with the player. Updating game files is a concern for the next steps, not this one.
-2. Write a session log. Match the style of SessionLog_7.md. Include every roll made during the session, embedded at the end of the beat in which it occurred, in italics: *(Move Name +stat: outcome. For suffer moves, show the meter change as Before → After. For narrative outcomes, state the result briefly.)*
+2. Write a session log. Match the style of SessionLog_9.md. Include every roll made during the session, embedded at the end of the beat in which it occurred, in italics: *(Move Name +stat: outcome. For suffer moves, show the meter change as Before → After. For narrative outcomes, state the result briefly.)*
 3. Write a new Nextsession.md, output it so the player can copy/paste it. Before writing, ask the player if they have any concerns about the upcoming session to include. The file must follow this structure exactly:
    - **Session: N** — the upcoming session number, on its own line below the title
    - **Session Opens With** — one sentence establishing Gerald's exact physical position and immediate situation

@@ -89,7 +89,7 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ### Armament situation
 
-**Gerald** — Rifle, two sidearms, Ballistic plates fitted into suit, signal jammer
+**Gerald** — Rifle, two sidearms, ballistic plates fitted into suit, signal jammer. The jammer can be remotely activated and kills all comms in the immediate area once activated — including the circle's own — so it cannot be deactivated remotely.
 **Carl Inswich** — Sidearm
 **Davel Oren** — Sidearm
 

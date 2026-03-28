@@ -13,13 +13,6 @@
 **Prompt.md**
 **Directives.txt**
 **Nextsession.md**
-**SessionLog_1.md**
-**SessionLog_2.md**
-**SessionLog_3.md**
-**SessionLog_4.md**
-**SessionLog_5.md**
-**SessionLog_6.md**
-**SessionLog_7.md**
-**SessionLog_8.md**
+**SessionLog_Condensed**
 **SessionLog_8.md**
 **SessionLog_9.md**
