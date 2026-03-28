@@ -37,7 +37,7 @@ The raider vessel is similar in overall size to the Steady Return but configured
 
 **Armament:** The raider carries laser cannons and kinetic weapons as standard fit, and arrived with two guided missiles. On arrival it used heavy kinetic bombardment to destroy the settlement's point defence installations — a large ward launcher and smaller laser cannon designed for meteor protection that would otherwise have provided some defence against orbital attack. The missiles remain. These are the primary reason the Steady Return cannot safely approach.
 
-**Complement:** Estimated fifteen to twenty personnel, now reduced by two following the ambush at Minka Brinberg's cabin.
+**Complement:** Started at fifteen to twenty personnel, see Clocks.md for current figure.
 
 **Tactical position:** The raider is in low orbit over the settlement. It is strategically bound to this position — its leverage over the Steady Return is entirely the people on the ground. If it moves to chase the Steady Return it abandons that leverage, and the Steady Return is faster and more FTL-capable in any case. The raider knows this. The Steady Return knows this.
 
@@ -67,7 +67,7 @@ The settlement is not defenceless in absolute terms. A high-metallicity mining o
 
 The settlement also has ore-launching infrastructure of some kind, given its mining focus. The potential to repurpose mass-driver or ore-launching equipment against the raider in orbit is an open question, as is the possibility of loading dangerous cargo onto the raider through deception. Neither option is confirmed viable. Both are worth investigating.
 
-The settlement also has a supply situation that is more dire than most settlers know: fifteen to seventeen days of supplies remain at current consumption rates. Carl Inswich has been obscuring the true figures in the official system.
+The settlement also has a supply situation that is more dire than most settlers know: Carl Inswich has been obscuring the true figures in the official system. Food reserves started at 15-17 days, See Clocks.md for current estimate.
 
 ---
 

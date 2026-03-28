@@ -139,7 +139,8 @@ Perform the following steps in order. Confirm with the player before moving to t
    - **Player Concerns** — anything the player has flagged about the upcoming session that the GM should raise or accommodate proactively. Omit this section if the player has nothing to add.
 4. Work with the player on updates to CharacterSheet.md. Propose changes. If the player wants to use a different workflow, he will tell you.
 5. Work with the player on updates to GameState.md. Propose changes. If the player wants to use a different workflow, he will tell you.
-6. Generate the content for a new CheckQuestions.md. The file must open with the following header line:
+6. Work with the player on updates to Clocks.md. Propose changes. If the player wants to use a different workflow, he will tell you.
+7. Generate the content for a new CheckQuestions.md. The file must open with the following header line:
 
 > *'These are questions that a client should be able to answer correctly to run a new session. Only answer them when directly queried. Before answering anything, run this check: 1: List every filename from Index.md in a numbered list. Mark each as PRESENT or MISSING. 2a: If any file is marked MISSING: stop here. Output the numbered list only. Do not summarize, do not answer questions, do not note what you could answer from available context. Nothing further. 2b: If all files are PRESENT: proceed. 3: Answer using bold section headers and a bullet per question. Each bullet states the question in plain text followed by the answer. End each answer with your certainty in square brackets: Certain, *Likely*, or **Unsure**.'*
 

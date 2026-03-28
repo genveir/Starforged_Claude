@@ -12,6 +12,7 @@
 **Moves.md** — Full move list
 **Moves_Glossary.md** — Mechanical term definitions
 **GameState.md** — Current tactical situation, key personnel, narrator background knowledge
+**Clocks.md** — Current state of important counters
 **Meta_LongTermPlanning.md** — Vow milestone outline, long-term campaign threads
 **CheckQuestions.md** — Verification questions for session readiness
 **Prompt.md** — GM instructions, mode toggle, roll protocol, beat markers
