@@ -7,12 +7,12 @@
 **Moves_Glossary.md**
 **GameState.md**
 **Clocks.md**
-**LongTermPlanning.md**
+**NarratorNotes.md**
 **CheckQuestions.md**
 **Prompt.md**
 **Directives.txt**
 **Nextsession.md**
-**StaticSettingInfo**
-**SessionLog_Condensed**
+**StaticSettingInfo.md**
+**SessionLog_Condensed.md**
 **SessionLog_9.md**
 **SessionLog_10.md**
