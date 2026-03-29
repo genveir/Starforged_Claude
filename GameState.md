@@ -47,7 +47,10 @@ The raider vessel is similar in overall size to the Steady Return but configured
 
 **Assessment:** The raider is not a sophisticated military vessel. It is an expensive, well-equipped tool for intimidation and close-range violence. Someone outfitted these people. A ship this well-armed and well-configured costs real resources to maintain. Raiders are a cheap and deniable way to soften up a valuable settlement before moving in properly — and Raiman's Folly's mining prospects are exactly the kind of find that would interest a faction with the means to exploit them. This is not the actual reason they are here, but it is the reasonable inference from available evidence.
 
-**Recent developments:** Two escort mercenaries were killed during an ambush at Minka Brinberg's cabin. Minka Brinberg is also dead. A shuttle was observed departing the surface shortly after. The raiders' working assumption is likely an outside agent. Internal security measures are expected to intensify outward-facing rather than inward. They have concluded this assassination was a commando action by personnel of the Steady Return. A long range laser air-defence cannon has been pulled down from the raider's ship and mounted on top of the settlement hub overnight. This is a response to the cabin incident.
+**Recent developments:** 
+- Two escort mercenaries and Minka Brinberg were killed in an ambush at her cabin. A shuttle was observed departing the surface shortly after. 
+    - The raiders know this was a commando action by Steady Return personnel, but have not accounted for local involvement — their security response has intensified outward-facing rather than inward. 
+    - They pulled a long-range laser air-defence cannon from their ship and mounted it on the settlement hub overnight.
 
 ---
 

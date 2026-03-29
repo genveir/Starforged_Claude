@@ -7,7 +7,7 @@
 **Moves_Glossary.md**
 **GameState.md**
 **Clocks.md**
-**Meta_LongTermPlanning.md**
+**LongTermPlanning.md**
 **CheckQuestions.md**
 **Prompt.md**
 **Directives.txt**
