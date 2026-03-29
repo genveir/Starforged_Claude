@@ -1,5 +1,7 @@
 # The Steady Return
 
+This file documents the ship the character lives on, it will continue on into the campaign, unlike the scenario details
+
 ## Overview
 
 The Steady Return is a lightly armed civilian courier corvette operating out of the Sonnet system. It runs spoke routes from Sonnet out to frontier settlements that would otherwise be entirely cut off from the wider Divide — carrying news, contracts, legal documents, data, and physical trade goods. The business model is connection: frontier systems pay for the link to inner worlds, and Sonnet gets first intelligence on everything those frontier systems find.
@@ -47,29 +49,3 @@ The Steady Return carries approximately ten people. Most signed on to deliver me
 **Gerald Finch** — master at arms. 43 years old. Former planetary navy, former frontier lawman. Responsible for security, weapons, and order among crew and passengers. Has sworn a cordon vow to free Raiman's Folly from its raiders and see its people safe.
 
 The remaining crew of approximately eight are not yet named or fully characterised. Per the campaign's worldbuilding approach, their names and roles should be established through play or prior discussion rather than assumed.
-
-## Supply and Readiness Tracking
-
-The *Steady Return* maintains its own supply track, separate from Gerald's personal supply track. The two tracks interact differently depending on whether Gerald is operating from the ship or independently on the ground.
-
-**Gerald away from the ship**
-
-The two tracks are fully decoupled. Gerald scrounges, spends, and suffers on his own. The ship's supply does not change unless something happens to the ship itself — station-keeping and routine operations do not drain it meaningfully.
-
-**Gerald aboard the ship**
-
-When Gerald returns to the ship for a genuine stay — not a lightning visit, but long enough to sleep, eat, and operate from the ship across at least a session beat or two — his personal supply track resets to the ship's current value. His personal stores fold into the larger pool; one man's rations do not move the needle for a ten-person crew, and the fiction supports treating them as a single unit. From this point, the ship's supply track is the active track for all purposes.
-
-**Gerald departing the ship**
-
-When Gerald leaves for independent ground or surface operations, his personal supply track is set to the ship's current value. He carries what the ship can spare.
-
-**Resupplying Gerald from the ship**
-
-If Gerald is away from the ship but able to receive a resupply from it — via shuttle drop or similar — his personal supply cannot exceed the ship's current value. You cannot extract more than exists. Resupply from other sources (scavenging, barter, raider stores, settler resources) is uncapped as normal.
-
-**Replenishing the ship's supply**
-
-The ship resupplies through the normal Resupply move, using whatever opportunity presents — trade, barter, salvage, or a stop at a settlement or station with something to offer.
-
----
