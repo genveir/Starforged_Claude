@@ -66,7 +66,7 @@ The player handles all dice rolls and reports them in the following format:
 > action die + stat bonus (challenge die, challenge die)
 > Example: 4 + 3 (4, 7)
 
-Before confirming any move where a named connection is meaningfully involved, check whether their role applies. If it does, remind the player that they may add +1 and will take +1 momentum on a hit, before they roll.
+Before confirming any move where a connection is meaningfully involved, check whether their role applies. If it does, remind the player of the mechanical benefit before they roll.
 
 Before handling any suffer move, check if the move allows a roll to alter the outcome. If so, resolve that roll before narrating the result.
 
