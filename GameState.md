@@ -70,7 +70,7 @@ Bormann is dead. The lead surveyor was killed in an ambush by the circle.
 
 The settlement is not defenceless in absolute terms. A high-metallicity mining operation has cutting equipment, extraction explosives, heavy machinery, and sealed environments with chokepoints. The settlers know every tunnel and access shaft. The raiders have been there long enough to get comfortable but not long enough to know the ground as well as the people who live on it. These are asymmetries that could be exploited by someone who knew how to organise frightened people — which Gerald Finch does.
 
-The settlement also has ore-launching infrastructure of some kind, given its mining focus. The potential to repurpose mass-driver or ore-launching equipment against the raider in orbit is an open question, as is the possibility of loading dangerous cargo onto the raider through deception. Neither option is confirmed viable. Both are worth investigating.
+The possibility of loading dangerous cargo onto the raider through deception remains an open question worth investigating.
 
 The settlement also has a supply situation that is more dire than most settlers know: Carl Inswich has been obscuring the true figures in the official system. Food reserves started at 15-17 days, See Clocks.md for current estimate.
 
@@ -87,6 +87,8 @@ Members: Gerald Finch, Carl Inswich, Davel Oren, Hamzi, Sandra Vael, Maria Reyes
 ### What the Circle Knows
 
 The circle has a working understanding of the raiders' true purpose, assembled from two sources: the data pad Hamzi pulled from his listener on the line between the software specialist and the mining systems, and Sandra Vael's reading of that data. The survey readings are extraordinary — subsurface concentrations and geometric regularities inconsistent with any natural formation. The raiders are not here for the minerals. The minerals were the map. Something is buried under this moon and the raiders came specifically to find it. The circle does not know what it is. The data pad logging this traffic is with Gerald. It continues to log all data passing through the line as long as Hamzi's listener remains active.
+
+The settlement's comms dish has a hardware tap installed by the raiders — a redirect, not a block. All outbound traffic not addressed to the raider's ship was being copied and forwarded to them. Every contact attempt Gerald made since landing was received by the raiders. Hamzi discovered this and has installed a software redirect below the layer the raiders can see, routing Gerald's outbound traffic to the backup dish at the mining complex instead. The hardware tap on the main dish remains physically in place and the raiders do not know it has been bypassed. Gerald knows all of the above.
 
 ### The Monitoring Blacklist
 
@@ -122,7 +124,7 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ## Key Mining Complex Personnel
 
-**Maria Reyes** — miner. Mid-twenties, from Spinfeld, Sonnet — one of the villages under Gerald's jurisdiction during his lawman years. Knew him only as The Lawman. Came to Raiman's Folly a few months ago for the money and the distance from home. Brash, allergic to authority. Sees Davel as a mentor. Current status: Knows the complex leadership is cooperating with the raiders and is opposed to it. Knows the miners hid their weapons in the mine shafts when the raiders arrived rather than handing them over. Proposed using mining explosives to destroy the cable line and force the miners into the fight.
+**Maria Reyes** — miner. Mid-twenties, from Spinfeld, Sonnet — one of the villages under Gerald's jurisdiction during his lawman years. Knew him only as The Lawman. Came to Raiman's Folly a few months ago for the money and the distance from home. Brash, allergic to authority. Sees Davel as a mentor. Current status: At the relay tower on the crater rim outside the mining complex with Gerald.
 
 **Other personnel not yet characterized:** The shift supervisors.
 
@@ -130,7 +132,13 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ## Gerald's Current Position
 
-Gerald is in the crew rest area of the mining complex, one level below the main maintenance corridor. Currently in a strategy call with the rest of the circle. The rest area is only safe until 18:00 — he is meeting Maria then to find him a place to sleep.
+Gerald is at the crater rim relay tower outside the mining complex, on a live channel with Graff. Maria is with him.
+
+---
+
+## Gerald's Condition
+
+Gerald is bruised down his entire left side from the session 8 buggy explosion, and has a foot injury from loading the backup dish.
 
 ---
 
@@ -144,6 +152,8 @@ They cannot resupply the settlement from the current distance. They cannot leave
 
 The Steady Return has deployed relay drones positioned high on the far side of the moon to maintain communications with Gerald during the surface operation. The raider is assumed to have relay drones deployed covering obvious approaches to the settlement. Relay drones have very basic sensors though, they could never detect Gerald's shuttle through the interference.
 
+Communication with Gerald has been restored via the backup dish at the mining complex and the crater rim relay tower.
+
 ---
 
 ## The Mining Complex
@@ -155,6 +165,8 @@ The complex leadership — shift supervisors and senior staff — are cooperatin
 A cable runs from the mining complex to the settlement, carrying data between the device the raiders brought and the mining systems. This cable is the operational link enabling the precursor detection operation. Disrupting it would temporarily halt the raiders' progress without a shot being fired. It would also invite a response from the raiders.
 
 Hidden weapons cache — when the raiders arrived and began talking about confiscating personal weapons, the miners hid their firearms in the mine shafts rather than surrendering them. The two assigned raiders have never gone looking. The cache is substantial enough to arm a serious resistance.
+
+The mining complex houses an ore launcher — a mass driver that launches packaged ore into low orbit for pickup by bulk carriers. Ore packages have small attached thrusters for orbit stabilisation but no guidance software; they are effectively dumb munitions. At the raider's current altitude of approximately 30km, packages arrive with enough velocity to be a genuine threat to a stationary or disabled ship. Against a maneuvering ship they are not viable — no guidance means no correction, and any competent crew will simply move. The ore launcher is therefore not a current offensive option, but becomes relevant if the raider vessel is disabled or otherwise unable to maneuver.
 
 ---
 
@@ -174,8 +186,7 @@ The ship logged it. The vow is Formidable in Starforged terms.
 - What exactly does the settlement have that could be turned against the raider? Extraction explosives, heavy machinery, and ore-launching infrastructure are all possibilities.
 - Can the raider's two remaining missiles be neutralised, exhausted, or bypassed? This is the key to unlocking the Steady Return's ability to close and support.
 - What exactly is buried under the moon's surface, and how close are the raiders to pinpointing its location? Minka's death will slow them down but not stop them — the software specialist is still connected to the mining systems.
-- Gerald has no cover identity in the settlement's admin system — no registered berth, no arrival record. The innkeeper remains the most accessible person who could plausibly register him as a late arrival. This is now harder to resolve given the alert status of the settlement.
-- Gerald does not yet know the comms blackout has a hardware cause. Finding and removing the hard block on the settlement's dish is the most direct path to restoring contact with the Steady Return.
+- Gerald has no cover identity in the settlement's admin system — no registered berth, no arrival record. The innkeeper remains the most accessible person who could plausibly register him as a late arrival. This seems less important to resolve since Gerald is essentially committed to acting as a saboteur / commando.
 
 ---
 

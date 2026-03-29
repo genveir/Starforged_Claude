@@ -48,5 +48,10 @@ Certain entries that are also general enough to belong in the setting background
 
 ---
 
-**Communication with Graff is impossible**
-**[Certain]** Although Hamzi got a message to the Steady Return when it arrived in-system, Gerald has not communicated with Graff even once while on the surface. Gerald is a competent officer, if he were able to communicate with his superior he would have done so. This implies that there is a reason, even though it may not be explicit in the lore, that prevents communication between the settlement and the Steady Return.
+## The ore launcher as a conditional weapon 
+
+**[Certain]** The settlement's ore launcher is a mass driver with no guidance capability — packages are dumb munitions once away. Against a maneuvering ship at 30km altitude it is not viable.
+
+**[Certain]** At 30km, packages arrive fast enough to threaten a stationary or disabled ship. The ore launcher therefore has latent offensive relevance if the raider vessel is disabled or unable to maneuver.
+
+**[Speculative]** Whether a disabled raider at 30km altitude could be engaged before it recovered maneuvering capability depends on how quickly packages reach altitude and how the crew responds. Neither has been defined precisely enough to call.

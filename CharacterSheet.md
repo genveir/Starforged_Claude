@@ -45,7 +45,7 @@ Momentum reset: 2, or 3 in combat
 ## Vow
 **"I swear by the cordon that keeps us safe that I will free Raiman's Folly from these raiders and see its people safe."**
 Rank: Formidable
-Progress: 3/10
+Progress: 4/10
 
 ---
 
@@ -98,7 +98,7 @@ None
 ## Legacy Tracks
 - **Quests:** 0
 - **Bonds:** 0
-- **Discoveries:** 1 box
+- **Discoveries:** 1 box, 1 tick
 
 - **Experience:** 2 gained, 2 available
 
@@ -112,19 +112,19 @@ Two years of mutual respect and daily proximity. The relationship is warm and ge
 **Sonnet navy contacts** — *naval officers, Sonnet planetary faction*. Rank: formidable. Progress: 0/10.
 Well-placed friends from Gerald's service days who vouched for him when he needed it. Useful for information, favours, and institutional access within the Sonnet faction's reach. Reforming a genuine personal bond with any of them would take real work. If a specific individual becomes significant, split them into their own entry.
 
-**Davel Oren** — *mining foreman, night extraction crew, Raiman's Folly*. Rank: troublesome. Progress: 9/10.
+**Davel Oren** — *mining foreman, night extraction crew, Raiman's Folly*. Rank: dangerous. Progress: 6/10.
 A familiar face from two years of stops on the route. Quiet, practical, not a man who hesitates when he's decided something. Knows the industrial infrastructure intimately — cutting equipment, extraction explosives, heavy machinery, access shafts and maintenance passages.
 
 **Carl Inswich** — *resupply manager, Raiman's Folly*. Rank: troublesome. Progress: 0/10.
 Known through two years of cargo runs and manifests. Steady under pressure, not a man who dramatises. Knows the settlement's supply situation to the day.
 
-**Sandra Vael** — *survey team lead, Raiman's Folly*. Rank: troublesome. Progress: 6/10.
+**Sandra Vael** — *survey team lead, Raiman's Folly*. Rank: dangerous. Progress: 4/10.
 Quiet, comes off slow, is not slow. Whip smart, iron core. Knows the survey data better than anyone at the settlement.
 
-**Hamzi** — *communications officer, Raiman's Folly*. Rank: troublesome. Progress: 3/10.
+**Hamzi** — *communications officer, Raiman's Folly*. Rank: troublesome. Progress: 6/10.
 Knows every line of the settlement's comm infrastructure — laid the cables, wrote the software. Root on the system. Moves freely through the maintenance corridors and knows which corners nobody watches.
 
-**Maria Reyes** — *miner, Raiman's Folly ining complex / Raiman's Folly*. Rank: troublesome. Progress: 6/10.
+**Maria Reyes** — *miner, Raiman's Folly ining complex / Raiman's Folly*. Rank: troublesome. Progress: 9/10.
 Mid-twenties, from Spinfeld, Sonnet — one of the villages under Gerald's jurisdiction in his lawman days. Knew him only as The Lawman. Came to Raiman's Folly for the money and the distance from home. Brash, allergic to authority. Sees Davel as a mentor.
 
 ---
