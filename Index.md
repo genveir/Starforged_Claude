@@ -12,6 +12,7 @@
 **Prompt.md**
 **Directives.txt**
 **Nextsession.md**
+**StaticSettingInfo**
 **SessionLog_Condensed**
 **SessionLog_9.md**
 **SessionLog_10.md**

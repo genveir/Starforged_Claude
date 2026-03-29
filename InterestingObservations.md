@@ -9,6 +9,12 @@ Certain entries that are also general enough to belong in the setting background
 
 ---
 
+## General Campaign Ideas
+
+**[Speculative]** It may be possible to load dangerous cargo onto the raider's ship using deception.
+
+**[Speculative]** The entity able to recognize data as linked to the precursors may not be human. Maybe the rogue settlement is led by an AI?
+
 ## Orbital Mechanics and Ship Combat
 
 **The moon-as-shield manoeuvre**
@@ -40,11 +46,6 @@ Certain entries that are also general enough to belong in the setting background
 
 **The moon's rotation**
 **[Speculative]** Moons of this size are typically tidally locked to their parent body, rotating once per orbit. If Raiman's Folly follows this pattern, its rotation is very slow — far too slow for 30 kilometres to be anywhere near geostationary. Station keeping at that altitude against a slow rotation remains trivially cheap regardless.
-
----
-
-**Reading the precursor data**
-**[Speculative]** The entity able to recognize data as linked to the precursors may not be human. Maybe the rogue settlement is led by an AI?
 
 ---
 
