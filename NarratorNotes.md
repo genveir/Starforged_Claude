@@ -27,15 +27,29 @@ The track has 10 boxes. The goal categories below are a guide, not a rigid struc
 
 ### Goal Categories
 
-- **Force building and attrition**. Gerald organises willing settlers into something usable — not soldiers, but people who will hold a position when it matters. Maria and Davel are the core of the recruitment effort; the complex is the staging ground. Raider infantry should be degraded where possible, but carefully — attrition that looks deliberate risks forcing the timeline before Gerald is ready. Accidents, equipment failures, and terrain are preferable to open confrontation at this stage. Freeing the software specialist is a secondary objective that may become viable during this phase.
+- **Force building**. Gerald organises willing settlers into something usable — not soldiers, but people who will hold a position when it matters. Maria and Davel are the core of the recruitment effort; the complex is the staging ground. Raider infantry should be degraded where possible, but carefully — attrition that looks deliberate risks forcing the timeline before Gerald is ready. Accidents, equipment failures, and terrain are preferable to open confrontation at this stage. Freeing the software specialist is a secondary objective that may become viable during this phase.
 
-- **Dealing with the raider ground forces.** Gerald must attrite the raider's ground forces by a significant amount. They are the primary tool of the opponent to control the settlement population.
+- **Dealing with the raider ground forces.** Gerald must attrite the raider's ground forces by a significant amount. They are the primary tool of the opponent to control the settlement population. Difference between this goal and the careful attrition in the previous one is that the goal is to functionally defeat the enemy infantry altogether.
 
 - **Degrading the raiders' ship.** Before the Steady Return can participate in a direct engagement, two problems must be solved in whatever order play makes possible: both missiles must be neutralised or exhausted, and the raider vessel must be damaged enough that the Steady Return can win a fight against it. Neither condition has a prescribed solution — both are open questions for play.
 
 - **Defeating the raiders.** This can take two shapes: The raiders leave, or the raiders are destroyed. This category is mandatory for the vow to be completed. The ship must be destroyed or have left, and there must be no infantry left on the ground.
 
 - **Seeing the people safe.** Resupply if the timeline is still live. Stabilising the settlement — leadership restored, council functional, someone stepping into Bormann's role.
+
+---
+
+## Possible Officer Course of Action
+
+The raider's two missiles are the primary constraint preventing the Steady Return from participating. This narrative arc relies on provoking the raider into a tactical decision that creates an exploitable opening.
+
+The commando operation: the raiders have concluded that the cabin ambush was a commando action by Steady Return personnel. They are correct — Gerald is a Steady Return operative, inserted covertly, who has been running active operations since arrival. What Gerald will try to exploit is the gap between what is true and what the officer can verify: the officer knows a dangerous operative was on the ground but does not know he stayed moon-side at the shuttle's departure, or that he had local allies. Amplifying the officer's existing read is a natural course of action, forcing a response by the raiders.
+
+In this narrative arc the response of the officer will be to ship one missile to the surface and station it in the settlement under heavy guard, then commit the raider vessel to chasing the Steady Return. The plan is to maneuver or chase Graff into cresting the moon's horizon into the ground missile's line of sight at which point the settlement, apparently unarmed, suddenly isn't. The Steady Return would have no reason to expect this. As far as Graff knows, nothing on the surface can threaten him.
+
+The opening during this arc: while the raider vessel is committed to the chase and out of position, the resistance destroys the ground-based missile at the settlement hub. This must happen before Graff crests the horizon. If it succeeds, the Steady Return's approach vector opens and the raider vessel is caught out of position with one missile gone and its infantry gutted.
+
+Key assumptions: Gerald has sufficient organised settlers ready to assault a heavily guarded position at the settlement hub. The ground assault and Graff's movements can be coordinated. The commando ruse is convincing enough to provoke the officer into splitting their missile complement.
 
 ---
 
