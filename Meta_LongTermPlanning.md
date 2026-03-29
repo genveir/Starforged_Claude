@@ -75,7 +75,7 @@ The threshold is not a fixed number. It is the point where the unit stops feelin
 
 The "see the people safe" condition requires the settlement to have functional leadership before the vow can be fulfilled. Two roles need filling: a security and infrastructure role analogous to Bormann's, and leadership of the survey arm.
 
-Current preferred candidates: Davel Oren for the security and infrastructure role — practical, respected by the miners, has been making command decisions quietly throughout the occupation. Sandra Vael for the survey arm — she knows the data better than anyone remaining and has the respect of her team, but her arc is slower and runs through the Test Your Relationship move before it can resolve. Both will resist, and that resistance should feel genuine rather than token.
+Current preferred candidates: Davel Oren for the security and infrastructure role — practical, respected by the miners, has been making command decisions quietly throughout the occupation. Sandra Vael for the survey arm — she knows the data better than anyone remaining and has the respect of her team, but her arc is slower because of her trauma after shooting her predecessor. Both will resist, and that resistance should feel genuine rather than token.
 
 These are preferences, not requirements. If either candidate is lost during the missile plan or otherwise, the settlement has other personnel who could step up. The phase remains achievable regardless.
 

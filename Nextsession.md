@@ -11,7 +11,7 @@ Gerald is in the crew rest area of the mining complex, the circle's first full p
 - **Gerald has no cover identity in the settlement's admin system.** The innkeeper remains the most accessible route but the settlement is on higher alert.
 
 ## Pending Mechanical Moves
-- **Forge a Bond (Davel)** — connection at 9/10, one Develop Your Relationship trigger away.
+
 
 ## Active Narrative Threads
 - The explosives proposal: blow the cable, force the miners to act, accept the consequences. The circle hasn't said yes or no.

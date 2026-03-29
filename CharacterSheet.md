@@ -7,6 +7,16 @@
 **Age:** 43
 **Background:** Former planetary navy, former frontier lawman, current master at arms aboard the civilian courier corvette *Steady Return*, operating out of Sonnet system.
 
+### Character Notes
+
+Gerald is self-aware about his history — he left the navy young, certain his judgment exceeded his seniors', and has spent twenty years arriving at the understanding that he was mostly wrong about that. He is honest about this assessment without dwelling on it, and the people who know him well respect him more for it.
+
+He is not naturally a man of many close friendships. Jason Bormann was one of the rare exceptions — a real friend, not a colleague-friend — and his death is active motivation, not backstory.
+
+He went twenty years without swearing a cordon vow. When he finally did, the words felt older in his mouth than he expected.
+
+In his lawman years he was known across a wide rural territory simply as The Lawman — a recognised figure to people who never knew his name. This identity still carries weight with settlers from that region.
+
 ---
 
 ## Stats
