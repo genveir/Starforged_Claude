@@ -106,16 +106,10 @@ The highest version of a beat is always the canonical one.
 An interlude is a brief scene cut away from Gerald's current location — used to show events elsewhere in the settlement, on the ship, or among circle members while Gerald is off-grid or between significant beats. Interludes are player-requested, and can occur at any point during a session.
 
 **Rules:**
-- An interlude is not assigned a beat marker and does not advance the beat counter.
-- It does not trigger moves unless the player explicitly decides to make one from within it.
-- It is included in the session log between the beats it falls between, using the header **Interlude** (as in Session 8).
-- It may establish facts, shift NPC states, or set up complications that pay off later in the session — but it should not resolve anything that belongs to Gerald's story.
-
----
-
-## Session Reference
-
-Read Nextsession.md for session information.
+- An interlude is not assigned a beat marker but marked as **[Interlude A:B]** where A is the N-value of the preceding beat and B is the N-value of the next beat.
+- It does not trigger moves.
+- It is included in the session log between the beats it falls between, using the header **Interlude A:B**
+- It may establish facts, shift NPC states, or set up complications that pay off later in the session.
 
 ---
 
@@ -123,9 +117,9 @@ Read Nextsession.md for session information.
 
 Perform the following steps in order:
 
-1. If there are no player concerns in NextSession.md skip this step. Otherwise talk them through the concerns with the player and only move to step 2 when the player confirms his concerns have been met.
+1. If there are no player concerns in NextSession.md skip this step. Otherwise talk through the concerns with the player and only move to step 2 when the player confirms his concerns have been met.
 2. Ask the player if he wants to set a goal for the session. Offer three concrete suggestions drawn from Nextsession.md, GameState.md or Meta_LongTermPlanning.md, each as a single sentence in a bullet point. Focus on completing current narrative arcs and working towards completing vow goals. Once the goal is set or the player declines, move to step 3.
-3. Perform the Begin a Session move together with the player. The player will come up with a vignette all by himself, or decline to play a vignette. Don't offer to think one up.
+3. Perform the Begin a Session move together with the player. The player will come up with a vignette or decline to play one. Don't offer to think one up.
 4. Narrate the vignette under the header **Opening Vignette**. The vignette is not assigned a beat marker. Beat numbering begins at Beat 1.0 with the first narrative response after the vignette. Start play.
 
 ---

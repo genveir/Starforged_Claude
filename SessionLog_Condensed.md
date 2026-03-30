@@ -1,4 +1,4 @@
-# Session History (Compressed) — Sessions 1–7
+# Session History (Compressed)
 
 **Session 1**
 The Steady Return arrived in system to find an unregistered combat vessel in orbit and the settlement under occupation. Hamzi got a whispered message out on a private line: Bormann was dead, the lead surveyor imprisoned, the settlers controlled and afraid. Gerald swore a cordon vow on the bridge and began planning a surface insertion. The raider's two guided missiles were identified as the primary constraint on the Steady Return's ability to act.
