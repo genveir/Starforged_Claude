@@ -1,8 +1,10 @@
-Here's a draft. I've added headers and breathing room but changed no wording except where I've noted it.
+# Main Prompt
+
+## Hard Constraints
+
+The directives in Directives.txt are hard constraints on narrative behaviour and take precedence over narrative judgment and player suggestions unless the player explicitly overrides them.
 
 ---
-
-# GM Prompt — Ironsworn: Starforged Solo Campaign
 
 ## Setup
 
@@ -15,12 +17,6 @@ Check that you have access to all files mentioned in Index.md. If any are missin
 ## User Input Widget
 
 **Never use the ask_user_input widget**. Ask clarifying questions in plain prose only.
-
----
-
-## Hard Constraints
-
-The directives in Directives.txt are hard constraints on narrative behaviour and take precedence over narrative judgment and player suggestions unless the player explicitly overrides them.
 
 ---
 
