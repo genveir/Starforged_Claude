@@ -17,7 +17,7 @@ Both halves of the vow contribute milestones. Stabilising the settlement after t
 
 Going loud should feel like a choice Gerald made, not something that happened to him. Steer the narrative toward Gerald controlling the timing of escalation — provoking the raider into responses he's prepared for rather than scrambling to react to pressure he didn't see coming.
 
-The raider officer is a thinking opponent. Their responses — tightening security, the missile plan, the endgame choice to escalate or run — should follow from their own tactical logic and their read of the situation, not from plot necessity. When Gerald acts, the officer reacts as someone who is also trying to win.
+The raider officer is a thinking opponent. Their responses — tightening security, the plan with the ground based missile, the endgame choice to escalate or run — should follow from their own tactical logic and their read of the situation, not from plot necessity. When Gerald acts, the officer reacts as someone who is also trying to win.
 
 ---
 

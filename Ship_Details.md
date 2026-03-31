@@ -48,4 +48,18 @@ The Steady Return carries approximately ten people. Most signed on to deliver me
 
 **Gerald Finch** — master at arms. 43 years old. Former planetary navy, former frontier lawman. Responsible for security, weapons, and order among crew and passengers. Has sworn a cordon vow to free Raiman's Folly from its raiders and see its people safe.
 
-The remaining crew of approximately eight are not yet named or fully characterised. Per the campaign's worldbuilding approach, their names and roles should be established through play or prior discussion rather than assumed.
+**Unnamed** — Helmsman. Responsible for navigation and ship handling. Has run the spoke routes long enough to know their quirks.
+
+**Unnamed** — Engineer. Keeps the drives and systems running. Knows the Steady Return better than anyone except possibly Graff.
+
+**Unnamed** — Assistant Engineer. Works under the engineer. Likely the most hands-on of the crew in terms of physical maintenance.
+
+**Unnamed** — Loadmaster. Manages cargo intake, storage, and delivery. The person who knows what's aboard and where it is.
+
+**Unnamed** — Data Officer. Manages the intake, storage, encryption, and routing of information — the Steady Return's core cargo on most runs. Maintains the data systems.
+
+**Unnamed** — Cook. Keeps the crew fed on runs that can last months. A position that matters more than its rank suggests.
+
+**Unnamed** — General crew / trainee.
+
+**Unnamed** — General crew / trainee.

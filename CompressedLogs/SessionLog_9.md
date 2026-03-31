@@ -49,11 +49,3 @@ Full circle for the first time — six voices. Hamzi runs the tally: two raiders
 **Beat 8 — Planning**
 
 Gerald asks what they have to work with. The raiders aren't pressing hard enough to provoke a response — arming unprepared civilians gets people killed for nothing. Maria cuts in: the miners hid their weapons in the shafts when the raiders arrived. There's enough hardware down there to make a serious argument. Carl: *"The raiders aren't pushing them. Why would they move?"* Maria: *"They would if someone blew up the line with mining explosives."* Silence. *(Secure an Advantage +heart: weak hit. Momentum 4 → 6.)*
-
----
-
-**End State**
-
-Gerald is in the crew rest area of the mining complex. The circle is whole — six members, all in contact. A plan nobody has said yes to yet is on the table. The session closes on that silence.
-
-**Mechanical updates:** Health 4. Spirit 5. Supply 3. Momentum 6. Vow 3/10. Sandra connection 6/10. Maria connection 6/10.

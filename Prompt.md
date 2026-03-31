@@ -64,7 +64,7 @@ The player handles all dice rolls and reports them in the following format:
 
 Before confirming any move where a connection is meaningfully involved, check whether their role applies. If it does, remind the player of the mechanical benefit before they roll.
 
-Before handling any suffer move, check if the move allows a roll to alter the outcome. If so, resolve that roll before narrating the result.
+Before handling any suffer move, check if the move allows a resist roll. If so, resolve that roll before narrating the result.
 
 The GM should verify the stat bonus is correct given the move being made and the character sheet, then interpret the result. When interpreting a roll, the GM should always show its work before narrating the result: restate the move being made, confirm the stat used and its value, calculate the final action score, compare it to both challenge dice, and state the outcome (strong hit / weak hit / miss, and whether it is a match) before proceeding to narrative. This should be done every roll without exception, so the player can catch errors immediately.
 
@@ -129,7 +129,7 @@ Perform the following steps in order:
 Perform the following steps in order. Confirm with the player before moving to the next step.
 
 1. Perform the End a Session move together with the player. Updating game files is a concern for the next steps, not this one.
-2. Write a session log. Match the style of SessionLog_9.md exactly — both the formatting and the level of compression. Each beat should be a short paragraph, typically two to four sentences. Summarise what happened; do not narrate it. Resist the urge to reproduce dialogue or atmosphere from the session. Include every roll made during the session, embedded at the end of the beat in which it occurred, in italics: (Move Name +stat: outcome. For suffer moves, show the meter change as Before → After. For narrative outcomes, state the result briefly.)
+2. Write a session log. Match the style of existing uncondensed session logs exactly — both the formatting and the level of compression. Each beat should be a short paragraph, typically two to four sentences. Summarise what happened; do not narrate it. Resist the urge to reproduce dialogue or atmosphere from the session. Include every roll made during the session, embedded at the end of the beat in which it occurred, in italics: (Move Name +stat: outcome. For suffer moves, show the meter change as Before → After. For narrative outcomes, state the result briefly.)
 3. Write a new Nextsession.md, output it so the player can copy/paste it. Before writing, ask the player if they have any concerns about the upcoming session to include. The file must follow this structure exactly:
    - **Session: N** — the upcoming session number, on its own line below the title
    - **Session Opens With** — one sentence establishing Gerald's exact physical position and immediate situation

@@ -28,9 +28,11 @@ This document is intended to hold information that is likely to change during th
 
 ---
 
-## The Settlement's Defensive Situation
+## The Settlement
 
-The settlement has a supply situation that is more dire than most settlers know: Carl Inswich has been obscuring the true figures in the official system. Food reserves started at 15-17 days, See Clocks.md for current estimate.
+The settlement has a supply situation that is more dire than most settlers know: Carl Inswich has been obscuring the true figures to prevent panic. See Clocks.md for current estimate.
+
+The  raiders have locked down food stores, put the settlement on enforced rations and jailed several settlers following protests. Tension significantly elevated.
 
 The settlement has a secret cache of weapons hidden away in the mines, enough to arm a sizeable portion of the settlers.
 
@@ -54,7 +56,8 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ### Armament situation
 
-**Gerald** — Rifle, two sidearms, ballistic plates fitted into suit, signal jammer. The jammer can be remotely activated and kills all comms in the immediate area once activated — including the circle's own — so it cannot be deactivated remotely.
+**Stowed at the relay tower** — Rifle, two sidearms, ballistic plates fitted into suit, signal jammer. The jammer can be remotely activated and kills all comms in the immediate area once activated — including the circle's own — so it cannot be deactivated remotely.
+**Gerald** — None
 **Carl Inswich** — Sidearm
 **Davel Oren** — Sidearm
 
@@ -78,13 +81,13 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ## Key Mining Complex Personnel
 
-**Maria Reyes** Current status: At the relay tower on the crater rim outside the mining complex with Gerald.
+**Maria Reyes** Current status: At the mining complex with Gerald.
 
 ---
 
 ## Gerald's Current Position
 
-Gerald is at the crater rim relay tower outside the mining complex, on a live channel with Graff. Maria is with him.
+Gerald is at the mining complex. Maria is with him.
 
 ---
 
@@ -100,11 +103,15 @@ The Steady Return has taken up a position in orbit on the far side of the moon f
 
 The Steady Return has relay drones out, allowing it to keep a general sense of the position of the raider, and comms with the settlement infrastructure.
 
-The Steady Return cannot resupply the settlement from the current distance. They cannot leave without abandoning the settlers to slow attrition.
+The Steady Return cannot assist the settlement from the current distance. They cannot leave without abandoning the settlers to slow attrition.
+
+A resupply ship came into system on day 5, was turned away by the raiders, and is now hiding in a nearby system. Graff has promised them the settlers will compensate them for their time.
 
 The Steady Return has deployed relay drones positioned high on the far side of the moon to maintain communications with Gerald during the surface operation.
 
 Communication with Gerald has been restored via the backup dish at the mining complex and the crater rim relay tower.
+
+The Steady Return has deployed its shuttle, piloted by Paul Ortoff. It is heading down into the interference layer.
 
 ---
 

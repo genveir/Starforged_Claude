@@ -69,11 +69,3 @@ Maria drives past the raider at the complex gate without slowing down. Nobody lo
 **Beat 11 — Hey Boss**
 
 Maria mounts the dish on the relay tower's secondary bracket while Gerald runs the hardline connection from the rock shelf, bad foot stretched out, following Hamzi's instructions. When the status light goes green he opens a channel. Static, then live static. Then Graff's voice — steady as always, but warmer than usual. Gerald closes his eye for a moment. *"Hey boss. Sorry I've been out of touch."* A pause. *"Gerald. Good to hear your voice. Talk to me."* *(Finish the Expedition: strong hit. Mark 1 tick on discoveries legacy track.)*
-
----
-
-**End State**
-
-Gerald is at the crater rim relay tower, on a live channel with Graff for the first time since landing. The missile plan is no longer blocked. Maria is with him. The complex garrison does not know anything happened.
-
-**Mechanical updates:** Health 3. Spirit 5. Supply 3. Momentum 3. Vow 4/10. Hamzi connection 3/10 → 6/10. Maria connection 6/10 → 9/10. Davel connection: troublesome → dangerous, 6/10. Sandra connection: troublesome → dangerous, 4/10. Discoveries legacy track: 1 box + 1 tick.

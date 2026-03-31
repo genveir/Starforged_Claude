@@ -36,7 +36,7 @@ In his lawman years he was known across a wide rural territory simply as The Law
 | Health | 4 | 5 |
 | Spirit | 5 | 5 |
 | Supply | 3 | 5|
-| Momentum | 6 | 10 |
+| Momentum | 8 | 10 |
 
 Momentum reset: 2, or 3 in combat
 
@@ -57,7 +57,7 @@ Progress: 4/10
 **Supply** 4/5
 **Ability 1 (unlocked):** Your armed, multipurpose starship is suited for interstellar and atmospheric flight. It can comfortably transport several people, has space for cargo, and can carry and launch support vehicles. When you Advance, you may spend experience to equip this vehicle with module assets.
 
-**Ability 2 (locked):** When you Finish an Expedition (dangerous or greater) in your starship and score a hit, this journey strengthened your ties to your ship and any fellow travelers. You and your allies may mark 1 tick on your bonds legacy track.
+**Ability 2 (locked):** When you Finish an Expedition (dangerous or greater) in your starship and score a hit, this journey strengthened your ties to your ship and any fellow travelers. You may mark 1 tick on your bonds legacy track.
 
 **Ability 3 (locked):** When you Withstand Damage, you may roll +heart. If you do, Endure Stress (-1) on a weak hit or miss.
 
@@ -80,7 +80,7 @@ Note: A starship may be battered or cursed
 ### SHUTTLE (Support Vehicle)
 **Integrity:** 4
 
-**Ability 1 (unlocked):** Your unarmed shuttle provides short-range transport for several people and equipment through space or atmosphere. When you travel to a location (not your command vehicle), you and your allies may take +1 momentum when you arrive.
+**Ability 1 (unlocked):** Your unarmed shuttle provides short-range transport for several people and equipment through space or atmosphere. When you travel to a location (not your command vehicle), you may take +1 momentum when you arrive.
 
 **Ability 2 (locked):** When you Face Danger or React Under Fire to navigate through hazardous skies, avoid obstacles, or evade an attack, add +1 and take +1 momentum on a hit.
 
@@ -97,7 +97,7 @@ None
 
 ## Legacy Tracks
 - **Quests:** 0
-- **Bonds:** 0
+- **Bonds:** 1 tick
 - **Discoveries:** 1 box, 1 tick
 
 - **Experience:** 2 gained, 2 available
@@ -124,7 +124,7 @@ Quiet, comes off slow, is not slow. Whip smart, iron core. Knows the survey data
 **Hamzi** — *communications officer, Raiman's Folly*. Rank: troublesome. Progress: 6/10.
 Knows every line of the settlement's comm infrastructure — laid the cables, wrote the software. Root on the system. Moves freely through the maintenance corridors and knows which corners nobody watches.
 
-**Maria Reyes** — *miner, Raiman's Folly ining complex / Raiman's Folly*. Rank: troublesome. Progress: 9/10.
+**Maria Reyes** — *miner, Raiman's Folly ining complex / Raiman's Folly*. Rank: troublesome. Bonded, +2 to roll and +(1)mom when assisting.
 Mid-twenties, from Spinfeld, Sonnet — one of the villages under Gerald's jurisdiction in his lawman days. Knew him only as The Lawman. Came to Raiman's Folly for the money and the distance from home. Brash, allergic to authority. Sees Davel as a mentor.
 
 ---
