@@ -36,7 +36,7 @@ In his lawman years he was known across a wide rural territory simply as The Law
 | Health | 4 | 5 |
 | Spirit | 5 | 5 |
 | Supply | 3 | 5|
-| Momentum | 8 | 10 |
+| Momentum | 4 | 10 |
 
 Momentum reset: 2, or 3 in combat
 
@@ -45,7 +45,7 @@ Momentum reset: 2, or 3 in combat
 ## Vow
 **"I swear by the cordon that keeps us safe that I will free Raiman's Folly from these raiders and see its people safe."**
 Rank: Formidable
-Progress: 4/10
+Progress: 5/10
 
 ---
 

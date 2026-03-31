@@ -55,6 +55,10 @@ The settlement is not defenceless in absolute terms. A high-metallicity mining o
 
 **Aran Chrion** — merc sergeant. Broad, unhurried, with the deliberate quality of someone who uses cruelty and discomfort as a tool. Has authority over the rank and file mercenaries and appears to enjoy exercising it. 
 
+**Tom** (last name unknonw) - lieutenant. In charge of operations on the ground. Installed the tap on the main comms dish.
+
+**The Shipboard Lieutenant** - lieutenant, female, in charge of sensor operations on the Carronade.
+
 ---
 
 ## The Circle of Trust
@@ -87,7 +91,9 @@ The circle is the core of Gerald's resistance operation — the people inside th
 
 **Maria Reyes** — miner. Mid-twenties, from Spinfeld, Sonnet — one of the villages under Gerald's jurisdiction during his lawman years. Knew him only as The Lawman. Came to Raiman's Folly a few months ago for the money and the distance from home. Brash, allergic to authority. Sees Davel as a mentor. 
 
-**Other personnel not yet characterized:** The shift supervisors.
+**Ferris** — shift supervisor, mining complex. Older, methodical, experienced enough to make cooperation with the raiders look like pragmatism rather than cowardice. Kept his crew's heads down and their mouths shut — including about the weapons cache. Made the wrong call and knows it. Committed to Gerald when the real timeline was put in front of him. Will talk to Bran.
+
+**Bran** — shift supervisor, mining complex. The other cooperating supervisor. Ferris intends to bring him around. Stance unknown until that conversation happens.
 
 ---
 

@@ -1,115 +1,108 @@
-Step 7 — CheckQuestions.md. Generating now.
+All files from Index.md are present. Generating CheckQuestions.md content now.
 
 ---
 
-*'These are questions that a client should be able to answer correctly to run a new session. Only answer them when directly queried. Before answering anything, run this check: 1: List every filename from Index.md in a numbered list. Mark each as PRESENT or MISSING. 2a: If any file is marked MISSING: stop here. Output the numbered list only. Do not summarize, do not answer questions, do not note what you could answer from available context. Nothing further. 2b: If all files are PRESENT: proceed. 3: Answer using bold section headers and a bullet per question. Each bullet states the question in plain text followed by the answer. End each answer with your certainty in square brackets: Certain, *Likely*, or **Unsure**.'*
+*'These are questions that a GM model should be able to answer correctly to run a new session. Only answer them when directly queried. Before answering anything, run this check: 1: List every filename from Index.md in a numbered list. Mark each as PRESENT or MISSING. 2a: If any file is marked MISSING: stop here. Output the numbered list only. Do not summarize, do not answer questions, do not note what you could answer from available context. Nothing further. 2b: If all files are PRESENT: proceed. 3: Answer using bold section headers and a bullet per question. Each bullet states the question in plain text followed by the answer. End each answer with your certainty in square brackets: Certain, *Likely*, or **Unsure**.'*
 
 ---
 
 **Gerald's Current Position and Condition**
 
-- Where is Gerald at the start of session 12?
-- What physical injuries is Gerald carrying into session 12?
+- Where is Gerald at the start of session 13, and who is with him?
+- What physical injuries is Gerald carrying, and what meters do they affect?
+- What are Gerald's current condition meter values (health, spirit, supply, momentum)?
 - What weapons does Gerald currently have on his person?
-- Where are Gerald's stowed weapons and how does he get them back?
-- What are Gerald's current condition meter values?
+- Where are Gerald's weapons and equipment stowed, and what is in that cache?
 
 ---
 
-**The Shuttle Fiction**
+**The Immediate Plan**
 
-- Where is the shuttle and who is flying it?
-- What are the shuttle's current orders?
-- When will Paul Ortoff return the shuttle to the Steady Return?
-- Why is the shuttle's presence in the interference layer time-sensitive?
-
----
-
-**The Cable Plan**
-
-- What is the cable running through the eastern shaft doing?
-- What would blowing the cable accomplish?
-- Why does the cable blow need to be coordinated with the shuttle surfacing?
-- Who knows where the mining explosives are stored?
-- What does Maria know about the explosives magazine that makes acquisition feasible?
+- What is Gerald's immediate next action at the start of the session?
+- Where is the cable junction Gerald needs to reach, and how far is it from the mining complex?
+- What is the shuttle fiction, and what does it require to work?
+- Who is piloting the shuttle, and where is it currently?
+- What is the timing constraint that makes this operation urgent?
+- What signal does Gerald need to send to Graff, and when?
 
 ---
 
-**The Settlement**
+**Raider Disposition and Awareness**
 
-- What happened at the settlement in the hours before session 12 opens?
-- Who has been jailed following the ration crackdown?
-- What is the current supply figure and under what conditions does it apply?
-- Who knows the true supply figure?
-- Why is the supply ship not currently in system?
-- Where is the supply ship and what is it waiting for?
+- How many raiders are currently assigned to the mining complex, and how alert are they?
+- What has the raider officer concluded about the cabin ambush, and how has that shaped their current security posture?
+- What change did the raiders make to their patrol posture following the ambush?
+- What weapon did the raiders pull from their ship and where did they mount it?
+- Does the raider officer know Gerald stayed moon-side after the shuttle's apparent departure?
+- What does Aran Chrion believe is the most likely next commando target?
 
 ---
 
 **The Circle of Trust**
 
-- Who are the six members of the circle of trust?
-- Where is each circle member at the start of session 12?
-- What is Sandra Vael's current physical location and psychological state?
-- What is the current state of Gerald's relationship with Sandra?
-- What is the current state of Gerald's relationship with Maria?
+- Who are the current members of the circle of trust?
+- Where is each circle member currently located?
+- What is Sandra Vael's current status and location?
+- What has Ferris committed to doing, and has it happened yet?
+- What is Bran's current stance toward the resistance?
+- What is the armament situation among circle members in the settlement?
 
 ---
 
-**The Raider**
+**Communications and Intelligence**
 
-- What is the current raider complement estimate?
-- What weapons does the raider vessel still have available?
-- What air defence capability have the raiders added since the ambush?
-- What do the raiders currently believe about the source of the commando activity?
-- How has the ration crackdown changed the situation on the ground?
-- What is the current status of the raiders' operation at the mines?
+- How is Gerald currently communicating with Graff and the Steady Return?
+- What has Hamzi done to protect circle communications from raider monitoring?
+- What is the data pad, what does it contain, and where is it?
+- Does the raider officer know the hardware tap on the main dish has been bypassed?
 
 ---
 
-**Communications**
+**The Raider Vessel and Tactical Situation**
 
-- How is Gerald currently communicating with the circle?
-- How is Gerald currently communicating with the Steady Return?
-- Does the hardware tap on the main settlement dish still exist?
-- Do the raiders know the hardware tap has been bypassed?
-
----
-
-**The Steady Return**
-
-- Where is the Steady Return positioned and why?
-- What is the Steady Return's critical tactical limitation against the raider?
-- What does Graff know about the supply situation that Gerald did not know before session 11?
+- How many missiles does the raider vessel currently have?
+- Where is the Steady Return positioned relative to the raider, and why?
+- What prevents the Steady Return from directly engaging the raider right now?
+- What relay assets does the Steady Return have deployed?
+- What is the Steady Return's current supply level?
 
 ---
 
-**The Mining Complex**
+**The Settlement**
 
-- What is the attitude of the mining complex leadership toward the raiders?
-- How many raiders are assigned to the complex and what is their alertness level?
-- Where is the miners' hidden weapons cache?
-
----
-
-**Connections and Mechanical State**
-
-- What is the current progress on Gerald's vow and what is its rank?
-- What are the current ranks and progress values for all active connections?
-- Which connections have been bonded and what are their mechanical benefits?
-- What is Gerald's current bonds legacy track value?
-- What is Gerald's momentum reset value in a fight and why?
+- Approximately how many days of food supply remain at the settlement?
+- What happened to the settlers who protested the ration crackdown?
+- What is the hidden weapons cache, where is it, and who knows about it?
+- Are the jailed settlers still in custody?
 
 ---
 
-**Open Narrative Threads**
+**The Raiders' True Purpose**
 
-- What is the immediate next action at the start of session 12?
-- What does Gerald still need to resolve regarding the complex leadership?
-- What unresolved situation exists with the settlers currently in jail?
-- What is Sandra Vael's unresolved arc and why does it matter to the vow?
+- What are the raiders actually looking for on Raiman's Folly?
+- What is the current status of the precursor detection operation?
+- Why has the raiders' progress slowed, and what is the remaining bottleneck?
+- What is the software specialist's current role and location?
 
-**Moves**
+---
 
-- If Gerald wanted to Secure an Advantage to plan a sabotage route through the mine infrastructure, aided by Davel, what would be an appropriate roll?
-- If Gerald wanted to Compel a group of miners at the complex to join him in revolution, aided by Maria, what would be an appropriate roll?
+**Vow and Progress**
+
+- What is the exact wording of Gerald's vow?
+- What is the vow's rank and current progress?
+- What are the two components the vow requires to be fulfilled?
+
+---
+
+**Key NPCs — Current State**
+
+- What is the raider vessel's name, and does Gerald know it?
+- What are the known named raider personnel and their current locations or roles?
+- What is Captain Graff's current situation and last known position?
+- Who is Paul Ortoff and what is his current status?
+
+---
+
+**Files**
+
+- what is the purpose of each file? Make a table.

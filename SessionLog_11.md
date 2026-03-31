@@ -1,8 +1,4 @@
-I'm confident — the session was short and self-contained, all beats are in the conversation above, and nothing was retconned in a way that would cause confusion. I can write the log cleanly from what's here.
-
----
-
-**Session 11 Log**
+**SESSION 11**
 
 **Opening Vignette**
 

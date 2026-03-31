@@ -19,12 +19,15 @@ This document is intended to hold information that is likely to change during th
     - Minka's death has removed the raiders' primary interpreter of the survey data.
     - The raiders know this was a commando action by Steady Return personnel, but have not accounted for local involvement — their security response has intensified outward-facing rather than inward. 
     - They pulled a long-range laser air-defence cannon from their ship and mounted it on the settlement hub overnight.
+- The raiders have updated their patrol posture. Pairs only, on alert for a commando strike.
 
 ---
 
 ## Known Raider Personnel
 
-**Aran Chrion** — Current status: in the settlement.
+**Aran Chrion** — Current status: in the settlement. On alert for commando strike on food storage or jail.
+
+**Tom** - Current status: in the settlement.
 
 ---
 
@@ -83,11 +86,15 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 **Maria Reyes** Current status: At the mining complex with Gerald.
 
+**Ferris** Current status : At the mining complex.
+
+**Bran** Current status: At the mining complex.
+
 ---
 
 ## Gerald's Current Position
 
-Gerald is at the mining complex. Maria is with him.
+Gerald is at the mining complex. Maria is with him. He has a buggy full of explosives specially selected to blow the cable junction.
 
 ---
 
@@ -111,7 +118,7 @@ The Steady Return has deployed relay drones positioned high on the far side of t
 
 Communication with Gerald has been restored via the backup dish at the mining complex and the crater rim relay tower.
 
-The Steady Return has deployed its shuttle, piloted by Paul Ortoff. It is heading down into the interference layer.
+The Steady Return has deployed its shuttle, piloted by Paul Ortoff. It is down in the interference layer.
 
 ---
 
@@ -119,11 +126,13 @@ The Steady Return has deployed its shuttle, piloted by Paul Ortoff. It is headin
 
 The complex has two raiders assigned to it, not particularly alert. They do not know the miners well enough to question routine vehicle movements or work schedules. Their presence is for oversight rather than active security.
 
-The complex leadership — shift supervisors and senior staff — are cooperating with the raiders. Their calculation is pragmatic: they cannot fight, and the raiders have indicated they will leave once they have what they came for. The leadership does not know what the raiders are looking for. They are moving survey equipment and digging holes as directed and asking no further questions. They do not consider themselves collaborators in any meaningful sense.
+The complex leadership — Ferris and Bran — were cooperating with the raiders. Their calculation was pragmatic: they cannot fight, and the raiders have indicated they will leave once they have what they came for. The leadership does not know what the raiders are looking for. They are moving survey equipment and digging holes as directed and asking no further questions. They have been convinced by Gerald that they may have to fight, but are keeping their heads down until he calls them. The orbital threat is too great.
 
 A cable runs from the mining complex to the settlement, carrying data between the device the raiders brought and the mining systems. This cable is the operational link enabling the precursor detection operation. Disrupting it would temporarily halt the raiders' progress without a shot being fired. It would also invite a response from the raiders.
 
 Hidden weapons cache — when the raiders arrived and began talking about confiscating personal weapons, the miners hid their firearms in the mine shafts rather than surrendering them. The two assigned raiders have never gone looking. The cache is substantial enough to arm a serious resistance.
+
+Ferris has been recruited.
 
 ---
 
