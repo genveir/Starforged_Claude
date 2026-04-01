@@ -37,7 +37,7 @@ After some time holding position, a message arrived from the surface. Hamzi — 
 
 The raider vessel is similar in overall size to the Steady Return but configured entirely differently. It is a purpose-built combat vessel — heavily armoured, short-range, minimal FTL capability. It was built or extensively modified for violence rather than transit. It runs no transponder and appears in no registry, suggesting a stolen hull, a modified vessel, or construction outside any system that would register it.
 
-**Armament:** The raider carries laser cannons and kinetic weapons as standard fit, and arrived with two guided missiles. On arrival it used heavy kinetic bombardment to destroy the settlement's point defence installations.
+**Armament:** The raider carries laser cannons and kinetic weapons as standard fit, and can carry guided missiles. On arrival it used heavy kinetic bombardment to destroy the settlement's point defence installations.
 
 ---
 
@@ -67,15 +67,19 @@ The circle is the core of Gerald's resistance operation — the people inside th
 
 ---
 
-## Key Settlement Personnel
+## Dead Characters
 
-**Jason Bormann** — former marshal and head of the settlement's space defence array. The settlement's primary security authority and one half of its governing council alongside the lead surveyor. A former military man, respected by the settlers, responsible for the point defence installations and organised resistance capability. Current status: shot dead by the raiders in the first minutes of the occupation, before anyone could organise. Gerald considered him a genuine friend.
+**Jason Bormann** — former marshal and head of the settlement's space defence array. The settlement's primary security authority and one half of its governing council alongside the lead surveyor. A former military man, respected by the settlers, responsible for the point defence installations and organised resistance capability.
+
+**Minka Brinberg** — lead surveyor and co-chair of the settlement council alongside Bormann. A willing collaborator with the raiders from early in the occupation — when she understood what they were looking for, she bought in completely, driven by scientific zeal at the prospect of what was buried under the moon. She did not fully reckon with what her cooperation cost the people she was responsible for. Killed by Sandra Vael during the ambush at her cabin — an impulsive act by a close friend and colleague shocked by discovering her betrayal.
+
+---
+
+## Key Settlement Personnel
 
 **Hamzi** (last name unknown) —  communications officer. Built and maintains the settlement's communications infrastructure — laid the cables, wrote the software, knows every line in the system. Root on the comm system. Moves freely through the maintenance corridors and knows which corners nobody watches.
 
 **Carl Inswich** — resupply manager. Responsible for managing incoming supplies against the settlement's consumption and coordinating with courier ships. Known through two years of cargo runs and manifests. Steady under pressure, not a man who dramatises. Knows the settlement's supply situation to the day.
-
-**Minka Brinberg** — Led the settlement council alongside Bormann. A willing collaborator with the raiders — when they arrived and she understood what they were actually looking for, she bought in completely, driven by scientific zeal at the prospect of what was buried under the moon. She did not fully reckon with what her cooperation cost the people she was responsible for.
 
 **The software specialist** — name not yet established. A member of the settlement's technical staff, taken to the jail by the raiders shortly after their arrival.
 
@@ -91,19 +95,17 @@ The circle is the core of Gerald's resistance operation — the people inside th
 
 **Maria Reyes** — miner. Mid-twenties, from Spinfeld, Sonnet — one of the villages under Gerald's jurisdiction during his lawman years. Knew him only as The Lawman. Came to Raiman's Folly a few months ago for the money and the distance from home. Brash, allergic to authority. Sees Davel as a mentor. 
 
-**Ferris** — shift supervisor, mining complex. Older, methodical, experienced enough to make cooperation with the raiders look like pragmatism rather than cowardice. Kept his crew's heads down and their mouths shut — including about the weapons cache. Made the wrong call and knows it. Committed to Gerald when the real timeline was put in front of him. Will talk to Bran.
+**Ferris** — shift supervisor, mining complex. Older, methodical, experienced enough to make cooperation with the raiders look like pragmatism rather than cowardice. Kept his crew's heads down and their mouths shut — including about the weapons cache. Made the wrong call and knows it. Committed to Gerald when the real timeline was put in front of him.
 
-**Bran** — shift supervisor, mining complex. The other cooperating supervisor. Ferris intends to bring him around. Stance unknown until that conversation happens.
+**Bran** — shift supervisor, mining complex. The other cooperating supervisor.
 
 ---
 
 ## The Steady Return's Situation
 
-Steady Return cannot approach the settlement without fighting the raider as long as it's in position above the settlement.
+Steady Return cannot approach the settlement without fighting the raider if it's in position above the settlement.
 
-Steady Return can not fight the raider as long as:
-    - It has missiles
-    - It is fully operational. The raider is a purpose-built combat vessel: more heavily armoured and more heavily armed at close range than a lightly armed courier. 
+The Steady Return cannot safely engage a purpose-built combat vessel in direct combat. Two permanent asymmetries explain this: a courier is not built to absorb punishment from a vessel designed to deal it, and a single missile hit on an unarmoured hull is likely crippling or fatal. These are fixed facts about the ship, independent of any particular opponent's current condition or loadout.
 
 ---
 
@@ -118,45 +120,3 @@ The mining complex houses an ore launcher — a mass driver that launches packag
 Standing on the bridge of the Steady Return with Captain Graff at his shoulder and the raider on the main screen, Gerald Finch swore a cordon vow:
 
 *"I swear by the cordon that keeps us safe that I will free Raiman's Folly from these raiders and see its people safe."*
-
----
-
-## Background Knowledge
-
-**This section contains information known to the narrator but not to Gerald Finch. Use best judgement to determine who does know these things. It should generally not be introduced into play directly — it is context for interpreting events and shaping what Gerald might eventually discover.**
-
----
-
-**The Raiders' True Purpose**
-
-The raiders were not sent here opportunistically. Their backers are a rogue settlement operating out of the Shell — no navy affiliation, no registry, no transponder. Deniable by design.
-
-The survey arm's recent finds excited the Folly's backers because the mineral concentrations and subsurface readings point to genuinely valuable mining prospects. They excited the raiders' backers for a different reason entirely: the same readings, interpreted through a framework the colony's backers do not have, were recognised as consistent with precursor technology in the vicinity. Someone in the rogue settlement that backed this operation knows enough about precursor signatures to read what the colony's surveyors could not. Small, likely inert, but potentially extraordinarily valuable to a small independent faction looking to change its position in the Divide.
-
-The fact that the rogue settlement took any action points to the fact that this settlement somehow got access to the survey data. Whether that's through espionage, accident, treason or any other reason is an open question.
-
-The device the raiders carried in — treated with more care than anything else they brought — is a precursor detection and analysis instrument. It requires mining survey data to triangulate a location. This is why they took the software specialist and connected her to the main mining systems. They are not stealing the survey data. They are using it to find something that isn't on any map yet. The software specialist has been tasked to build an interface between the instrument and the mining systems. As more functions become available, it will become more and more clear from the traffic on the line what the instrument is doing. Minka Brinberg was the raiders' primary interpreter of the survey data. Her death is a significant setback — the software specialist can build the interface but cannot read the survey data with Minka's expertise. The raiders will need to either find another interpreter among the settlement's survey arm or work more slowly with what the software specialist can provide.
-
-The operation is led by a professional military officer, possibly with one or two junior officers. They are running a disciplined, deniable extraction mission. The rank and file are mercenaries — competent enough for occupation duty, but not subject to the officer's professional standards. The risk of an incident does not come from orders. It comes from bored mercenaries with slack supervision.
-
----
-
-**The raider vessel's name**
-
-The ship is called the Carronade. The settlers do not know this — a ship running no transponder and no registry does not advertise its name, and the raiders have not used it in any context the settlers could overhear. If Gerald ever learns it, it is a lead: a name implies a history, and a history implies someone who might know where the ship came from and who commissioned it.
-
----
-
-**The Endgame**
-
-The officer's plan on extraction is to take the technology and leave. A frontier settlement of two hundred people making allegations against an unregistered vessel with no transponder is a problem that solves itself slowly. Nobody with authority is rushing to investigate. Killing settlers is not part of the brief — it is a liability to the backers, beneath the officer's professional standard, and unnecessary given how little the settlers actually know.
-
-What the officer actually fears is not witnesses. It is evidence. Physical proof of what the device does, what was found, and who sent them is the real exposure risk. The data pad with the data from the listening device — logging everything passing between the software specialist and the main mining systems — is exactly the kind of thing that would concern the officer if they knew it existed.
-
-Whether the officer has told the mercenaries something different about how the job ends is an open question for play.
-
----
-
-### What Gerald Knows
-
-Nothing of the above. The device is the clue that will start pointing him toward the truth.

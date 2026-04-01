@@ -25,3 +25,9 @@ The software specialist is building an interface between the detection instrumen
 ## Raider Complement
 **Current estimate:** 13–18
 Started at approximately 15–20. Two mercenaries killed at Minka Brinberg's cabin ambush (session 7).
+
+---
+
+## Raider Missiles
+**Current missile count** 2
+Started at 2.

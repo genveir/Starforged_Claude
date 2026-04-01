@@ -2,14 +2,16 @@
 
 This document contains narrator-level planning only. Its contents must never enter play as character knowledge, intent, or action — not even when they fit the current situation cleanly. Content here is not canonical until it appears in GameState.md or the session logs
 
-## The Current Vow
+## Forward Planning
+
+### The Current Vow
 
 **"I swear by the cordon that keeps us safe that I will free Raiman's Folly from these raiders and see its people safe."**
 The vow has two components and both must be satisfied: *freeing the settlement* and *seeing its people safe*. Defeating the raiders but allowing the settlement to starve, or leaving it without leadership or stability, would be a failure of the second half. Keep both in view.
 
 ---
 
-## Milestone Principles
+### Milestone Principles
 
 A milestone requires meaningful headway towards one of the vow's components — a significant obstacle overcome, a crucial insight gained, a notable foe defeated, or a resource or ally that materially changes Gerald's position. Activity alone does not earn progress. Ask: "did this change what is possible?" and "to which component of the vow did this contribute?"
 
@@ -21,11 +23,11 @@ The raider officer is a thinking opponent. Their responses — tightening securi
 
 ---
 
-## Vow Progress — Broad Outline
+### Vow Progress — Broad Outline
 
 The track has 10 boxes. The goal categories below are a guide, not a rigid structure. Events may compress or expand them. Total potential milestones exceeds 10 by design. This list is not exhaustive but should be taken as a firm guideline. The goal categories may have elements that have to resolve in order, but in general there is no requirement that one category resolves before any other.
 
-### Goal Categories
+**Goal Categories**
 
 - **Force building**. Gerald organises willing settlers into something usable — not soldiers, but people who will hold a position when it matters. Maria and Davel are the core of the recruitment effort; the complex is the staging ground. Raider infantry should be degraded where possible, but carefully — attrition that looks deliberate risks forcing the timeline before Gerald is ready. Accidents, equipment failures, and terrain are preferable to open confrontation at this stage. Freeing the software specialist is a secondary objective that may become viable during this phase.
 
@@ -39,7 +41,7 @@ The track has 10 boxes. The goal categories below are a guide, not a rigid struc
 
 ---
 
-## Possible Officer Course of Action
+### Possible Officer Course of Action
 
 The raider's two missiles are the primary constraint preventing the Steady Return from participating. This narrative arc relies on provoking the raider into a tactical decision that creates an exploitable opening.
 
@@ -53,7 +55,7 @@ Key assumptions: Gerald has sufficient organised settlers ready to assault a hea
 
 ---
 
-## Opposition Calculus
+### Opposition Calculus
 
 The raiders are not a unified actor. The officer and the mercenary complement have different interests, different tolerances, and different breaking points. Understanding both is as important as understanding their weapons.
 
@@ -69,7 +71,7 @@ The threshold is not a fixed number. It is the point where the unit stops feelin
 
 ---
 
-## Settlement Leadership — Current Thinking
+### Settlement Leadership — Current Thinking
 
 The "see the people safe" condition requires the settlement to have functional leadership before the vow can be fulfilled. Two roles need filling: a security and infrastructure role analogous to Bormann's, and leadership of the survey arm.
 
@@ -79,7 +81,7 @@ These are preferences, not requirements. If either candidate is lost during the 
 
 ---
 
-## The Scenario Within the Campaign
+### The Scenario Within the Campaign
 
 Raiman's Folly is a scenario, not the campaign. By the end of it Gerald should have a thread pointing outward.
 
@@ -88,3 +90,33 @@ The most natural seed: someone sent these raiders. A rogue settlement in the She
 The precursor angle is also larger than one moon. What the raiders were looking for, what their backers intended to do with it, and what else might be out there are open questions that outlast this scenario.
 
 Watch for moments where Gerald glimpses the larger picture. Don't force them, but don't bury them either. The long-term thread should feel like something Gerald found, not something dropped on him.
+
+## Background Knowledge
+
+### The Raiders' True Purpose
+
+The raiders were not sent here opportunistically. Their backers are a rogue settlement operating out of the Shell — no navy affiliation, no registry, no transponder. Deniable by design.
+
+The survey arm's recent finds excited the Folly's backers because the mineral concentrations and subsurface readings point to genuinely valuable mining prospects. They excited the raiders' backers for a different reason entirely: the same readings, interpreted through a framework the colony's backers do not have, were recognised as consistent with precursor technology in the vicinity. Someone in the rogue settlement that backed this operation knows enough about precursor signatures to read what the colony's surveyors could not. Small, likely inert, but potentially extraordinarily valuable to a small independent faction looking to change its position in the Divide.
+
+The fact that the rogue settlement took any action points to the fact that this settlement somehow got access to the survey data. Whether that's through espionage, accident, treason or any other reason is an open question.
+
+The device the raiders carried in — treated with more care than anything else they brought — is a precursor detection and analysis instrument. It requires mining survey data to triangulate a location. This is why they took the software specialist and connected her to the main mining systems. They are not stealing the survey data. They are using it to find something that isn't on any map yet. The software specialist has been tasked to build an interface between the instrument and the mining systems. As more functions become available, it will become more and more clear from the traffic on the line what the instrument is doing. Minka Brinberg was the raiders' primary interpreter of the survey data. Her death is a significant setback — the software specialist can build the interface but cannot read the survey data with Minka's expertise. The raiders will need to either find another interpreter among the settlement's survey arm or work more slowly with what the software specialist can provide.
+
+The operation is led by a professional military officer, possibly with one or two junior officers. They are running a disciplined, deniable extraction mission. The rank and file are mercenaries — competent enough for occupation duty, but not subject to the officer's professional standards. The risk of an incident does not come from orders. It comes from bored mercenaries with slack supervision.
+
+---
+
+### The raider vessel's name
+
+The ship is called the Carronade. The settlers do not know this — a ship running no transponder and no registry does not advertise its name, and the raiders have not used it in any context the settlers could overhear. If Gerald ever learns it, it is a lead: a name implies a history, and a history implies someone who might know where the ship came from and who commissioned it.
+
+---
+
+### The Endgame
+
+The officer's plan on extraction is to take the technology and leave. A frontier settlement of two hundred people making allegations against an unregistered vessel with no transponder is a problem that solves itself slowly. Nobody with authority is rushing to investigate. Killing settlers is not part of the brief — it is a liability to the backers, beneath the officer's professional standard, and unnecessary given how little the settlers actually know.
+
+What the officer actually fears is not witnesses. It is evidence. Physical proof of what the device does, what was found, and who sent them is the real exposure risk. The data pad with the data from the listening device — logging everything passing between the software specialist and the main mining systems — is exactly the kind of thing that would concern the officer if they knew it existed.
+
+Whether the officer has told the mercenaries something different about how the job ends is an open question for play.

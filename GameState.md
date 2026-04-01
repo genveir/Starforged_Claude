@@ -4,7 +4,7 @@ This document is intended to hold information that is likely to change during th
 
 ## The Raider
 
-**Armament** The raider is fully armed, and still has both missiles available.
+**Armament** The raider is fully armed, see Clocks.md for missile count.
 
 **Complement:** Started at fifteen to twenty personnel, see Clocks.md for current figure.
 
@@ -72,8 +72,6 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 **Carl Inswich** Current status: at the settlement.
 
-**Minka Brinberg** Current status: killed by Sandra Vael.
-
 **The software specialist** Current status: in the jail, tasked with building an interface between the raiders' detection device and the main mining systems under raider supervision.
 
 **Sandra Vael** Current status: stable in Davel's hidden compartment in the mining infrastructure. Shot her close friend and colleague Minka Brinberg during the ambush at her cabin — an impulsive act she has not fully come to terms with, but has begun to process. Her relationship with Gerald is on stable ground following a difficult conversation over comms.
@@ -86,7 +84,7 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 **Maria Reyes** Current status: At the mining complex with Gerald.
 
-**Ferris** Current status : At the mining complex.
+**Ferris** Current status : At the mining complex. Committed to talk to Bran to bring him around as well.
 
 **Bran** Current status: At the mining complex.
 
@@ -143,3 +141,4 @@ Ferris has been recruited.
 - Can the raider's two remaining missiles be neutralised, exhausted, or bypassed?
 - What exactly is buried under the moon's surface, and how close are the raiders to pinpointing its location? Minka's death will slow them down but not stop them — the software specialist is still connected to the mining systems.
 - Gerald has no cover identity in the settlement's admin system — no registered berth, no arrival record. The innkeeper remains the most accessible person who could plausibly register him as a late arrival. This seems less important to resolve since Gerald is essentially committed to acting as a saboteur / commando.
+- Can Ferris convince Bran to turn as well, committing the entire mining complex leadership to supporting Gerald?
