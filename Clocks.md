@@ -23,8 +23,10 @@ The software specialist is building an interface between the detection instrumen
 ---
 
 ## Raider Complement
-**Current estimate:** 13–18
-Started at approximately 15–20. Two mercenaries killed at Minka Brinberg's cabin ambush (session 7).
+**Current estimate:** 11–16
+Started at approximately 15–20. 
+Two mercenaries killed at Minka Brinberg's cabin ambush (session 7). 
+Two mercenaries killed on the service track (session 13).
 
 ---
 

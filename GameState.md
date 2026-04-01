@@ -59,10 +59,10 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ### Armament situation
 
-**Stowed at the relay tower** — Rifle, two sidearms, ballistic plates fitted into suit, signal jammer. The jammer can be remotely activated and kills all comms in the immediate area once activated — including the circle's own — so it cannot be deactivated remotely.
-**Gerald** — None
+**Gerald** — Rifle, Sidearm, ballistic plates fitted into suit, signal jammer. The jammer can be remotely activated and kills all comms in the immediate area once activated — including the circle's own — so it cannot be deactivated remotely.
 **Carl Inswich** — Sidearm
 **Davel Oren** — Sidearm
+**Maria Reyes** - Sidearm
 
 ---
 
@@ -92,13 +92,13 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ## Gerald's Current Position
 
-Gerald is at the mining complex. Maria is with him. He has a buggy full of explosives specially selected to blow the cable junction.
+ Gerald is on the service track, fifty metres from the patrol buggy, junction box twenty minutes ahead
 
 ---
 
 ## Gerald's Condition
 
-Gerald is bruised down his entire left side from the session 8 buggy explosion, and has a foot injury from loading the backup dish.
+Gerald is bruised down his entire left side from a buggy explosion he was near and a gunshot deflected by ballistic plates. Also has a foot injury from loading the backup dish.
 
 ---
 
@@ -140,5 +140,5 @@ Ferris has been recruited.
 - What exactly does the settlement have that could be turned against the raider? Extraction explosives, heavy machinery, and ore-launching infrastructure are all possibilities.
 - Can the raider's two remaining missiles be neutralised, exhausted, or bypassed?
 - What exactly is buried under the moon's surface, and how close are the raiders to pinpointing its location? Minka's death will slow them down but not stop them — the software specialist is still connected to the mining systems.
-- Gerald has no cover identity in the settlement's admin system — no registered berth, no arrival record. The innkeeper remains the most accessible person who could plausibly register him as a late arrival. This seems less important to resolve since Gerald is essentially committed to acting as a saboteur / commando.
 - Can Ferris convince Bran to turn as well, committing the entire mining complex leadership to supporting Gerald?
+- Will someone find the two dead mercenaries on the service track in time for them to interrupt Gerald's mission to blow the junction box?

@@ -33,10 +33,10 @@ In his lawman years he was known across a wide rural territory simply as The Law
 ## Condition Meters
 | Meter | Value | Max |
 |---|---|---|
-| Health | 4 | 5 |
+| Health | 2 | 5 |
 | Spirit | 5 | 5 |
-| Supply | 3 | 5|
-| Momentum | 4 | 10 |
+| Supply | 2 | 5|
+| Momentum | 5 | 10 |
 
 Momentum reset: 2, or 3 in combat
 
@@ -97,7 +97,7 @@ None
 
 ## Legacy Tracks
 - **Quests:** 0
-- **Bonds:** 1 tick
+- **Bonds:** 3 ticks
 - **Discoveries:** 1 box, 1 tick
 
 - **Experience:** 2 gained, 2 available
