@@ -14,7 +14,7 @@ Roughly one hundred years ago, a soil blight appeared in human space. Its origin
 
 The blight spread across planets faster than anyone could respond. By the time the scale of the catastrophe was clear, dozens of worlds were compromised.
 
-There is no cure. There will not be one. The blight is in fact a precursor terraforming organism — engineered by a civilisation so far beyond current human capability that the gap renders human biology effectively irrelevant to the problem. It does not spread because it is virulent in any human sense. It spreads because it was built to spread, efficiently and completely, across a planetary surface. It is doing exactly what it was designed to do. Nobody in the Divide knows this. They know only that it cannot be stopped, that it cannot be cured, and that the only response is to stop carrying it somewhere new.
+There is no cure. The blight is in fact an escaped bioweapon — engineered to be a planet killer in case factions within the Old Worlds would ever go to war with each other. It is humanity's greatest technological achievement, and then when it escaped from the lab it was it's downfall. It spreads because it was built to spread, efficiently and completely, across a planetary surface. It is doing exactly what it was designed to do. Nobody in the Divide knows this. They know only that it cannot be stopped, that it cannot be cured, and that the only response is to stop carrying it somewhere new.
 
 ---
 

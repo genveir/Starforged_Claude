@@ -41,7 +41,7 @@ Perform the following steps in order. Start with step 1.
   - CharacterSheet.md: Update: condition meters (health, spirit, supply, momentum), impacts, vow progress, asset unlocks, legacy track ticks/boxes, experience gained/spent, connection ranks and progress, new connections added or lost.
   - GameState.md: The living picture of the current situation. Update: Gerald's position and condition, anything that changed about the raider, settlement status, circle member locations and states, new facts about the mining complex, open questions resolved or added.
   - StaticSettingInfo.md: Only updated when new background details were established during play: new named NPCs introduced and characterised, new locations visited and described, new facts about existing factions or institutions that became canonical.
-  - Clocks.md: campaign day, settlement supply days remaining, raider complement estimate, raider precursor progress status
+  - Clocks.md: campaign day, settlement supply days remaining, raider complement estimate, raider Old World weapon progress status
   - Put a header down for each file, then a bullet point list with an item for each required change.
   - Try to be exhaustive, it is better to propose too many changes than too little.
   - When the player confirms it, move on to step 5. Do not move on to step 5 without confirmation.

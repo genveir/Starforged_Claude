@@ -13,7 +13,7 @@ Certain entries that are also general enough to belong in the setting background
 
 **[Speculative]** It may be possible to load dangerous cargo onto the raider's ship using deception.
 
-**[Speculative]** The entity able to recognize data as linked to the precursors may not be human. Maybe the rogue settlement is led by an AI?
+**[Speculative]** The entity able to recognize data as linked to old world weaponry may not be human. Maybe the rogue settlement is led by an AI?
 
 ## Orbital Mechanics and Ship Combat
 

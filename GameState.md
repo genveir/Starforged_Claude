@@ -126,7 +126,7 @@ The complex has two raiders assigned to it, not particularly alert. They do not 
 
 The complex leadership — Ferris and Bran — were cooperating with the raiders. Their calculation was pragmatic: they cannot fight, and the raiders have indicated they will leave once they have what they came for. The leadership does not know what the raiders are looking for. They are moving survey equipment and digging holes as directed and asking no further questions. They have been convinced by Gerald that they may have to fight, but are keeping their heads down until he calls them. The orbital threat is too great.
 
-A cable runs from the mining complex to the settlement, carrying data between the device the raiders brought and the mining systems. This cable is the operational link enabling the precursor detection operation. Disrupting it would temporarily halt the raiders' progress without a shot being fired. It would also invite a response from the raiders.
+A cable runs from the mining complex to the settlement, carrying data between the device the raiders brought and the mining systems. This cable is the operational link enabling the old world weapon detection operation. Disrupting it would temporarily halt the raiders' progress without a shot being fired. It would also invite a response from the raiders.
 
 Hidden weapons cache — when the raiders arrived and began talking about confiscating personal weapons, the miners hid their firearms in the mine shafts rather than surrendering them. The two assigned raiders have never gone looking. The cache is substantial enough to arm a serious resistance.
 

@@ -26,7 +26,7 @@ Everyone not in a navy is considered civilian. Navies are powerful politically a
 
 ## The Blight
 
-Spreads on physical contact. Renders soil unable to sustain agriculture within hours of exposure. No cure, no meaningful slowdown. Nobody in the Divide knows the blight is an accident with precursor tech. They know it cannot be stopped and the only response is containment.
+Spreads on physical contact. Renders soil unable to sustain agriculture within hours of exposure. No cure, no meaningful slowdown. Nobody in the Divide knows the blight is an escaped bioweapon. They know it cannot be stopped and the only response is containment.
 
 ---
 

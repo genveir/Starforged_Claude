@@ -108,20 +108,6 @@ Trade in physical goods flows along the same routes. Food and agricultural produ
 
 ---
 
-## The Precursors
-
-Something was in the Divide before humanity arrived. The evidence is sparse — a megastructure here, a drifting vessel there, separated by vast stretches of empty space — but what exists is unmistakable. Non-human. Constructed with purpose and capability that exceeds anything humanity has produced or can currently produce.
-
-Most precursor sites are inert and inscrutable. Some are not entirely dead. Automated systems still cycling through processes no one understands. Structures that register the presence of human beings and respond in ways that don't feel random. Signals on frequencies nothing human should be broadcasting. Whatever built these things is gone — but gone is not the same as finished.
-
-Precursor sites are rare enough that most people live their whole lives without encountering one. Rare enough that finding one is a significant event. Rare enough that the navy factions controlling known sites guard them aggressively and share almost nothing about what they contain.
-
-The operative framework for understanding precursor technology is that sufficiently advanced technology is indistinguishable from magic — but it is still technology. People who return from precursor sites shaken and changed were shaken and changed by something real and physical, even if they cannot explain what it was. There are no monsters. There is no supernatural. There is only the humbling evidence of a civilisation so far beyond current human capability that the gap feels infinite.
-
-What the precursors were, where they went, and what their still-functioning systems are actually doing are among the most consequential open questions in the Divide. Academic institutions, navy black programs, and informal networks of obsessives are all reaching different conclusions. None of them have enough data.
-
----
-
 ## Tone and Themes
 
 The Divide is not a hopeful place in any easy sense. Life is hard, margins are thin, power is concentrated in institutions that did not earn their position through democratic legitimacy, and the founding trauma of the cataclysm casts a long shadow over everything humanity has tried to build since.
