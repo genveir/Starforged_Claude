@@ -48,7 +48,7 @@ The Steady Return carries approximately ten people. Most signed on to deliver me
 
 **Gerald Finch** — master at arms. 43 years old. Former planetary navy, former frontier lawman. Responsible for security, weapons, and order among crew and passengers. Has sworn a cordon vow to free Raiman's Folly from its raiders and see its people safe.
 
-**Unnamed** — Helmsman. Responsible for navigation and ship handling. Has run the spoke routes long enough to know their quirks.
+**Paul Ortoff** — Helmsman. Responsible for navigation and ship handling. Mid twenties, bit of a cowboy pilot willing to go off-script.
 
 **Unnamed** — Engineer. Keeps the drives and systems running. Knows the Steady Return better than anyone except possibly Graff.
 

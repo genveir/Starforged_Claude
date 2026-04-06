@@ -8,7 +8,7 @@
 
 **The three tiers:**
 
-**Long term summary** — A single rewritten entry covering all sessions that have aged out of the compressed tier. Maximum four sentences. Carry only: emotional facts about Gerald, relational weight of key NPCs, and causal origins of the vow not captured in persistent files. Do not carry tactical history, mechanical state, or scene detail.
+**Long term summary** — A single rewritten entry covering all sessions that have aged out of the compressed tier. Short declarative sentences, as few as needed. Every sentence must earn its place against one of three criteria: emotional facts about Gerald, relational weight of key NPCs, or causal origins of the current situation not captured in persistent files. Do not carry tactical history, mechanical state, scene detail, or operational decisions — if it belongs in a persistent file, it does not belong here.
 
 **Compressed entries** — Short summaries of sessions not yet folded into the long term summary. Four to six short declarative sentences per entry. Carry only: who moved, what changed, what was decided, what was left open. Do not reproduce detail already in the persistent files.
 
@@ -38,13 +38,7 @@ Output only this. Stop. Do not continue to Step 1 until the user explicitly appr
 
 ---
 
-**Step 1 — Rewrite the long term summary.**
-
-Fold the oldest compressed entry into the long term summary. Rewrite the summary whole.
-
-If you made any non-obvious decisions about what to carry forward or discard, note them clearly. Errors here propagate into every future summary — user review exists to catch them before they compound.
-
-Output only the new long term summary. Stop. Do not continue to Step 2 until the user explicitly approves.
+**Long term summary** — A single rewritten entry covering all sessions that have aged out of the compressed tier. Short declarative sentences, as few as needed. Every sentence must earn its place against one of three criteria: emotional facts about Gerald, relational weight of key NPCs, or causal origins of the current situation not captured in persistent files. Do not carry tactical history, mechanical state, scene detail, or operational decisions — if it belongs in a persistent file, it does not belong here.
 
 ---
 

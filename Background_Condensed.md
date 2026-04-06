@@ -1,6 +1,6 @@
 # Background Reference
 
-This is a reference version of the setting background. The player knows everything about the full setting.
+This document is a condensed reference. If you need detail not covered here, use the backgroundServer:search tool with a short semantic query (e.g. "cordon vow history", "raider vessel weapons"). Load the tool via tool_search first if not yet available. Prefer searching over assuming.
 
 ## Cordon Vow
 

@@ -39,6 +39,8 @@ The raider vessel is similar in overall size to the Steady Return but configured
 
 **Armament:** The raider carries laser cannons and kinetic weapons as standard fit, and can carry guided missiles. On arrival it used heavy kinetic bombardment to destroy the settlement's point defence installations.
 
+**Shuttle** The raiders have a shuttle, unlike the Steady Return's shuttle, this one is armed with a kinetic turret. It is slower than the Steady Return's shuttle.
+
 ---
 
 ## The Settlement's Defensive Situation

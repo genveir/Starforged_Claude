@@ -35,8 +35,8 @@ In his lawman years he was known across a wide rural territory simply as The Law
 |---|---|---|
 | Health | 2 | 5 |
 | Spirit | 5 | 5 |
-| Supply | 2 | 5|
-| Momentum | 5 | 10 |
+| Supply | 4 | 5|
+| Momentum | 9 | 10 |
 
 Momentum reset: 2, or 3 in combat
 

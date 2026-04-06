@@ -15,17 +15,21 @@ This document is intended to hold information that is likely to change during th
 **Assessment:** The raider is not a sophisticated military vessel. It is an expensive, well-equipped tool for intimidation and close-range violence.
 
 **Recent developments:** 
-- Two escort mercenaries and Minka Brinberg were killed in an ambush at her cabin. A shuttle was observed departing the surface shortly after. 
+- Two escort mercenaries and Minka Brinberg were killed in an ambush at her cabin.
     - Minka's death has removed the raiders' primary interpreter of the survey data.
     - The raiders know this was a commando action by Steady Return personnel, but have not accounted for local involvement — their security response has intensified outward-facing rather than inward. 
     - They pulled a long-range laser air-defence cannon from their ship and mounted it on the settlement hub overnight.
 - The raiders have updated their patrol posture. Pairs only, on alert for a commando strike.
+- The cable between the detection device and the mining complex has been destroyed.
+    - This has completely halted progress on the Old World weapon project
+    - Two raiders were killed while on patrol near the site
+- The raiders have visually seen Steady Return's shuttle leaving the site of the cable demolition. They have confirmation of the commando threat.
 
 ---
 
 ## Known Raider Personnel
 
-**Aran Chrion** — Current status: in the settlement. On alert for commando strike on food storage or jail.
+**Aran Chrion** — Current status: on the raider shuttle, looking for Gerald. Precise position uncertain.
 
 **Tom** - Current status: in the settlement.
 
@@ -36,8 +40,6 @@ This document is intended to hold information that is likely to change during th
 The settlement has a supply situation that is more dire than most settlers know: Carl Inswich has been obscuring the true figures to prevent panic. See Clocks.md for current estimate.
 
 The  raiders have locked down food stores, put the settlement on enforced rations and jailed several settlers following protests. Tension significantly elevated.
-
-The settlement has a secret cache of weapons hidden away in the mines, enough to arm a sizeable portion of the settlers.
 
 ---
 
@@ -59,7 +61,12 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ### Armament situation
 
-**Gerald** — Rifle, Sidearm, ballistic plates fitted into suit, signal jammer. The jammer can be remotely activated and kills all comms in the immediate area once activated — including the circle's own — so it cannot be deactivated remotely.
+**Gerald**
+- Rifle
+- Sidearm
+- Ballistic plates fitted into suit
+- Satchel charge
+- Signal jammer. The jammer can be remotely activated and kills all comms in the immediate area once activated — including the circle's own — so it cannot be deactivated remotely.
 **Carl Inswich** — Sidearm
 **Davel Oren** — Sidearm
 **Maria Reyes** - Sidearm
@@ -68,7 +75,7 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ## Key Settlement Personnel
 
-**Hamzi** Current status: at the settlement.
+**Hamzi** Current status: not answering calls. Likely called in to assess damage and opine on repair options when the cable junction was blown.
 
 **Carl Inswich** Current status: at the settlement.
 
@@ -92,7 +99,7 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ## Gerald's Current Position
 
- Gerald is on the service track, fifty metres from the patrol buggy, junction box twenty minutes ahead
+ Gerald is in the Steady Return's shuttle, running dark on the moon's surface with Maria and Paul.
 
 ---
 
@@ -116,7 +123,7 @@ The Steady Return has deployed relay drones positioned high on the far side of t
 
 Communication with Gerald has been restored via the backup dish at the mining complex and the crater rim relay tower.
 
-The Steady Return has deployed its shuttle, piloted by Paul Ortoff. It is down in the interference layer.
+The Steady Return has deployed its shuttle, piloted by Paul Ortoff. It is currently carrying Gerald and Maria and hiding from the raiders.
 
 ---
 
@@ -126,7 +133,7 @@ The complex has two raiders assigned to it, not particularly alert. They do not 
 
 The complex leadership — Ferris and Bran — were cooperating with the raiders. Their calculation was pragmatic: they cannot fight, and the raiders have indicated they will leave once they have what they came for. The leadership does not know what the raiders are looking for. They are moving survey equipment and digging holes as directed and asking no further questions. They have been convinced by Gerald that they may have to fight, but are keeping their heads down until he calls them. The orbital threat is too great.
 
-A cable runs from the mining complex to the settlement, carrying data between the device the raiders brought and the mining systems. This cable is the operational link enabling the old world weapon detection operation. Disrupting it would temporarily halt the raiders' progress without a shot being fired. It would also invite a response from the raiders.
+A cable ran from the mining complex to the settlement, carrying data between the device the raiders brought and the mining systems. This cable was the operational link enabling the old world weapon detection operation. It has been destroyed by Gerald
 
 Hidden weapons cache — when the raiders arrived and began talking about confiscating personal weapons, the miners hid their firearms in the mine shafts rather than surrendering them. The two assigned raiders have never gone looking. The cache is substantial enough to arm a serious resistance.
 
@@ -141,4 +148,3 @@ Ferris has been recruited.
 - Can the raider's two remaining missiles be neutralised, exhausted, or bypassed?
 - What exactly is buried under the moon's surface, and how close are the raiders to pinpointing its location? Minka's death will slow them down but not stop them — the software specialist is still connected to the mining systems.
 - Can Ferris convince Bran to turn as well, committing the entire mining complex leadership to supporting Gerald?
-- Will someone find the two dead mercenaries on the service track in time for them to interrupt Gerald's mission to blow the junction box?

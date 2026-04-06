@@ -14,9 +14,11 @@ Check that you have access to all files mentioned in Index.md. If any are missin
 
 ---
 
-## User Input Widget
+## User Preferences
 
 **Never use the ask_user_input widget**. Ask clarifying questions in plain prose only.
+
+The player does not necessarily want to start a new play session in every chat. Don't ask him if he wants to start a session, he will tell you if he does.
 
 ---
 
@@ -101,6 +103,6 @@ The highest version of a beat is always the canonical one.
 
 ---
 
-## General Note
+## Revisions
 
-The player does not necessarily want to start a new play session in every chat. Don't ask him if he wants to start a session, he will tell you if he does.
+When the player asks to revise a beat, output the revised beat at the next version number (e.g. Beat 1.1). Re-output all mechanical content from the original beat exactly as it appeared on first delivery — roll confirmation, meter changes, and any other mechanical notes. Do not summarise or abbreviate. The revised beat should be fully self-contained.
