@@ -13,6 +13,7 @@ These are locations that have been mentioned in narrative, it is not an exhausti
   - Minka Brinberg's cabin
 - Mining infrastructure *(maintenance passages and equipment bays)*
   - Davel's hidden compartment
+  - The ore processing plant
 
 **The Mining Complex** *(~day's walk from settlement)*
 - The switchback track *(Runs up the crater rim, up to relay tower)*

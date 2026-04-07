@@ -2,52 +2,52 @@
 
 **Opening Vignette**
 
-Paul Ortoff was supposed to be sitting dark in the interference layer. Instead he was flying nap-of-the-moon at full throttle, a few metres off the surface, hands steady and jaw tight — something had changed, and he had decided to change with it. *(Begin a Session: vignette spotlights a danger. +1 momentum, 5 → 6.)*
+Paul Ortoff is flying the shuttle a few metres off the surface of the Folly at full throttle, threading crater rims and ridge lines on feel alone, proximity alerts long since silenced. His hands are steady. His jaw is tight. Whatever changed between sitting dark in the interference layer and this, it was not the plan. *(Begin a Session: vignette spotlights a danger. +1 momentum, 5 → 6.)*
 
 ---
 
-**Beat 1.0**
+**Beat 1 — The Axle**
 
-Gerald and Maria loaded into their buggy and pushed hard up the service track toward the junction box, knowing the patrol would be missed soon. Gerald took it too fast and the front wheel found a drop in the shadow — the axle gave, the buggy slewed into the regolith, and they stopped ten minutes short of the objective with too much cargo to carry. *(Face Danger +edge: miss. Buggy inoperable.)*
-
----
-
-**Beat 2.1**
-
-Gerald got Graff on the line and gave him the situation: patrol dealt with, buggy wrecked, ten minutes out, too much cargo to move on foot. Graff called it — abort, take what you can carry. Paul cut in over the channel, calm and unhurried, and offered to pick them up. He was three minutes out. *(No roll.)*
+Gerald pushed the buggy hard up the service track, Maria braced beside him, too much speed on a route that doesn't forgive it. A shadow on the track turned out to be a drop — not much, but at that speed with that load it was enough. The front axle gave with a sound like a gunshot and the vehicle slewed into the regolith and stopped. The junction box was still ten minutes up the track. *(Face Danger +edge: miss. Pay the Price — buggy inoperable, cargo stranded.)*
 
 ---
 
-**Beat 3.0**
+**Beat 2 — Paul**
 
-Paul put the shuttle down fast, hatch dropping before the vehicle had fully stopped. Gerald and Maria unloaded the cargo from the wrecked buggy and transferred it to the shuttle's hold at speed, Paul staying at the controls throughout. *(No roll.)*
+Gerald got Graff on the line and gave him the short version: patrol neutralised, buggy dead, too much cargo to carry on foot. Graff was already telling him to abort when a younger voice cut across the channel — easy, unhurried, with a drive whine in the background that said he was three minutes out. Paul had gone off script. He offered to pick them up and asked if Gerald wanted to really sell the commando story. Graff said nothing. Maria's expression hadn't decided whether to be relieved or alarmed. *(No roll — Paul's arrival handled narratively.)*
+
+---
+
+**Beat 3 — Loading**
+
+Gerald read Paul the coordinates and the tactical picture, then climbed out of the wrecked buggy before he finished the sentence. The shuttle came in low, hatch dropping, Paul staying at the controls. Gerald and Maria worked without talking — crate by crate, hand to hand, into the hold. Gerald's left side complained with every lift. Three minutes and the hold was loaded. *(No roll.)*
 
 ---
 
 **Interlude 3.0:4.0**
 
-The comms post at the settlement reported patrol beta out of contact. Aran worked through it — broken terrain, bad handsets, probably nothing — but called the officer anyway. The response was immediate: they're going after the cable, take three men and get in the shuttle now. Aran was moving before the channel closed.
+At the settlement comms post, a mercenary called in twice to patrol beta and got nothing back. Aran worked through the possibilities — dead handset, a low patch, the metallicity playing hell with comms on the service track — and decided it wasn't worth the risk. He put it to the officer. The reply came back without hesitation: they're going after the cable, take three men and get in the shuttle. Aran was already moving before the channel closed.
 
 ---
 
-**Beat 4.0**
+**Beat 4 — The Satchel**
 
-Paul put them down at the junction box fast and hard. Gerald and Maria set the charges as a team — Maria leading on the technical work, Gerald supporting — and found they had more explosive than they needed. They assembled the surplus into a satchel charge before re-boarding. Paul called incoming while they were still moving. *(Secure an Advantage +heart, Maria bond +2: strong hit with match. +2 momentum, 6 → 8. +1 on next non-progress move. Satchel charge assembled as positive twist.)*
-
----
-
-**Beat 5.0**
-
-Paul lifted the moment they were aboard and pushed straight-line for distance. Aran's shuttle was already inbound and closing, not quite at a gun solution, when Maria triggered the detonator. The blast took out the junction box and caught Aran's shuttle in the debris field, forcing it wide. By the time it recovered, the gap was open and staying open — the Steady Return's shuttle was faster and lighter and Aran never had a real chance. *(Face Danger +edge: weak hit. -1 momentum, 8 → 7. Aran gets eyes on them departing but cannot catch them.)*
+Paul flew like the distance was personal. At the junction box Gerald fell into a working rhythm with Maria — handing her what she needed before she asked, watching the angles while she worked. When they stepped back there was more explosive left over than either of them expected. He pulled a satchel from the buggy kit and sixty seconds later they had something that wasn't on any manifest. Then Paul's voice changed register: incoming craft, moving now. *(Secure an Advantage +heart with Maria bond +2: strong hit with a match. +2 momentum, 6 → 8. +1 on next move. Positive twist: the satchel charge.)*
 
 ---
 
-**Beat 6.0**
+**Beat 5 — The Detonation**
 
-With the immediate threat behind them, Paul held a low transit heading while Gerald and Maria used the shuttle's supplies to replenish air, water, and rations. *(Resupply +ship supply: strong hit. Supply 2 → 4.)*
+They got the hatch sealed and Paul had the shuttle moving before it locked. Maria started the timer without being asked — thirty seconds, flat voice, professional. The rear feed showed Aran's shuttle closing on a gun angle that wasn't quite there yet. Then the feed whited out. The shockwave hit like a shove from behind. When the feed cleared the junction box was a crater and Aran's shuttle was veering wide through the debris. The gap only went one direction from there. *(Face Danger +edge: weak hit. -1 momentum, 8 → 7. They clear the area but Aran gets eyes on the shuttle departing.)*
 
 ---
 
-**Beat 7.0**
+**Beat 6 — Resupply**
 
-Gerald reported to Graff first, then raised the circle. Davel, Carl, and Sandra all answered. Hamzi did not. Gerald gave them the short version — cable gone, airborne, going dark — and told them to watch for Aran's shuttle returning and report when it did. The circle acknowledged. Nobody drew conclusions about Hamzi out loud, but the most likely read was that the raiders had pulled him in to assess the damage to the comms infrastructure. *(No roll. Develop Your Relationship, Maria bonded, troublesome +1: weak hit. +2 momentum, 7 → 9.)*
+Paul ran them low through the interference layer on a heading that kept them off any direct line between the settlement and the Steady Return. Maria found the supply locker without being told and topped off rations, water, suit air. Nothing ceremonial. Gerald ate. His side ached. His foot ached. He thought about what came next. *(Resupply +supply: strong hit. Supply 2 → 4.)*
+
+---
+
+**Beat 7 — The Circle**
+
+Gerald got Graff on the line first — cable gone, airborne, Aran's people had eyes on them but didn't catch them. Graff said he'd keep the Steady Return dark until they knew how the raiders responded. The circle call went out next: Davel answered immediately, Carl a few seconds behind, Sandra's voice steady from Davel's hidden compartment. Gerald told them to watch for Aran's shuttle returning and report when it did. Three acknowledgements came back clean. Hamzi didn't answer. Gerald held the line open a few extra seconds, then closed it. *(No roll.)*

@@ -38,7 +38,13 @@ Output only this. Stop. Do not continue to Step 1 until the user explicitly appr
 
 ---
 
-**Long term summary** — A single rewritten entry covering all sessions that have aged out of the compressed tier. Short declarative sentences, as few as needed. Every sentence must earn its place against one of three criteria: emotional facts about Gerald, relational weight of key NPCs, or causal origins of the current situation not captured in persistent files. Do not carry tactical history, mechanical state, scene detail, or operational decisions — if it belongs in a persistent file, it does not belong here.
+**Step 1 — Rewrite the long term summary.**
+
+Read the current long term summary and the oldest compressed summary. Summarize the combination of the two. You should use short declarative sentences, as few as needed. Every sentence must earn its place against one of three criteria: emotional facts about Gerald, relational weight of key NPCs, or causal origins of the current situation not captured in persistent files. Do not carry tactical history, mechanical state, scene detail, or operational decisions — if it belongs in a persistent file, it does not belong here.
+
+If you made any non-obvious decisions about what to carry forward or discard, note them clearly. Errors here propagate into every future summary — user review exists to catch them before they compound.
+
+Output only the new long term summary. Stop. Do not continue to Step 2 until the user explicitly approves.
 
 ---
 

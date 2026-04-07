@@ -5,13 +5,13 @@ Tracked values that change incrementally between sessions. Updated at end of ses
 ---
 
 ## Campaign Day
-**Current day:** 5
+**Current day:** 6
 Day 1 = the day Gerald arrived at Raiman's Folly.
 
 ---
 
 ## Settlement Supply Clock
-**Days remaining:** ~21
+**Days remaining:** ~20
 At 21 on day 5, updated after the raiders put the settlement on rations.
 
 ---
@@ -23,10 +23,11 @@ The software specialist was building an interface between the detection instrume
 ---
 
 ## Raider Complement
-**Current estimate:** 11–16
+**Current total:** 14
 Started at approximately 15–20. 
 Two mercenaries killed at Minka Brinberg's cabin ambush (session 7). 
 Two mercenaries killed on the service track (session 13).
+Exact number left confirmed at 14 in a vignette. (session 15).
 
 ---
 

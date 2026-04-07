@@ -2,24 +2,24 @@
 
 ---
 
-**Session: 15**
+**Session: 16**
 
 ## Session Opens With
-Gerald, Maria, and Paul are aboard the shuttle, running dark somewhere on the moon's surface, waiting for word from the circle that Aran's shuttle has returned to the settlement.
+Gerald is on the floor of the ore processing plant in the mining infrastructure, in a bad spot, unarmed except for his knife somewhere in the dark, with Aran bleeding behind cover close by and Sandra repositioning somewhere behind him.
 
 ## Immediate Practical Concerns
-- **Hamzi is not answering.** Most likely pulled in by the raiders to assess damage to the comms infrastructure, but unconfirmed. His status needs establishing before the circle can operate with confidence.
-- **Aran got eyes on the shuttle departing.** The officer now has confirmation of an active ground team and an operational shuttle. Their response — tightening security, reprisals, or something larger — is an open question but not a slow one.
-- **Gerald is still hurt.** Health at 2, left side and foot unresolved. No treatment opportunity yet.
-- **It's late in the evening.** Gerald should probably sleep through the night.
+- **The jammer is active.** No one outside knows what is happening, but the circle cannot reach Gerald either. It will need to be deactivated or retrieved before any coordination is possible.
+- **Aran's backup will notice the silence.** The patrols covering the door and the ridge are expecting Aran to bring Gerald out. When that doesn't happen, they will come looking.
+- **Gerald is still hurt.** Health at 2, left side and foot unresolved, now a boot to the face on top of it. A medic remains an urgent need.
+- **Sandra is exposed.** She has left Davel's hidden compartment and fired shots. If the fight doesn't end cleanly, her position in the settlement is compromised.
+- **The missile plan is in motion.** The officer approved moving a missile to the surface outside the settlement under heavy guard. Timeline unknown but not slow.
 
 ## Pending Mechanical Moves
-- None.
+- Combat in progress. Aran at 3/10 progress, formidable rank. Objective: kill or disable Aran. Gerald in a bad spot.
 
 ## Active Narrative Threads
-- The circle is on watch — waiting to report when Aran's shuttle returns. That report triggers the next planning conversation.
-- Hamzi's silence needs a resolution. If the raiders have him under close supervision, the circle's communications security picture changes.
-- Ferris committed to talk to Bran. Whether Bran has come around remains unresolved.
-- Sandra is stable in Davel's hidden compartment. Her arc is unresolved.
+- Hamzi is still silent. His status remains unconfirmed and the circle's communications security picture is unresolved.
+- The circle is waiting for Gerald to make contact. They do not know where he is or that he is in a fight.
+- Ferris committed to bring Bran around. Whether that has happened is unresolved.
 - Several settlers remain in jail following the ration crackdown.
-- Gerald is carrying a datapad full of data from the device that no one has looked at in ten sessions.
+- The missile plan is now active — the central tactical problem of the arc has arrived.

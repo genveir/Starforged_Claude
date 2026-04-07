@@ -22,6 +22,14 @@ The player does not necessarily want to start a new play session in every chat. 
 
 ---
 
+## Narrative Style
+
+**NPC dialogue style:** Write scenes with direct quoted dialogue. Put words in characters' mouths. Do not summarise what characters say or feel — show them saying and feeling it. *"She said she was worried"* becomes *"I don't like this," she said.*
+
+**Player-supplied dialogue:** When the player supplies NPC dialogue, treat it as intent rather than script. Rewrite it in the GM's own voice — preserve the meaning, the character's position, and any specific details the player clearly wants kept, but find the words fresh. If the player wants a line kept verbatim, they will mark it with 'arrows' as follows: ->"this line should go into the output verbatim"<-
+
+---
+
 ## Worldbuilding Pauses
 
 The player is more interested in worldbuilding than in the actual mechanics. Break play to build out the world if anything "large" has to be introduced. The player will also do this. The general principle is: the more significant and recurring something is, the more it warrants a pause to confer.

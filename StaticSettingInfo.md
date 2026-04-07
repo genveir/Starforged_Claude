@@ -57,9 +57,9 @@ The settlement is not defenceless in absolute terms. A high-metallicity mining o
 
 **Aran Chrion** — merc sergeant. Broad, unhurried, with the deliberate quality of someone who uses cruelty and discomfort as a tool. Has authority over the rank and file mercenaries and appears to enjoy exercising it. 
 
-**Tom** (last name unknonw) - lieutenant. In charge of operations on the ground. Installed the tap on the main comms dish.
+**Tom** (last name unknown) - lieutenant. In charge of operations on the ground. Installed the tap on the main comms dish.
 
-**The Shipboard Lieutenant** - lieutenant, female, in charge of sensor operations on the Carronade.
+**Tirza** (last name unknown) - lieutenant, female, in charge of sensor operations on the Carronade.
 
 ---
 
