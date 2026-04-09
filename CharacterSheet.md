@@ -33,19 +33,23 @@ In his lawman years he was known across a wide rural territory simply as The Law
 ## Condition Meters
 | Meter | Value | Max |
 |---|---|---|
-| Health | 2 | 5 |
-| Spirit | 5 | 5 |
+| Health | 0 | 5 |
+| Spirit | 2 | 5 |
 | Supply | 4 | 5|
-| Momentum | 9 | 10 |
+| Momentum | 4 | 10 |
 
 Momentum reset: 2, or 3 in combat
+
+### Impacts
+
+Wounded
 
 ---
 
 ## Vow
 **"I swear by the cordon that keeps us safe that I will free Raiman's Folly from these raiders and see its people safe."**
 Rank: Formidable
-Progress: 5/10
+Progress: 6/10
 
 ---
 
@@ -63,6 +67,8 @@ Progress: 5/10
 
 Note: A starship may be battered or cursed
 
+**Impacts**: None
+
 ---
 
 ### VETERAN (Path)
@@ -74,6 +80,8 @@ Note: A starship may be battered or cursed
 - On a miss with a match, you once fought against them, and they hold a grudge.
 
 **Ability 3 (locked):** When you Secure an Advantage or Gain Ground by recounting or recalling a hard-won lesson from your battlefield experiences, envision the memory and add +1. On a hit, take +1 momentum.
+
+**Notes** The Veteran momentum reset bonus stacks with the base reset, bringing Gerald's momentum reset from 2 to **3** when in a fight.
 
 ---
 
@@ -88,10 +96,7 @@ Note: A starship may be battered or cursed
 
 Note: A shuttle may be battered
 
----
-
-## Impacts
-None
+**Impacts**: None
 
 ---
 
@@ -118,7 +123,7 @@ A familiar face from two years of stops on the route. Quiet, practical, not a ma
 **Carl Inswich** — *resupply manager, Raiman's Folly*. Rank: troublesome. Progress: 0/10.
 Known through two years of cargo runs and manifests. Steady under pressure, not a man who dramatises. Knows the settlement's supply situation to the day.
 
-**Sandra Vael** — *survey team lead, Raiman's Folly*. Rank: dangerous. Progress: 4/10.
+**Sandra Vael** — *survey team lead, Raiman's Folly*. Rank: dangerous. Progress: 6/10.
 Quiet, comes off slow, is not slow. Whip smart, iron core. Knows the survey data better than anyone at the settlement.
 
 **Hamzi** — *communications officer, Raiman's Folly*. Rank: troublesome. Progress: 6/10.
@@ -132,6 +137,3 @@ Mid-twenties, from Spinfeld, Sonnet — one of the villages under Gerald's juris
 ## Expeditions
 
 none active
-
-## Notes on the Veteran Asset
-The Veteran momentum reset bonus stacks with the base reset, bringing Gerald's momentum reset from 2 to **3** when in a fight.

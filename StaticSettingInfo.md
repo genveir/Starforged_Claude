@@ -55,8 +55,6 @@ The settlement is not defenceless in absolute terms. A high-metallicity mining o
 
 ## Known Raider Personnel
 
-**Aran Chrion** — merc sergeant. Broad, unhurried, with the deliberate quality of someone who uses cruelty and discomfort as a tool. Has authority over the rank and file mercenaries and appears to enjoy exercising it. 
-
 **Tom** (last name unknown) - lieutenant. In charge of operations on the ground. Installed the tap on the main comms dish.
 
 **Tirza** (last name unknown) - lieutenant, female, in charge of sensor operations on the Carronade.
@@ -74,6 +72,8 @@ The circle is the core of Gerald's resistance operation — the people inside th
 **Jason Bormann** — former marshal and head of the settlement's space defence array. The settlement's primary security authority and one half of its governing council alongside the lead surveyor. A former military man, respected by the settlers, responsible for the point defence installations and organised resistance capability.
 
 **Minka Brinberg** — lead surveyor and co-chair of the settlement council alongside Bormann. A willing collaborator with the raiders from early in the occupation — when she understood what they were looking for, she bought in completely, driven by scientific zeal at the prospect of what was buried under the moon. She did not fully reckon with what her cooperation cost the people she was responsible for. Killed by Sandra Vael during the ambush at her cabin — an impulsive act by a close friend and colleague shocked by discovering her betrayal.
+
+**Aran Chrion** — merc sergeant. Broad, unhurried, with the deliberate quality of someone who uses cruelty and discomfort as a tool. Had authority over the rank and file mercenaries and appeared to enjoy exercising it. Killed by Gerald and Sandra when a trap he'd set for Gerald backfired.
 
 ---
 

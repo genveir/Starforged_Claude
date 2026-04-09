@@ -23,14 +23,16 @@ The software specialist was building an interface between the detection instrume
 ---
 
 ## Raider Complement
-**Current total:** 14
+**Current total:** 13
 Started at approximately 15–20. 
 Two mercenaries killed at Minka Brinberg's cabin ambush (session 7). 
 Two mercenaries killed on the service track (session 13).
 Exact number left confirmed at 14 in a vignette. (session 15).
+Aran Chrion killed in the ore processor (session 16).
 
 ---
 
 ## Raider Missiles
 **Current missile count** 2
 Started at 2.
+1 remains on the Carronade, the other one is on the ground as part of the officer's escalation.

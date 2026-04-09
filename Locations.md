@@ -12,7 +12,7 @@ These are locations that have been mentioned in narrative, it is not an exhausti
 - Eastern residential cluster
   - Minka Brinberg's cabin
 - Mining infrastructure *(maintenance passages and equipment bays)*
-  - Davel's hidden compartment
+  - Hidden compartment
   - The ore processing plant
 
 **The Mining Complex** *(~day's walk from settlement)*

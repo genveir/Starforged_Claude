@@ -2,7 +2,7 @@
 
 **Opening Vignette**
 
-On the bridge of the raider vessel, the three officers assessed their situation. Tirza laid out the tactical picture bluntly — their intelligence was degrading, the Steady Return's shuttle was too stealthy to track, and the commandos were outclassing the mercenary complement. They determined that it is likely a black ops cordon navy team that has somehow learned about their operation. Tom pushed for executing hostages to send a message; Tirza shut it down on practical grounds, noting that fourteen soldiers couldn't hold the hub against settlers who hadn't actually surrendered their weapons. The discussion resolved on Tom's plan: move a missile to the surface outside the settlement under heavy guard, use it to lure the Steady Return into a kill zone. The officer approved it. *(Begin a Session: vignette spotlights a danger. +1 momentum, 9 → 10.)*
+On the bridge of the raider vessel, the three officers assessed their situation. Tirza laid out the tactical picture bluntly — their intelligence was degrading, the Steady Return's shuttle was too stealthy to track, and the commandos were outclassing the mercenary complement. They determined that it is likely a black ops cordon navy team that has somehow learned about their operation. Tom pushed for executing hostages to send a message; Tirza shut it down on practical grounds, noting that fourteen soldiers couldn't hold the hub against settlers who hadn't actually surrendered their weapons. The discussion resolved on Tom's plan: move a missile to the surface outside the settlement under heavy guard, use it to chase the Steady Return into a kill zone. The officer approved it. *(Begin a Session: vignette spotlights a danger. +1 momentum, 9 → 10.)*
 
 ---
 

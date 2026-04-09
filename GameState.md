@@ -8,7 +8,7 @@ This document is intended to hold information that is likely to change during th
 
 **Complement** Started at fifteen to twenty personnel, see Clocks.md for current figure.
 
-**Shuttle** The raider's shuttle is on the pad in the settlement. 
+**Shuttle** The raider's shuttle is on the pad in the settlement. The "surface missile" from the missile plan is currently in its hold.
 
 **Tactical position:** 
 - The raider is in low orbit over the settlement. It is strategically bound to this position — its leverage over the Steady Return is entirely the people on the ground. If it moves to chase the Steady Return it abandons that leverage, and the Steady Return is faster and more FTL-capable.
@@ -27,12 +27,12 @@ This document is intended to hold information that is likely to change during th
     - Two raiders were killed while on patrol near the site
 - The raiders have visually seen Steady Return's shuttle leaving the site of the cable demolition. They have confirmation of the commando threat.
 - The raider's have started the missile plan as outlined in the narrator notes.
+    - Aran has confirmed one missile is sitting in the cargo hold of the shuttle.
+    - The Carronade still carries the other missile.
 
 ---
 
 ## Known Raider Personnel
-
-**Aran Chrion** — Current status: In the ore processing plant, fighting Gerald, knife wound in shoulder.
 
 **Tom** - Current status: in the settlement.
 
@@ -67,7 +67,6 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 ### Armament situation
 
 **Gerald**
-- Rifle
 - Ballistic plates fitted into suit
 - Satchel charge
 **Carl Inswich** — Sidearm
@@ -77,6 +76,8 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 - Signal jammer. The jammer can be remotely activated and kills all comms in the immediate area once activated — including the circle's own — so it cannot be deactivated remotely.
     - Currently active in the ore processing plant
+- Rifle
+    - On the floor in the mainteance corridor
 ---
 
 ## Key Settlement Personnel
@@ -87,7 +88,7 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 **The software specialist** Current status: in the jail, tasked with building an interface between the raiders' detection device and the main mining systems under raider supervision.
 
-**Sandra Vael** Current status: helping Gerald in his fight against Aran. 
+**Sandra Vael** Current status: with Gerald in the ore processing plant.
 - Shot her close friend and colleague Minka Brinberg during the ambush at her cabin — an impulsive act she has not fully come to terms with, but has begun to process. Her relationship with Gerald is on stable ground following a difficult conversation over comms.
 
 **Davel Oren** Current status: at the settlement.
@@ -106,13 +107,13 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 
 ## Gerald's Current Position
 
- Gerald is in the ore processing plant, fighting Aran.
+ Gerald is in the ore processing plant, unconscious after the fight with Aran. Sandra is with him.
 
 ---
 
 ## Gerald's Condition
 
-Gerald is bruised down his entire left side from a buggy explosion he was near and a gunshot deflected by ballistic plates. Also has a foot injury from loading the backup dish and was kicked in the face by Aran.
+Gerald is bruised down his entire left side from a buggy explosion he was near and a gunshot deflected by ballistic plates. Also has a foot injury from loading the backup dish and was kicked in the face and stabbed in the chest by Aran. Also was clipped by a gunshot to the shoulder. Unconscious.
 
 ---
 
@@ -157,3 +158,4 @@ Ferris has been recruited.
 - Can Ferris convince Bran to turn as well, committing the entire mining complex leadership to supporting Gerald?
 - Aran was supposed to deliver Gerald to the ship. When he doesn't appear, how long before the officer concludes something went wrong?
 - Where will the missile be positioned outside the settlement, and what does its defensive disposition look like?
+- How long before patrols come looking for Aran?
