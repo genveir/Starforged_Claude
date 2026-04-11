@@ -28,3 +28,5 @@ These are locations that have been mentioned in narrative, it is not an exhausti
 - Ridge, ~1km from settlement *(shuttle landing site)*
 - The Service Track *(Runs between settlement and mine)*
 - The cable junction *(About an hour's walk from the mining complex)*
+- Solomon Mont *(Highest point for hundreds of kilometers)*
+  - The old survey redoubt *(Fortified by the raiders, site of the surface missile)*

@@ -1,23 +1,21 @@
 # Next Session
 
-**Session: 17**
+**Session: 18**
 
 ## Session Opens With
-Gerald is on the floor of the ore processing plant, unconscious, wounded, with Sandra Vael beside him and Aran's body nearby. The signal jammer is still active.
+Gerald and Davel are on fast bikes on the service track, riding for Solomon Mont, with forty armed miners already moving ahead of them in buggies.
 
 ## Immediate Practical Concerns
-- **Gerald is in bad shape.** Health 0, wounded — cannot increase health until he receives proper medical care. A medic is now critical, not urgent.
-- **The jammer is still active.** No one outside knows what happened. The circle cannot reach Gerald, and Gerald cannot reach them. Someone needs to deactivate it and get eyes on the situation outside.
-- **The patrols will come looking.** Aran was supposed to deliver Gerald to the ship. When that doesn't happen, it's only a matter of time before someone comes through that door.
-- **The missile is already being offloaded.** Aran confirmed it accidentally. The central tactical problem of the arc is further along than anyone knew. The circle needs to know immediately.
-- **Sandra is exposed.** She has fired shots, left Davel's compartment, and killed a mercenary sergeant. There is no going back to cover for her.
-- **Aran's body.** A dead merc sergeant in the ore processing plant is a problem that compounds with every hour it sits there.
+- **The missile is at Solomon Mont, not yet operational.** Six mercenaries are setting up the survey redoubt as a fortified position. The window to hit them before they are dug in may be closing.
+- **Graff cannot be warned.** The main dish is dead, the backup dish cut. The Steady Return does not know about the missile. Whatever Graff does, he will do without that knowledge.
+- **Four mercs hold the inn at the settlement.** Machine gun at the door. Fortified. The circle needs a plan to take them without a massacre.
+- **Linde is still in the jail.** The software specialist remains a prisoner. The jail is unguarded, just locked. Freeing her should not be hard at this point.
+- **Supply is at 2.** Gerald is running lean. No resupply available until the settlement is taken or the Steady Return can come in.
 
 ## Pending Mechanical Moves
 - None active.
 
 ## Active Narrative Threads
-- Hamzi is still silent. His status remains unconfirmed.
-- Ferris committed to bring Bran around. Whether that has happened is unresolved.
-- Several settlers remain in jail following the ration crackdown.
-- The missile plan is active and Gerald has just learned a missile is being moved to the surface.
+- The officer's trap is being set — the Carronade will begin maneuvering to chase the Steady Return once the missile is in position. Timing is the critical unknown.
+- Davel and Sandra are both at progress 8/10 — Forge a Bond is close for both if the endgame delivers the right moment.
+- Bran's commitment to the fight has not been tested under fire. Forty miners are armed and moving, but they are miners, not soldiers.

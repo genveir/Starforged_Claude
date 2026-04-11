@@ -8,7 +8,7 @@ This document is intended to hold information that is likely to change during th
 
 **Complement** Started at fifteen to twenty personnel, see Clocks.md for current figure.
 
-**Shuttle** The raider's shuttle is on the pad in the settlement. The "surface missile" from the missile plan is currently in its hold.
+**Shuttle** The raider's shuttle is at the missile site.
 
 **Tactical position:** 
 - The raider is in low orbit over the settlement. It is strategically bound to this position — its leverage over the Steady Return is entirely the people on the ground. If it moves to chase the Steady Return it abandons that leverage, and the Steady Return is faster and more FTL-capable.
@@ -20,21 +20,21 @@ This document is intended to hold information that is likely to change during th
 - Two escort mercenaries and Minka Brinberg were killed in an ambush at her cabin.
     - Minka's death has removed the raiders' primary interpreter of the survey data.
     - The raiders know this was a commando action by Steady Return personnel, but have not accounted for local involvement — their security response has intensified outward-facing rather than inward. 
-    - They pulled a long-range laser air-defence cannon from their ship and mounted it on the settlement hub overnight.
-- The raiders have updated their patrol posture. Pairs only, on alert for a commando strike.
 - The cable between the detection device and the mining complex has been destroyed.
     - This has completely halted progress on the Old World weapon project
     - Two raiders were killed while on patrol near the site
 - The raiders have visually seen Steady Return's shuttle leaving the site of the cable demolition. They have confirmation of the commando threat.
-- The raider's have started the missile plan as outlined in the narrator notes.
-    - Aran has confirmed one missile is sitting in the cargo hold of the shuttle.
+- Aran Chrion was killed in the settlement
+- The raiders have started the missile plan as outlined in the narrator notes.
+    - One missile has been transported to Solomon Mont.
     - The Carronade still carries the other missile.
-
+    - They brought a long range laser air defence cannon to the missile site as well.
+    - They have disabled all surface-to-orbit communications. Neither Steady Return nor Carronade can connect to ground forces.
 ---
 
 ## Known Raider Personnel
 
-**Tom** - Current status: in the settlement.
+**Tom** - Current status: on the raider ship.
 
 **Tirza** - Current status: on the raider ship.
 
@@ -44,7 +44,11 @@ This document is intended to hold information that is likely to change during th
 
 The settlement has a supply situation that is more dire than most settlers know: Carl Inswich has been obscuring the true figures to prevent panic. See Clocks.md for current estimate.
 
-The  raiders have locked down food stores, put the settlement on enforced rations and jailed several settlers following protests. Tension significantly elevated.
+The  raiders have taken most of the food into the inn and barricaded themselves inside with a machine gun covering the only entrance.
+
+Main comms dish has been disabled, critical components removed by the raiders.
+
+Several citizens are still in jail, which is unguarded now, just locked.
 
 ---
 
@@ -56,9 +60,9 @@ Members: Gerald Finch, Carl Inswich, Davel Oren, Hamzi, Sandra Vael, Maria Reyes
 
 The circle has a working understanding of the raiders' true purpose, assembled from two sources: the data pad and Minka's speech in session 7. The circle does not know what exactly the raiders are looking for. 
 
-The data pad logging traffic between device and mine is with Gerald. It continues to log all data passing through the line as long as Hamzi's listener remains active.
+The data pad logging traffic between device and mine is with Sandra. It contains all data logged until the cable was blown by Gerald.
 
-The settlement's comms dish has a hardware tap installed by the raiders — a redirect, not a block. All outbound traffic not addressed to the raider's ship was being copied and forwarded to them. Every contact attempt Gerald made since landing was received by the raiders. Hamzi has installed a software redirect below the layer the raiders can see, routing Gerald's outbound traffic to the backup dish at the mining complex instead. The hardware tap on the main dish remains physically in place and the raiders do not know it has been bypassed.
+The circle knows about the broad outline of the missile plan and the location of the missile site.
 
 ### The Monitoring Blacklist
 
@@ -69,51 +73,49 @@ The settlement's communication infrastructure is controlled by Hamzi, who is roo
 **Gerald**
 - Ballistic plates fitted into suit
 - Satchel charge
-**Carl Inswich** — Sidearm
+- Rifle
+- Sidearm
+- Signal jammer. The jammer can be remotely activated and kills all comms in the immediate area once activated — including the circle's own — so it cannot be deactivated remotely.
 **Davel Oren** — Sidearm
 **Maria Reyes** - Sidearm
 **Sandra Vael** - Sidearm
 
-- Signal jammer. The jammer can be remotely activated and kills all comms in the immediate area once activated — including the circle's own — so it cannot be deactivated remotely.
-    - Currently active in the ore processing plant
-- Rifle
-    - On the floor in the mainteance corridor
 ---
 
 ## Key Settlement Personnel
 
-**Hamzi** Current status: not answering calls. Likely called in to assess damage and opine on repair options when the cable junction was blown.
+**Hamzi** Current status: at the settlement.
 
 **Carl Inswich** Current status: at the settlement.
 
-**The software specialist** Current status: in the jail, tasked with building an interface between the raiders' detection device and the main mining systems under raider supervision.
+**Linde** Current status: in the jail.
 
-**Sandra Vael** Current status: with Gerald in the ore processing plant.
-- Shot her close friend and colleague Minka Brinberg during the ambush at her cabin — an impulsive act she has not fully come to terms with, but has begun to process. Her relationship with Gerald is on stable ground following a difficult conversation over comms.
+**Sandra Vael** Current status: at the settlement.
+- Shot her close friend and colleague Minka Brinberg during the ambush at her cabin — an impulsive act she has not fully come to terms with, but has begun to process. Having a job to do in the endgame has helped her considerably.
 
-**Davel Oren** Current status: at the settlement.
+**Davel Oren** Current status: riding to Solomon Mont with Gerald.
+
+**Inara** Current status: at the settlement.
 
 ---
 
 ## Key Mining Complex Personnel
 
-**Maria Reyes** Current status: At the mining complex.
+**Maria Reyes** Current status: Moving to Solomon Mont with forty armed miners in buggies.
 
-**Ferris** Current status : At the mining complex. Committed to talk to Bran to bring him around as well.
-
-**Bran** Current status: At the mining complex.
+**Bran** Current status: Moving to Solomon Mont with forty armed miners in buggies.
 
 ---
 
 ## Gerald's Current Position
 
- Gerald is in the ore processing plant, unconscious after the fight with Aran. Sandra is with him.
+ Gerald and Davel are on fast bikes on the service track, riding for Solomon Mont.
 
 ---
 
 ## Gerald's Condition
 
-Gerald is bruised down his entire left side from a buggy explosion he was near and a gunshot deflected by ballistic plates. Also has a foot injury from loading the backup dish and was kicked in the face and stabbed in the chest by Aran. Also was clipped by a gunshot to the shoulder. Unconscious.
+Gerald is recovered and functional. Shoulder still healing — full use not yet restored but operational.
 
 ---
 
@@ -129,33 +131,26 @@ A resupply ship came into system on day 5, was turned away by the raiders, and i
 
 The Steady Return has deployed relay drones positioned high on the far side of the moon to maintain communications with Gerald during the surface operation.
 
-Communication with Gerald has been restored via the backup dish at the mining complex and the crater rim relay tower.
-
-The Steady Return has deployed its shuttle, piloted by Paul Ortoff. It is currently taking Maria back to the mining complex, after which it will return to Steady Return.
+Comms are completely blacked out after the raiders took out both dishes on the surface.
 
 ---
 
 ## The Mining Complex
 
-The complex has two raiders assigned to it, not particularly alert. They do not know the miners well enough to question routine vehicle movements or work schedules. Their presence is for oversight rather than active security.
-
 The complex leadership — Ferris and Bran — were cooperating with the raiders. Their calculation was pragmatic: they cannot fight, and the raiders have indicated they will leave once they have what they came for. The leadership does not know what the raiders are looking for. They are moving survey equipment and digging holes as directed and asking no further questions. They have been convinced by Gerald that they may have to fight, but are keeping their heads down until he calls them. The orbital threat is too great.
 
-A cable ran from the mining complex to the settlement, carrying data between the device the raiders brought and the mining systems. This cable was the operational link enabling the old world weapon detection operation. It has been destroyed by Gerald
+A cable ran from the mining complex to the settlement, carrying data between the device the raiders brought and the mining systems. This cable was the operational link enabling the old world weapon detection operation. It has been destroyed by Gerald.
 
-Hidden weapons cache — when the raiders arrived and began talking about confiscating personal weapons, the miners hid their firearms in the mine shafts rather than surrendering them. The two assigned raiders have never gone looking. The cache is substantial enough to arm a serious resistance.
+Hidden weapons cache — when the raiders arrived and began talking about confiscating personal weapons, the miners hid their firearms in the mine shafts rather than surrendering them. The raiders never found it. The cache is substantial enough to arm a serious resistance.
 
-Ferris has been recruited.
+Ferris and two other miners were shot by the raiders before they pulled out. The miners have armed themselves and have been tasked to move to Solomon Mont. Forty of them are on the move. Hamzi has put them on a separate subnet so their communications are shielded from raider oversight. They also can't reach anyone but the circle in the settlement at the moment, and no one can reach them.
 
 ---
 
 ## Open Questions
 
-- Who among the settlers has the spine and capability to organise resistance beyond the current circle?
-- What exactly does the settlement have that could be turned against the raider? Extraction explosives, heavy machinery, and ore-launching infrastructure are all possibilities.
 - Can the raider's two remaining missiles be neutralised, exhausted, or bypassed?
-- What exactly is buried under the moon's surface, and how close are the raiders to pinpointing its location?
-- Can Ferris convince Bran to turn as well, committing the entire mining complex leadership to supporting Gerald?
-- Aran was supposed to deliver Gerald to the ship. When he doesn't appear, how long before the officer concludes something went wrong?
-- Where will the missile be positioned outside the settlement, and what does its defensive disposition look like?
-- How long before patrols come looking for Aran?
+- What exactly is buried under the moon's surface, and how close were the raiders to pinpointing its location?
+- What does the defensive disposition at Solomon Mont look like — how dug in are the six mercs before Gerald and the miners arrive?
+- Will Graff read the situation correctly without a warning about the missile?
+- What is the condition of the prisoners in the jail, and were they mistreated?

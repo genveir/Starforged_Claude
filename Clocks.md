@@ -5,13 +5,13 @@ Tracked values that change incrementally between sessions. Updated at end of ses
 ---
 
 ## Campaign Day
-**Current day:** 6
+**Current day:** 8
 Day 1 = the day Gerald arrived at Raiman's Folly.
 
 ---
 
 ## Settlement Supply Clock
-**Days remaining:** ~20
+**Days remaining:** ~18
 At 21 on day 5, updated after the raiders put the settlement on rations.
 
 ---
@@ -25,14 +25,13 @@ The software specialist was building an interface between the detection instrume
 ## Raider Complement
 **Current total:** 13
 Started at approximately 15–20. 
-Two mercenaries killed at Minka Brinberg's cabin ambush (session 7). 
-Two mercenaries killed on the service track (session 13).
-Exact number left confirmed at 14 in a vignette. (session 15).
-Aran Chrion killed in the ore processor (session 16).
+- Four mercenaries remain in the settlement, at the inn.
+- Six mercenaries have been posted at the missile site.
+- The officer and both lieutenants are aboard the Carronade.
 
 ---
 
 ## Raider Missiles
 **Current missile count** 2
 Started at 2.
-1 remains on the Carronade, the other one is on the ground as part of the officer's escalation.
+1 remains on the Carronade, the other one is on the ground at Solomon Mont.

@@ -33,16 +33,16 @@ In his lawman years he was known across a wide rural territory simply as The Law
 ## Condition Meters
 | Meter | Value | Max |
 |---|---|---|
-| Health | 0 | 5 |
-| Spirit | 2 | 5 |
-| Supply | 4 | 5|
-| Momentum | 4 | 10 |
+| Health | 4 | 5 |
+| Spirit | 5 | 5 |
+| Supply | 2 | 5|
+| Momentum | 6 | 10 |
 
 Momentum reset: 2, or 3 in combat
 
 ### Impacts
 
-Wounded
+None
 
 ---
 
@@ -117,13 +117,13 @@ Two years of mutual respect and daily proximity. The relationship is warm and ge
 **Sonnet navy contacts** — *naval officers, Sonnet planetary faction*. Rank: formidable. Progress: 0/10.
 Well-placed friends from Gerald's service days who vouched for him when he needed it. Useful for information, favours, and institutional access within the Sonnet faction's reach. Reforming a genuine personal bond with any of them would take real work. If a specific individual becomes significant, split them into their own entry.
 
-**Davel Oren** — *mining foreman, night extraction crew, Raiman's Folly*. Rank: dangerous. Progress: 6/10.
+**Davel Oren** — *mining foreman, night extraction crew, Raiman's Folly*. Rank: dangerous. Progress: 8/10.
 A familiar face from two years of stops on the route. Quiet, practical, not a man who hesitates when he's decided something. Knows the industrial infrastructure intimately — cutting equipment, extraction explosives, heavy machinery, access shafts and maintenance passages.
 
 **Carl Inswich** — *resupply manager, Raiman's Folly*. Rank: troublesome. Progress: 0/10.
 Known through two years of cargo runs and manifests. Steady under pressure, not a man who dramatises. Knows the settlement's supply situation to the day.
 
-**Sandra Vael** — *survey team lead, Raiman's Folly*. Rank: dangerous. Progress: 6/10.
+**Sandra Vael** — *survey team lead, Raiman's Folly*. Rank: dangerous. Progress: 8/10.
 Quiet, comes off slow, is not slow. Whip smart, iron core. Knows the survey data better than anyone at the settlement.
 
 **Hamzi** — *communications officer, Raiman's Folly*. Rank: troublesome. Progress: 6/10.

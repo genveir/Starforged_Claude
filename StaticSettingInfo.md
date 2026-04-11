@@ -75,6 +75,8 @@ The circle is the core of Gerald's resistance operation — the people inside th
 
 **Aran Chrion** — merc sergeant. Broad, unhurried, with the deliberate quality of someone who uses cruelty and discomfort as a tool. Had authority over the rank and file mercenaries and appeared to enjoy exercising it. Killed by Gerald and Sandra when a trap he'd set for Gerald backfired.
 
+**Ferris** — shift supervisor, mining complex. Older, methodical, experienced enough to make cooperation with the raiders look like pragmatism rather than cowardice. Kept his crew's heads down and their mouths shut — including about the weapons cache. Made the wrong call and knew it. Committed to Gerald when the real timeline was put in front of him. Shot dead by the raiders before they pulled out of the mining complex altogether.
+
 ---
 
 ## Key Settlement Personnel
@@ -83,13 +85,15 @@ The circle is the core of Gerald's resistance operation — the people inside th
 
 **Carl Inswich** — resupply manager. Responsible for managing incoming supplies against the settlement's consumption and coordinating with courier ships. Known through two years of cargo runs and manifests. Steady under pressure, not a man who dramatises. Knows the settlement's supply situation to the day.
 
-**The software specialist** — name not yet established. A member of the settlement's technical staff, taken to the jail by the raiders shortly after their arrival.
+**Linde** (last name unknown) — software specialist. A member of the settlement's technical staff, taken to the jail by the raiders shortly after their arrival.
 
 **Sandra Vael** — survey team lead. One of four survey team leads; her team came in on rotation just before the raiders arrived. Quiet, comes off slow, is not slow. Whip smart, iron core. Knows the survey data better than anyone at the settlement.
 
 **Davel Oren** — mining foreman, night extraction crew. Quiet, practical, not a man who hesitates when he's decided something. Knows the industrial infrastructure intimately — cutting equipment, extraction explosives, heavy machinery, access shafts and maintenance passages. Has contacts among the repair crews who know the maintenance infrastructure and can be called on quietly.
 
-**Other service personnel present but not yet characterised:** innkeeper, notary, hardware supplier, two doctors, two nurses, maintenance and repair staff.
+**Inara** (last name unknown) — doctor. In her fifties, stress talker. Functional character, no deep arc.
+
+**Other service personnel present but not yet characterised:** innkeeper, notary, hardware supplier, another doctor, two nurses, maintenance and repair staff.
 
 ---
 
@@ -97,9 +101,7 @@ The circle is the core of Gerald's resistance operation — the people inside th
 
 **Maria Reyes** — miner. Mid-twenties, from Spinfeld, Sonnet — one of the villages under Gerald's jurisdiction during his lawman years. Knew him only as The Lawman. Came to Raiman's Folly a few months ago for the money and the distance from home. Brash, allergic to authority. Sees Davel as a mentor. 
 
-**Ferris** — shift supervisor, mining complex. Older, methodical, experienced enough to make cooperation with the raiders look like pragmatism rather than cowardice. Kept his crew's heads down and their mouths shut — including about the weapons cache. Made the wrong call and knows it. Committed to Gerald when the real timeline was put in front of him.
-
-**Bran** — shift supervisor, mining complex. The other cooperating supervisor.
+**Bran** — shift supervisor, mining complex. Came around when Ferris was shot by the raiders. Armed the miners and chased them out of the complex. Now in charge of the miner militia.
 
 ---
 
