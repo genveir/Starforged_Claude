@@ -55,6 +55,34 @@ Key assumptions: Gerald has sufficient organised settlers ready to assault a hea
 
 ---
 
+### Solomon Mont — Location and Positions
+
+Solomon Mont is the highest point on Raiman's Folly for hundreds of kilometers, chosen by the raiders for its unobstructed orbital line of sight. It is reached by a gentle incline — defensible only in the sense that the approach is reasonably open ground with good visibility in all directions. No natural chokepoints. Low gravity and no atmosphere mean perfect visibility at range, no sound, and cover mattering enormously.
+
+**Position Alpha** is the missile site: approximately 100 meters from the defensive position, slightly higher on the incline. The missile is approximately 8 meters long, stored horizontal on a launch erector with sandbags around it. It is effectively unmanned — there is no reason to station people next to a missile in the open. Someone may check on it periodically. The sandbags offer limited protection against small arms; a satchel charge ends the operation entirely. Getting the missile into firing position requires time, but is automated.
+
+**Position Bravo** is the defensive position: the old survey site, built from habitat modules designed for vacuum survival rather than defense. The mercs have added improvised cover from equipment cases and shuttle cargo, but had limited time to do it properly. The AA cannon is here. The shuttle pad is here. All six mercenaries are based here. It is oriented to defend against the expected threat — a small, skilled commando team — not a mass assault from multiple angles simultaneously.
+
+---
+
+### The Solomon Mont Assault
+
+**The Plan as Designed**
+
+The assault force splits into two elements. The commando team — Gerald, Maria, Davel — approaches Alpha from the opposite side of the mont from Bravo, moving on the missile while the main assault fixes the defenders. The miners, led by Bran, advance on Bravo from the front: dispersed, high volume of fire, thrown explosive charges targeting the shuttle on the pad before it can lift. The expectation is that the shuttle is destroyed or disabled before it becomes airborne, after which six tired people in improvised cover against forty with ordnance incoming is a fight that breaks fast. The commando team rigs the missile with a radio-controlled detonator, then advances on Bravo to flank the defenders. The missile is detonated remotely once the position is secured.
+
+**What Goes Wrong**
+
+The pilot is in the seat — running checks, on standby, asleep in the cockpit, whatever fits the moment. He sees the ordnance arcing in and scrambles before it arrives. The charges land on an empty pad. The shuttle is airborne and undamaged, and the miners have spent their opening ordnance on a target that didn't hold still.
+
+The miners are now in the worst position of the assault: committed to the advance, not yet close enough to Bravo for their numbers to work in their favor, with an undamaged shuttle making passes. They take losses. Bran holds them on task through will alone, but the margin is thinning.
+
+**The Resolution**
+
+The commando team on Alpha knows the plan has diverged the moment the shuttle lifts. The missile still has to be rigged correctly — that timeline doesn't compress. The team reaches Bravo's flank while the miners are at their hardest moment, rolls up the defenders, and turns the AA cannon on the shuttle.
+
+---
+
 ### Opposition Calculus
 
 The raiders are not a unified actor. The officer and the mercenary complement have different interests, different tolerances, and different breaking points. Understanding both is as important as understanding their weapons.

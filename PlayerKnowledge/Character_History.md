@@ -92,7 +92,7 @@ He has been that man before. It has never led anywhere simple.
 
 ---
 
-## What Gerald Doesn't Know Yet
+### What Gerald Doesn't Know Yet
 
 The raiders didn't arrive at Raiman's Folly by accident. A ship that well-armed and well-configured costs real resources to maintain. Someone outfitted these people. Someone may be directing them. Raiman's Folly has high metallicity and promising mining prospects — the kind of prospects that, if they pan out, would be worth a great deal to the right faction. Raiders are a cheap and deniable way to soften up a settlement before moving in properly.
 

@@ -29,4 +29,4 @@ These are locations that have been mentioned in narrative, it is not an exhausti
 - The Service Track *(Runs between settlement and mine)*
 - The cable junction *(About an hour's walk from the mining complex)*
 - Solomon Mont *(Highest point for hundreds of kilometers)*
-  - The old survey redoubt *(Fortified by the raiders, site of the surface missile)*
+  - The old survey site *(Fortified by the raiders, site of the surface missile)*

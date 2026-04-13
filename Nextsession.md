@@ -6,7 +6,7 @@
 Gerald and Davel are on fast bikes on the service track, riding for Solomon Mont, with forty armed miners already moving ahead of them in buggies.
 
 ## Immediate Practical Concerns
-- **The missile is at Solomon Mont, not yet operational.** Six mercenaries are setting up the survey redoubt as a fortified position. The window to hit them before they are dug in may be closing.
+- **The missile is at Solomon Mont, not yet operational.** Six mercenaries are setting up the survey site as a fortified position. The window to hit them before they are dug in may be closing.
 - **Graff cannot be warned.** The main dish is dead, the backup dish cut. The Steady Return does not know about the missile. Whatever Graff does, he will do without that knowledge.
 - **Four mercs hold the inn at the settlement.** Machine gun at the door. Fortified. The circle needs a plan to take them without a massacre.
 - **Linde is still in the jail.** The software specialist remains a prisoner. The jail is unguarded, just locked. Freeing her should not be hard at this point.
